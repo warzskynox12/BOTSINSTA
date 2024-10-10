@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "24af2646-c28b-46c4-ab3c-59778dcda914",
+            "login": "yanis.larsa",
+            "displayName": "LARSA Yanis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LARSA Mohamed",
+            "relatedId": "834e468f-0b8b-43c5-a666-da3c5a3cf36f",
+            "relatedType": null,
+            "userId": "24af2646-c28b-46c4-ab3c-59778dcda914",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "24af2646-c28b-46c4-ab3c-59778dcda914",
+            "login": "yanis.larsa",
+            "displayName": "LARSA Yanis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIEUX Sandrine",
+            "relatedId": "154144d7-39e8-4b22-b718-d2ffd7d11998",
+            "relatedType": null,
+            "userId": "24af2646-c28b-46c4-ab3c-59778dcda914",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

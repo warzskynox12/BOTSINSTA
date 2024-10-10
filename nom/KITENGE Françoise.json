@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5ff21497-bf10-4e43-9f67-28f6c76cc641",
+            "login": "francoise.kitenge",
+            "displayName": "KITENGE Françoise",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KITENGE Pierre Damien",
+            "relatedId": "b6235204-f734-4bbc-9bc6-8861b6d8c16a",
+            "relatedType": null,
+            "userId": "5ff21497-bf10-4e43-9f67-28f6c76cc641",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "5ff21497-bf10-4e43-9f67-28f6c76cc641",
+            "login": "francoise.kitenge",
+            "displayName": "KITENGE Françoise",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KITENGE Thérèse",
+            "relatedId": "81faed29-0c93-495f-9f21-5b4ca2f9ceb6",
+            "relatedType": null,
+            "userId": "5ff21497-bf10-4e43-9f67-28f6c76cc641",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

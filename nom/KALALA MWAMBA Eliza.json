@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "29b8ae31-75b8-4742-ad20-52a645ba8772",
+            "login": "eliza.kalalamwamba",
+            "displayName": "KALALA MWAMBA Eliza",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KALALA MWAMBA Franzette",
+            "relatedId": "9ed4a2d4-049a-46bd-84af-6e8dadccbc3f",
+            "relatedType": null,
+            "userId": "29b8ae31-75b8-4742-ad20-52a645ba8772",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "29b8ae31-75b8-4742-ad20-52a645ba8772",
+            "login": "eliza.kalalamwamba",
+            "displayName": "KALALA MWAMBA Eliza",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KALALA MWAMBA Jean-Louis",
+            "relatedId": "3425435c-fb52-4f2a-8b33-59a7ca7cbe7f",
+            "relatedType": null,
+            "userId": "29b8ae31-75b8-4742-ad20-52a645ba8772",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

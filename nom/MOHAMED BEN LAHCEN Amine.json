@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5bd1b2ca-84dc-4b81-9d46-d694a7f52031",
+            "login": "amine.mohamedbenlahcen",
+            "displayName": "MOHAMED BEN LAHCEN Amine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "IDHAMOU Sabrina",
+            "relatedId": "93645099-3a9a-4c92-afa3-75d63b57cba1",
+            "relatedType": null,
+            "userId": "5bd1b2ca-84dc-4b81-9d46-d694a7f52031",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

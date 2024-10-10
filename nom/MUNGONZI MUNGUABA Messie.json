@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "48b267eb-6ab9-432f-b729-6f08905f630a",
+            "login": "messie.mungonzimunguaba",
+            "displayName": "MUNGONZI MUNGUABA Messie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAYA BOUECKS Pierrette",
+            "relatedId": "7e4bf3c0-6366-44bd-81e0-d4c11d001a3e",
+            "relatedType": null,
+            "userId": "48b267eb-6ab9-432f-b729-6f08905f630a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "48b267eb-6ab9-432f-b729-6f08905f630a",
+            "login": "messie.mungonzimunguaba",
+            "displayName": "MUNGONZI MUNGUABA Messie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MUNGONZI MUNGUABA Eddy",
+            "relatedId": "95f20d1f-c7df-4992-a7f0-220c0ad8c36e",
+            "relatedType": null,
+            "userId": "48b267eb-6ab9-432f-b729-6f08905f630a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

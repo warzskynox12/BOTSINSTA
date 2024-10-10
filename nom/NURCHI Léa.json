@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "29cf4e73-1212-48c3-bdb6-0f4c7f41fd5a",
+            "login": "lea.nurchi",
+            "displayName": "NURCHI Léa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NURCHI Massimo",
+            "relatedId": "2f03fbda-5048-470b-9dce-6b4f54c45f4e",
+            "relatedType": null,
+            "userId": "29cf4e73-1212-48c3-bdb6-0f4c7f41fd5a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "29cf4e73-1212-48c3-bdb6-0f4c7f41fd5a",
+            "login": "lea.nurchi",
+            "displayName": "NURCHI Léa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BALDUCCI Vénissia",
+            "relatedId": "2f75b73f-22a1-452b-8069-95bd36416832",
+            "relatedType": null,
+            "userId": "29cf4e73-1212-48c3-bdb6-0f4c7f41fd5a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

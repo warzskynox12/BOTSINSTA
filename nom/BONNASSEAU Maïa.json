@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "45d31a02-8964-41b6-8ee9-200ecb85986d",
+            "login": "maia.bonnasseau",
+            "displayName": "BONNASSEAU Maïa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BONNASSEAU Jean-Luc",
+            "relatedId": "58c060d7-15cb-4360-a890-b8cc4c617774",
+            "relatedType": null,
+            "userId": "45d31a02-8964-41b6-8ee9-200ecb85986d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "45d31a02-8964-41b6-8ee9-200ecb85986d",
+            "login": "maia.bonnasseau",
+            "displayName": "BONNASSEAU Maïa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BONNASSEAU Patricia",
+            "relatedId": "7b4f48bb-b20e-4057-87da-c6c3b1e58035",
+            "relatedType": null,
+            "userId": "45d31a02-8964-41b6-8ee9-200ecb85986d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

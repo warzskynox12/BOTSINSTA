@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0f77cfb4-ab7e-4b24-a407-65bc4e8a9d27",
+            "login": "hugoalexandre.ribeiro-teixeira",
+            "displayName": "RIBEIRO-TEIXEIRA Hugo Alexandre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TEIXEIRA Paulo",
+            "relatedId": "380b89f3-2efc-4e6e-b7fb-0dba6192144a",
+            "relatedType": null,
+            "userId": "0f77cfb4-ab7e-4b24-a407-65bc4e8a9d27",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0f77cfb4-ab7e-4b24-a407-65bc4e8a9d27",
+            "login": "hugoalexandre.ribeiro-teixeira",
+            "displayName": "RIBEIRO-TEIXEIRA Hugo Alexandre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RIBEIRO-TEIXEIRA Francisca",
+            "relatedId": "0b9ac833-8c76-4157-9224-9b2ed6ca84b5",
+            "relatedType": null,
+            "userId": "0f77cfb4-ab7e-4b24-a407-65bc4e8a9d27",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

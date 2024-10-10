@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fff3c5ea-86ec-4919-92ab-83e123d90ee7",
+            "login": "raphael.lidon",
+            "displayName": "LIDON Raphaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LIDON Philippe",
+            "relatedId": "49df44b7-a1b7-430a-83ee-310f3366cb85",
+            "relatedType": null,
+            "userId": "fff3c5ea-86ec-4919-92ab-83e123d90ee7",
+            "motto": "",
+            "photo": "/userbook/avatar/fff3c5ea-86ec-4919-92ab-83e123d90ee7",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fff3c5ea-86ec-4919-92ab-83e123d90ee7",
+            "login": "raphael.lidon",
+            "displayName": "LIDON Raphaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THRO Dominique",
+            "relatedId": "8bde1e88-badf-491e-bd5a-dc29e1df38c2",
+            "relatedType": null,
+            "userId": "fff3c5ea-86ec-4919-92ab-83e123d90ee7",
+            "motto": "",
+            "photo": "/userbook/avatar/fff3c5ea-86ec-4919-92ab-83e123d90ee7",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

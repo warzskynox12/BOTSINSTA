@@ -1,0 +1,129 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6983c761-1db6-4f72-9a37-0a6cdef9c5c3",
+            "login": "betty.ekilankumu",
+            "displayName": "EKILA NKUMU Betty",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "EKILA Marie-Jose",
+            "relatedId": "2392732c-2209-4ccf-9dad-b76813da2414",
+            "relatedType": null,
+            "userId": "6983c761-1db6-4f72-9a37-0a6cdef9c5c3",
+            "motto": "Laissez nous vivre ou laissez nous mourir jeunes ",
+            "photo": "",
+            "mood": "proud",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Athlétisme "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "I want to eat your pancréas "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "I want to break free "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Toilette "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "6983c761-1db6-4f72-9a37-0a6cdef9c5c3",
+            "login": "betty.ekilankumu",
+            "displayName": "EKILA NKUMU Betty",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "EKILA Freddy",
+            "relatedId": "82c44000-fca2-470c-b97b-7d8320adc4db",
+            "relatedType": null,
+            "userId": "6983c761-1db6-4f72-9a37-0a6cdef9c5c3",
+            "motto": "Laissez nous vivre ou laissez nous mourir jeunes ",
+            "photo": "",
+            "mood": "proud",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Athlétisme "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "I want to eat your pancréas "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "I want to break free "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Toilette "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

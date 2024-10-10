@@ -1,0 +1,143 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c7a87b27-1c42-4177-8ade-2ab7b70fbfb1",
+            "login": "evan.monchiet",
+            "displayName": "MONCHIET Evan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MONCHIET Valérie",
+            "relatedId": "fbbbbf25-65bd-42d9-8799-1514d534f7e5",
+            "relatedType": null,
+            "userId": "c7a87b27-1c42-4177-8ade-2ab7b70fbfb1",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "esport, Valorant"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Outer Wilds, c'est pas un film, mais un jeu, mais il est tellement beau, c'est pas grave."
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "chat"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "TROP DE MUSIQUE"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Ma Chambre"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "berserk"
+                }
+            ]
+        },
+        {
+            "id": "c7a87b27-1c42-4177-8ade-2ab7b70fbfb1",
+            "login": "evan.monchiet",
+            "displayName": "MONCHIET Evan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MONCHIET Luc",
+            "relatedId": "dd115272-946e-41dc-aa2b-94f872dc6d91",
+            "relatedType": null,
+            "userId": "c7a87b27-1c42-4177-8ade-2ab7b70fbfb1",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "esport, Valorant"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Outer Wilds, c'est pas un film, mais un jeu, mais il est tellement beau, c'est pas grave."
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "chat"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "TROP DE MUSIQUE"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Ma Chambre"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "berserk"
+                }
+            ]
+        }
+    ]
+}

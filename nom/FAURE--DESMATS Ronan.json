@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3b0acd33-9360-4b01-86ea-3fb1b635f5c2",
+            "login": "ronan.faure-desmats",
+            "displayName": "FAURE--DESMATS Ronan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MARTINS Elodie",
+            "relatedId": "9217ecdf-32c6-4cc4-9bbb-3eb0a68845ab",
+            "relatedType": null,
+            "userId": "3b0acd33-9360-4b01-86ea-3fb1b635f5c2",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "worried",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

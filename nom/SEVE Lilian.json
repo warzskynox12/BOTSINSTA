@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "68090a90-4b31-4f4c-a87b-1f60b94874a9",
+            "login": "lilian.seve",
+            "displayName": "SEVE Lilian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LI Henbing",
+            "relatedId": "263bc567-e637-428b-b390-d30eecfeb0cc",
+            "relatedType": null,
+            "userId": "68090a90-4b31-4f4c-a87b-1f60b94874a9",
+            "motto": "Devise",
+            "photo": "/userbook/avatar/68090a90-4b31-4f4c-a87b-1f60b94874a9",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "68090a90-4b31-4f4c-a87b-1f60b94874a9",
+            "login": "lilian.seve",
+            "displayName": "SEVE Lilian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SEVE Emmanuel",
+            "relatedId": "ba130ca2-9f0b-4a8f-acf3-15e2c4e806eb",
+            "relatedType": null,
+            "userId": "68090a90-4b31-4f4c-a87b-1f60b94874a9",
+            "motto": "Devise",
+            "photo": "/userbook/avatar/68090a90-4b31-4f4c-a87b-1f60b94874a9",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

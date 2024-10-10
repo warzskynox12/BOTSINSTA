@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "97bd0e87-22ec-4b44-87c0-5b73cb575791",
+            "login": "noe.vernierdebyans",
+            "displayName": "VERNIER DE BYANS Noé",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VERNIER DE BYANS Julien",
+            "relatedId": "a32cb001-f7a9-4d4a-b0c1-66c43ce2b061",
+            "relatedType": null,
+            "userId": "97bd0e87-22ec-4b44-87c0-5b73cb575791",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "97bd0e87-22ec-4b44-87c0-5b73cb575791",
+            "login": "noe.vernierdebyans",
+            "displayName": "VERNIER DE BYANS Noé",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VELER Fanny",
+            "relatedId": "0856967e-590b-4419-81b7-a1a881c4b2de",
+            "relatedType": null,
+            "userId": "97bd0e87-22ec-4b44-87c0-5b73cb575791",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

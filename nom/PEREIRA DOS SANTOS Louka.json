@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "417f9b86-b725-4ade-bc2d-317f6c1a92d2",
+            "login": "louka.pereiradossantos",
+            "displayName": "PEREIRA DOS SANTOS Louka",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PEREIRA DOS SANTOS Luis",
+            "relatedId": "d8416e6a-0d25-4d67-8225-59bbe64951bd",
+            "relatedType": null,
+            "userId": "417f9b86-b725-4ade-bc2d-317f6c1a92d2",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "417f9b86-b725-4ade-bc2d-317f6c1a92d2",
+            "login": "louka.pereiradossantos",
+            "displayName": "PEREIRA DOS SANTOS Louka",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PEREIRA DOS SANTOS Maria",
+            "relatedId": "03dc85ce-ac30-4e57-8bb9-a1cc45ca84a8",
+            "relatedType": null,
+            "userId": "417f9b86-b725-4ade-bc2d-317f6c1a92d2",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

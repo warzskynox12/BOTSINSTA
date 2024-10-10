@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "e0aec62c-0d36-432a-821f-a29620614f34",
+            "login": "jade.gaza",
+            "displayName": "GAZA Jade",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GUILDA Edom",
+            "relatedId": "3cab529f-bae2-410a-b27a-1e815585bab7",
+            "relatedType": null,
+            "userId": "e0aec62c-0d36-432a-821f-a29620614f34",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4ddee30a-420d-4f0e-aba8-2d4ef9f2dbf4",
+            "login": "mathieu.saiz-oginski--durieux",
+            "displayName": "SAIZ-OGINSKI--DURIEUX Mathieu",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DURIEUX Béatrice",
+            "relatedId": "3de21efd-8178-4454-9b4b-9ea85b719927",
+            "relatedType": null,
+            "userId": "4ddee30a-420d-4f0e-aba8-2d4ef9f2dbf4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "4ddee30a-420d-4f0e-aba8-2d4ef9f2dbf4",
+            "login": "mathieu.saiz-oginski--durieux",
+            "displayName": "SAIZ-OGINSKI--DURIEUX Mathieu",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SAIZ-OGINSKI Hervé",
+            "relatedId": "46219d4d-552a-4718-a1bc-c6ab77462cf2",
+            "relatedType": null,
+            "userId": "4ddee30a-420d-4f0e-aba8-2d4ef9f2dbf4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

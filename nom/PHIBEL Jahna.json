@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4578158d-51bf-4ec4-8f90-120c8936ce76",
+            "login": "jahna.phibel",
+            "displayName": "PHIBEL Jahna",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PHIBEL Judes",
+            "relatedId": "19d41b16-368f-4960-ab27-afca91e08326",
+            "relatedType": null,
+            "userId": "4578158d-51bf-4ec4-8f90-120c8936ce76",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "4578158d-51bf-4ec4-8f90-120c8936ce76",
+            "login": "jahna.phibel",
+            "displayName": "PHIBEL Jahna",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ABOUNA Laetitia",
+            "relatedId": "dc9258b8-8398-49a8-a5c0-88d1aea18009",
+            "relatedType": null,
+            "userId": "4578158d-51bf-4ec4-8f90-120c8936ce76",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "588f536a-5f2b-43ea-a5d2-f9c2a03e3f26",
+            "login": "abdoulrachid.sylla",
+            "displayName": "SYLLA Abdoul Rachid",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SYLLA Mafema",
+            "relatedId": "cf52bc9c-424c-4b36-adaf-4d6125eb6e86",
+            "relatedType": null,
+            "userId": "588f536a-5f2b-43ea-a5d2-f9c2a03e3f26",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

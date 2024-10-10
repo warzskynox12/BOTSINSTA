@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "bc18eeea-07fb-4f0e-ace5-43fbb8004a41",
+            "login": "lana.yang",
+            "displayName": "YANG Lana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "YANG Ngia",
+            "relatedId": "adb9a3d4-3e41-44de-9599-4293d572a5a6",
+            "relatedType": null,
+            "userId": "bc18eeea-07fb-4f0e-ace5-43fbb8004a41",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "bc18eeea-07fb-4f0e-ace5-43fbb8004a41",
+            "login": "lana.yang",
+            "displayName": "YANG Lana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MOUA Kaoy",
+            "relatedId": "64fb7f88-0f52-4dca-a377-a09e7059de3a",
+            "relatedType": null,
+            "userId": "bc18eeea-07fb-4f0e-ace5-43fbb8004a41",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d64469d8-021b-4b4f-a541-856c3edee376",
+            "login": "savanah.pasquier",
+            "displayName": "PASQUIER Savanah",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PASQUIER Gaëlle",
+            "relatedId": "282ffa3e-629d-4e6f-aa6a-17068827b79d",
+            "relatedType": null,
+            "userId": "d64469d8-021b-4b4f-a541-856c3edee376",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d64469d8-021b-4b4f-a541-856c3edee376",
+            "login": "savanah.pasquier",
+            "displayName": "PASQUIER Savanah",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PASQUIER Sébastien",
+            "relatedId": "bdd97d0c-dd2c-4227-926c-0ec2cab65c80",
+            "relatedType": null,
+            "userId": "d64469d8-021b-4b4f-a541-856c3edee376",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

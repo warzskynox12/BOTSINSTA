@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c6845bc3-cb89-4f1a-8630-6245ed19a594",
+            "login": "rose.ceremoniesanches",
+            "displayName": "CEREMONIE--SANCHES Rose",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CEREMONIE Laure",
+            "relatedId": "6b3f8c51-9c70-42be-98d6-73c75f8d10a7",
+            "relatedType": null,
+            "userId": "c6845bc3-cb89-4f1a-8630-6245ed19a594",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c6845bc3-cb89-4f1a-8630-6245ed19a594",
+            "login": "rose.ceremoniesanches",
+            "displayName": "CEREMONIE--SANCHES Rose",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SANCHEZ Arton",
+            "relatedId": "5d1a9924-f048-49af-8d24-f3a2cff74db5",
+            "relatedType": null,
+            "userId": "c6845bc3-cb89-4f1a-8630-6245ed19a594",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

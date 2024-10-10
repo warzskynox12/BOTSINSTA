@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b05f82f8-99e2-46fa-a50b-137d6709d5dd",
+            "login": "johan.daussy",
+            "displayName": "DAUSSY Johan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DAUSSY Caitlin",
+            "relatedId": "123410ef-f0d2-43ec-b0ac-2b36893e8796",
+            "relatedType": null,
+            "userId": "b05f82f8-99e2-46fa-a50b-137d6709d5dd",
+            "motto": "",
+            "photo": "/userbook/avatar/b05f82f8-99e2-46fa-a50b-137d6709d5dd",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "71bb4db0-6f35-434c-a424-75ce5348fe15",
+            "login": "solenne.david2",
+            "displayName": "DAVID Solenne",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DAVID Tamas",
+            "relatedId": "afa4546e-4beb-45e2-934a-0ae34cd4d0ba",
+            "relatedType": null,
+            "userId": "71bb4db0-6f35-434c-a424-75ce5348fe15",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "71bb4db0-6f35-434c-a424-75ce5348fe15",
+            "login": "solenne.david2",
+            "displayName": "DAVID Solenne",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DAVID Beata",
+            "relatedId": "572ba7f8-e79c-4d24-976c-63298b08734f",
+            "relatedType": null,
+            "userId": "71bb4db0-6f35-434c-a424-75ce5348fe15",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

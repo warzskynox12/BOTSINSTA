@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8d8239bb-2cb8-44c1-a205-6d110f6c81c0",
+            "login": "maxens.marie",
+            "displayName": "MARIE Maxens",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LELOUCH-MARIE Loudvina",
+            "relatedId": "16547396-45b8-4f95-b3d7-1bf39e48993c",
+            "relatedType": null,
+            "userId": "8d8239bb-2cb8-44c1-a205-6d110f6c81c0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

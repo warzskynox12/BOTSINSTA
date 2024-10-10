@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "36258ca2-00ce-4463-b2b7-5f1f5f34d717",
+            "login": "shainais.foughali",
+            "displayName": "FOUGHALI Shaïnais",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BEVIS Jennifer",
+            "relatedId": "0b6c3c0f-b75e-4d9f-85d0-0587e03b99b0",
+            "relatedType": null,
+            "userId": "36258ca2-00ce-4463-b2b7-5f1f5f34d717",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

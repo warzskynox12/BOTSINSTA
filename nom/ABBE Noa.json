@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6c0d971c-a969-4408-bdb5-c4ba028a3cc3",
+            "login": "noa.abbe",
+            "displayName": "ABBE Noa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ABBE Veronique",
+            "relatedId": "6dbe5787-1d07-4437-a3a2-8787996889fa",
+            "relatedType": null,
+            "userId": "6c0d971c-a969-4408-bdb5-c4ba028a3cc3",
+            "motto": " 勝者がいる限り、敗者も存在します。参照を認識していただければ幸いです",
+            "photo": "/userbook/avatar/6c0d971c-a969-4408-bdb5-c4ba028a3cc3",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6c0d971c-a969-4408-bdb5-c4ba028a3cc3",
+            "login": "noa.abbe",
+            "displayName": "ABBE Noa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ABBE Benoit",
+            "relatedId": "df351482-4cdc-476f-a5a3-3b01c66c9cc1",
+            "relatedType": null,
+            "userId": "6c0d971c-a969-4408-bdb5-c4ba028a3cc3",
+            "motto": " 勝者がいる限り、敗者も存在します。参照を認識していただければ幸いです",
+            "photo": "/userbook/avatar/6c0d971c-a969-4408-bdb5-c4ba028a3cc3",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

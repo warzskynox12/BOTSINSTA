@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "30269981-12f3-436e-85b7-09c9a68ffef2",
+            "login": "raphael.faura-proust",
+            "displayName": "FAURA-PROUST Raphael",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FAURA Martin Francisco",
+            "relatedId": "f4293bc7-f682-4bd9-87f5-61c938f42057",
+            "relatedType": null,
+            "userId": "30269981-12f3-436e-85b7-09c9a68ffef2",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

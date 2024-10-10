@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8d16545a-5cbc-4832-b494-201b4f9c1cf5",
+            "login": "axelle.bonte",
+            "displayName": "BONTÉ Axelle",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BONTÉ Julien",
+            "relatedId": "d4f9d171-92de-4bcd-b5e5-ee13629f3dd1",
+            "relatedType": null,
+            "userId": "8d16545a-5cbc-4832-b494-201b4f9c1cf5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8d16545a-5cbc-4832-b494-201b4f9c1cf5",
+            "login": "axelle.bonte",
+            "displayName": "BONTÉ Axelle",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RICHARD Vanessa",
+            "relatedId": "bf40355f-0bc1-46bf-bb06-236fe515cc18",
+            "relatedType": null,
+            "userId": "8d16545a-5cbc-4832-b494-201b4f9c1cf5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

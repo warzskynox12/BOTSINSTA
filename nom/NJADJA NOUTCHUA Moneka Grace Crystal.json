@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1e258b3f-d8e1-4e5a-abf0-91723bd9c460",
+            "login": "monekagracecrystal.njadjanoutchua",
+            "displayName": "NJADJA NOUTCHUA Moneka Grace Crystal",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NJADJA NOUTCHUA Francine",
+            "relatedId": "6303fe6e-62da-46b2-bf24-a8ac2c5cebea",
+            "relatedType": null,
+            "userId": "1e258b3f-d8e1-4e5a-abf0-91723bd9c460",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

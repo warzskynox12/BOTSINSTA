@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8f504cd0-cdfc-44c2-8b78-258fc530cfc4",
+            "login": "clemence.noelangeon",
+            "displayName": "NOEL ANGEON Clémence",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NOEL Christina",
+            "relatedId": "1fdb3b6f-c371-492f-8519-df28dfe8ea7f",
+            "relatedType": null,
+            "userId": "8f504cd0-cdfc-44c2-8b78-258fc530cfc4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

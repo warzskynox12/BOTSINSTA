@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "ec7ca74a-c9ec-49ea-96cd-fdd162ead5e3",
+            "login": "jade.servant",
+            "displayName": "SERVANT Jade",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEFEVRE Amandine",
+            "relatedId": "3544c06b-738f-4207-9081-78d8dac64c0c",
+            "relatedType": null,
+            "userId": "ec7ca74a-c9ec-49ea-96cd-fdd162ead5e3",
+            "motto": "",
+            "photo": "/userbook/avatar/ec7ca74a-c9ec-49ea-96cd-fdd162ead5e3",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

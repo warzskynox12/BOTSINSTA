@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d6313942-83d2-4202-8d8e-c17c9d983adb",
+            "login": "lea.ruiz-boulommier",
+            "displayName": "RUIZ-BOULOMMIER Léa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RUIZ BOULOMMIER Laurène",
+            "relatedId": "70827040-4038-4a21-affb-55691094aba2",
+            "relatedType": null,
+            "userId": "d6313942-83d2-4202-8d8e-c17c9d983adb",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d6313942-83d2-4202-8d8e-c17c9d983adb",
+            "login": "lea.ruiz-boulommier",
+            "displayName": "RUIZ-BOULOMMIER Léa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RUIZ Christophe",
+            "relatedId": "916534cf-6499-41c6-b7ce-26a2c760eded",
+            "relatedType": null,
+            "userId": "d6313942-83d2-4202-8d8e-c17c9d983adb",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

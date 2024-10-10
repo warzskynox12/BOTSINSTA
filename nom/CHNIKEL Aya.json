@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0b478c31-ac1c-4ef6-9670-eec4a89dba39",
+            "login": "aya.chnikel",
+            "displayName": "CHNIKEL Aya",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOUZI Lydia",
+            "relatedId": "a3f3ebba-c77b-4b44-b388-dbf314f3385e",
+            "relatedType": null,
+            "userId": "0b478c31-ac1c-4ef6-9670-eec4a89dba39",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

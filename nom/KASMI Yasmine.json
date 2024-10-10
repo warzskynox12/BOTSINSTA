@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "216bff97-f644-409b-87b4-20c95c374cea",
+            "login": "yasmine.kasmi",
+            "displayName": "KASMI Yasmine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KASMI Hind",
+            "relatedId": "4547a206-0573-42c4-9d52-294ccd0e86df",
+            "relatedType": null,
+            "userId": "216bff97-f644-409b-87b4-20c95c374cea",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "216bff97-f644-409b-87b4-20c95c374cea",
+            "login": "yasmine.kasmi",
+            "displayName": "KASMI Yasmine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KASMI Mohammed",
+            "relatedId": "8f074b3b-bcce-49e0-8502-df9111fa3578",
+            "relatedType": null,
+            "userId": "216bff97-f644-409b-87b4-20c95c374cea",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

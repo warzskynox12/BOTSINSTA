@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9b215adc-b55e-4863-af9f-1416598d25d0",
+            "login": "samuel.kilolamakuiza",
+            "displayName": "KILOLA MAKUIZA Samuel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KILOLA MAKUIZA Kiki",
+            "relatedId": "84996999-a748-4593-aebf-d1a954b43128",
+            "relatedType": null,
+            "userId": "9b215adc-b55e-4863-af9f-1416598d25d0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "9b215adc-b55e-4863-af9f-1416598d25d0",
+            "login": "samuel.kilolamakuiza",
+            "displayName": "KILOLA MAKUIZA Samuel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KANGU NZUZI Nathalie",
+            "relatedId": "2560e9c6-e946-4fe2-8129-4837fbb8c388",
+            "relatedType": null,
+            "userId": "9b215adc-b55e-4863-af9f-1416598d25d0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6407827f-7ccd-4479-bbed-3e0458b753c9",
+            "login": "clara.antunesmorreiracapela",
+            "displayName": "ANTUNES MORREIRA CAPELA Clara",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "210"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CAPELA Edlaine",
+            "relatedId": "280d57bb-f4f9-45c2-8085-4788c801f136",
+            "relatedType": null,
+            "userId": "6407827f-7ccd-4479-bbed-3e0458b753c9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6407827f-7ccd-4479-bbed-3e0458b753c9",
+            "login": "clara.antunesmorreiracapela",
+            "displayName": "ANTUNES MORREIRA CAPELA Clara",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "210"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CAPELA RODRIGUES Nelson",
+            "relatedId": "6c2980dd-222d-4479-ba35-4dcc6330e4e3",
+            "relatedType": null,
+            "userId": "6407827f-7ccd-4479-bbed-3e0458b753c9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

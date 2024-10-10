@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2129c36a-ccf0-4055-8154-ad64bf408887",
+            "login": "leo.chaboche",
+            "displayName": "CHABOCHE Leo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHABOCHE Laurent",
+            "relatedId": "ebd05226-454e-4830-bff9-d836b7f7b027",
+            "relatedType": null,
+            "userId": "2129c36a-ccf0-4055-8154-ad64bf408887",
+            "motto": "",
+            "photo": "/userbook/avatar/2129c36a-ccf0-4055-8154-ad64bf408887",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a813b9cd-5161-4052-95d2-6c8344c288a1",
+            "login": "anais.grunenwald",
+            "displayName": "GRUNENWALD Anaïs",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE",
+                "SHOW_HEALTH"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHONG TOUA Elise",
+            "relatedId": "c72993f4-5939-436d-9edf-a09ffdf6907c",
+            "relatedType": null,
+            "userId": "a813b9cd-5161-4052-95d2-6c8344c288a1",
+            "motto": "Respirez l’air c’est gratuit ",
+            "photo": "/userbook/avatar/a813b9cd-5161-4052-95d2-6c8344c288a1",
+            "mood": "default",
+            "health": "⚠️Puante de LoL",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "0766170116",
+            "birthdate": "2007-01-21",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Volley"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Haikyuu "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Renard, Tortue, Loup"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Motel-Ashh"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Devant mon Pc"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "Les contes d'Anderson"
+                }
+            ]
+        },
+        {
+            "id": "a813b9cd-5161-4052-95d2-6c8344c288a1",
+            "login": "anais.grunenwald",
+            "displayName": "GRUNENWALD Anaïs",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE",
+                "SHOW_HEALTH"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GRUNENWALD Marc",
+            "relatedId": "0a0a7ba5-052a-419e-b494-7fcf84d82fc4",
+            "relatedType": null,
+            "userId": "a813b9cd-5161-4052-95d2-6c8344c288a1",
+            "motto": "Respirez l’air c’est gratuit ",
+            "photo": "/userbook/avatar/a813b9cd-5161-4052-95d2-6c8344c288a1",
+            "mood": "default",
+            "health": "⚠️Puante de LoL",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "0766170116",
+            "birthdate": "2007-01-21",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Volley"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Haikyuu "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Renard, Tortue, Loup"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Motel-Ashh"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Devant mon Pc"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "Les contes d'Anderson"
+                }
+            ]
+        }
+    ]
+}

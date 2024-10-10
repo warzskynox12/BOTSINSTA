@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3a53e0a2-f671-40f0-8d6e-6b7470d98a47",
+            "login": "yness.diaslescure",
+            "displayName": "DIAS--LESCURE Yness",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LESCURE Sébastien",
+            "relatedId": "413a4eb9-4acc-412b-929a-6e03c8ef0ca1",
+            "relatedType": null,
+            "userId": "3a53e0a2-f671-40f0-8d6e-6b7470d98a47",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "3a53e0a2-f671-40f0-8d6e-6b7470d98a47",
+            "login": "yness.diaslescure",
+            "displayName": "DIAS--LESCURE Yness",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DA CONCEICAO DA CRUZ DIAS Silvina",
+            "relatedId": "1031c167-04db-4482-b473-971d587da82f",
+            "relatedType": null,
+            "userId": "3a53e0a2-f671-40f0-8d6e-6b7470d98a47",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

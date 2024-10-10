@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "66b96104-f28e-4999-97f7-f50923b3a3c4",
+            "login": "sephora.houinou",
+            "displayName": "HOUINOU Sephora",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HOUINOU Comlan Paul",
+            "relatedId": "d449d320-2810-4f14-9b1f-d3f525be3404",
+            "relatedType": null,
+            "userId": "66b96104-f28e-4999-97f7-f50923b3a3c4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "66b96104-f28e-4999-97f7-f50923b3a3c4",
+            "login": "sephora.houinou",
+            "displayName": "HOUINOU Sephora",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AMESSIAMENOU Sabine",
+            "relatedId": "d142d761-2255-47db-9679-ab58ab3f68a6",
+            "relatedType": null,
+            "userId": "66b96104-f28e-4999-97f7-f50923b3a3c4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

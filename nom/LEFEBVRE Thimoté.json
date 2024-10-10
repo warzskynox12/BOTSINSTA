@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0f0bad37-e786-4c30-9b71-f0ac044fe074",
+            "login": "thimote.lefebvre",
+            "displayName": "LEFEBVRE Thimoté",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEFEBVRE Stéphanie",
+            "relatedId": "dd961be2-fa9e-4920-8fea-5fdad6297d26",
+            "relatedType": null,
+            "userId": "0f0bad37-e786-4c30-9b71-f0ac044fe074",
+            "motto": "",
+            "photo": "/userbook/avatar/0f0bad37-e786-4c30-9b71-f0ac044fe074",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0f0bad37-e786-4c30-9b71-f0ac044fe074",
+            "login": "thimote.lefebvre",
+            "displayName": "LEFEBVRE Thimoté",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEFEBVRE Alexandre",
+            "relatedId": "0342b540-7c58-473d-b455-5e68e80c5251",
+            "relatedType": null,
+            "userId": "0f0bad37-e786-4c30-9b71-f0ac044fe074",
+            "motto": "",
+            "photo": "/userbook/avatar/0f0bad37-e786-4c30-9b71-f0ac044fe074",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

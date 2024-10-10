@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7c178ac1-6f21-4d62-a8f2-7750ad964999",
+            "login": "jonas.douhokeyanfe",
+            "displayName": "DOUHO KEYANFE Jonas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOUHO KEYANFE Paul",
+            "relatedId": "6130facc-dbc3-4141-b2f7-323664f51c51",
+            "relatedType": null,
+            "userId": "7c178ac1-6f21-4d62-a8f2-7750ad964999",
+            "motto": "",
+            "photo": "/userbook/avatar/7c178ac1-6f21-4d62-a8f2-7750ad964999",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7c178ac1-6f21-4d62-a8f2-7750ad964999",
+            "login": "jonas.douhokeyanfe",
+            "displayName": "DOUHO KEYANFE Jonas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOUHO KEYANFE Anne-Flore",
+            "relatedId": "96a25056-0870-4241-b501-d8abfb196d0c",
+            "relatedType": null,
+            "userId": "7c178ac1-6f21-4d62-a8f2-7750ad964999",
+            "motto": "",
+            "photo": "/userbook/avatar/7c178ac1-6f21-4d62-a8f2-7750ad964999",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

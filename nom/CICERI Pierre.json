@@ -1,0 +1,83 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "69333119-f7bc-482b-b1fd-ebc11dc1c920",
+            "login": "pierre.ciceri",
+            "displayName": "CICERI Pierre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE",
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAPPA Véronique",
+            "relatedId": "61031f9f-a36e-44b6-b790-9db5215fb9f5",
+            "relatedType": null,
+            "userId": "69333119-f7bc-482b-b1fd-ebc11dc1c920",
+            "motto": "on peux sortir singe de la forêt mais pas forêt de la singe (a méditer)",
+            "photo": "/userbook/avatar/69333119-f7bc-482b-b1fd-ebc11dc1c920",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "pierreciceri0@gmail.com",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-09-21",
+            "hobbies": []
+        },
+        {
+            "id": "69333119-f7bc-482b-b1fd-ebc11dc1c920",
+            "login": "pierre.ciceri",
+            "displayName": "CICERI Pierre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE",
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CICERI Sébastien",
+            "relatedId": "64908246-fcff-46a0-9fc2-e04db2189088",
+            "relatedType": null,
+            "userId": "69333119-f7bc-482b-b1fd-ebc11dc1c920",
+            "motto": "on peux sortir singe de la forêt mais pas forêt de la singe (a méditer)",
+            "photo": "/userbook/avatar/69333119-f7bc-482b-b1fd-ebc11dc1c920",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "pierreciceri0@gmail.com",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-09-21",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0bc8ff3e-3175-4178-ad6f-1ed0f6a9c3ae",
+            "login": "noa.grason-maingaud",
+            "displayName": "GRASON-MAINGAUD Noa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "REDREAU Christine",
+            "relatedId": "80486c2a-3842-4a27-93e0-3f632b430572",
+            "relatedType": null,
+            "userId": "0bc8ff3e-3175-4178-ad6f-1ed0f6a9c3ae",
+            "motto": "Vous aurez votre bac grâce au christ cosmique 😂",
+            "photo": "/userbook/avatar/0bc8ff3e-3175-4178-ad6f-1ed0f6a9c3ae",
+            "mood": "happy",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0bc8ff3e-3175-4178-ad6f-1ed0f6a9c3ae",
+            "login": "noa.grason-maingaud",
+            "displayName": "GRASON-MAINGAUD Noa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GRASON-MAINGAUD Olivier",
+            "relatedId": "cbf5bb9d-b4d1-4946-bd5d-3f08c7f2500b",
+            "relatedType": null,
+            "userId": "0bc8ff3e-3175-4178-ad6f-1ed0f6a9c3ae",
+            "motto": "Vous aurez votre bac grâce au christ cosmique 😂",
+            "photo": "/userbook/avatar/0bc8ff3e-3175-4178-ad6f-1ed0f6a9c3ae",
+            "mood": "happy",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

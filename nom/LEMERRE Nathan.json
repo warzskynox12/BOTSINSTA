@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "436a99cd-bf1e-4eee-854c-f88035768577",
+            "login": "nathan.lemerre",
+            "displayName": "LEMERRE Nathan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEMERRE Stephane",
+            "relatedId": "0e1a96ae-dcb4-44aa-9c18-19b292ebf8af",
+            "relatedType": null,
+            "userId": "436a99cd-bf1e-4eee-854c-f88035768577",
+            "motto": "",
+            "photo": "/userbook/avatar/436a99cd-bf1e-4eee-854c-f88035768577",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "436a99cd-bf1e-4eee-854c-f88035768577",
+            "login": "nathan.lemerre",
+            "displayName": "LEMERRE Nathan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEMERRE Aurélie",
+            "relatedId": "bfda7500-ebcd-4c29-8016-4921157f8484",
+            "relatedType": null,
+            "userId": "436a99cd-bf1e-4eee-854c-f88035768577",
+            "motto": "",
+            "photo": "/userbook/avatar/436a99cd-bf1e-4eee-854c-f88035768577",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

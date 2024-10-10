@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "aa8d33da-096d-4d07-b5e4-5b86a5355d34",
+            "login": "maixent-verlaine.mavoungou",
+            "displayName": "MAVOUNGOU Maixent-Verlaine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAVOUNGOU Rodrigue-Maixent",
+            "relatedId": "227d2903-9365-44e6-b1ae-fb42e76f508d",
+            "relatedType": null,
+            "userId": "aa8d33da-096d-4d07-b5e4-5b86a5355d34",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "aa8d33da-096d-4d07-b5e4-5b86a5355d34",
+            "login": "maixent-verlaine.mavoungou",
+            "displayName": "MAVOUNGOU Maixent-Verlaine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NTSIBA NGAMBA Christelle",
+            "relatedId": "198e7cde-9f5a-47f4-afbb-3be01f1bd7fb",
+            "relatedType": null,
+            "userId": "aa8d33da-096d-4d07-b5e4-5b86a5355d34",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

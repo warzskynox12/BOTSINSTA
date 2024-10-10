@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "ae921f7e-657b-4ac9-91a3-3e4e9b647495",
+            "login": "ophelie.clerteaud--galois",
+            "displayName": "CLERTEAUD - - GALOIS Ophelie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GALOIS Stephane",
+            "relatedId": "974abcd5-5b25-4a57-8d8d-b7de0ea80395",
+            "relatedType": null,
+            "userId": "ae921f7e-657b-4ac9-91a3-3e4e9b647495",
+            "motto": "To the stray dogs !",
+            "photo": "/userbook/avatar/ae921f7e-657b-4ac9-91a3-3e4e9b647495",
+            "mood": "worried",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "ae921f7e-657b-4ac9-91a3-3e4e9b647495",
+            "login": "ophelie.clerteaud--galois",
+            "displayName": "CLERTEAUD - - GALOIS Ophelie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CLERTEAUD Sabrina",
+            "relatedId": "f5e9c059-e0a3-483b-b37a-396aeb0d16dc",
+            "relatedType": null,
+            "userId": "ae921f7e-657b-4ac9-91a3-3e4e9b647495",
+            "motto": "To the stray dogs !",
+            "photo": "/userbook/avatar/ae921f7e-657b-4ac9-91a3-3e4e9b647495",
+            "mood": "worried",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

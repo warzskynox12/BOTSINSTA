@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "e431d6ee-10a9-493c-9f88-0753c33bcf6e",
+            "login": "jeneuline.lubanzila",
+            "displayName": "LUBANZILA Jeneuline",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LUBANZILA Honorine",
+            "relatedId": "10843083-38e7-4cfa-9639-48713b5cfc82",
+            "relatedType": null,
+            "userId": "e431d6ee-10a9-493c-9f88-0753c33bcf6e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "e431d6ee-10a9-493c-9f88-0753c33bcf6e",
+            "login": "jeneuline.lubanzila",
+            "displayName": "LUBANZILA Jeneuline",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LUBANZILA Jean-Louis",
+            "relatedId": "daf00016-e806-4acf-b385-2bbcd032de3b",
+            "relatedType": null,
+            "userId": "e431d6ee-10a9-493c-9f88-0753c33bcf6e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

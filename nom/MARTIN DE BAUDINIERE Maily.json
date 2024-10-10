@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "06fa2ea9-40ce-4576-a85b-1874a48fe016",
+            "login": "maily.martindebaudiniere",
+            "displayName": "MARTIN DE BAUDINIERE Maily",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MARTIN DE BAUDINIERE Jérôme",
+            "relatedId": "c6a80e73-64c0-462d-bcbe-aabadccc31b9",
+            "relatedType": null,
+            "userId": "06fa2ea9-40ce-4576-a85b-1874a48fe016",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "06fa2ea9-40ce-4576-a85b-1874a48fe016",
+            "login": "maily.martindebaudiniere",
+            "displayName": "MARTIN DE BAUDINIERE Maily",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DARDOT Sandrine",
+            "relatedId": "4637c759-34d0-455a-861a-85e09857db71",
+            "relatedType": null,
+            "userId": "06fa2ea9-40ce-4576-a85b-1874a48fe016",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

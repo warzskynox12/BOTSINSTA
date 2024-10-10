@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7e239a8f-522f-4f82-b342-5f77d8cd28ed",
+            "login": "nicolas.lorin",
+            "displayName": "LORIN Nicolas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LORIN Virginie",
+            "relatedId": "ebfa42fd-c8ea-4edc-b92c-835dbeac0baf",
+            "relatedType": null,
+            "userId": "7e239a8f-522f-4f82-b342-5f77d8cd28ed",
+            "motto": "",
+            "photo": "/userbook/avatar/7e239a8f-522f-4f82-b342-5f77d8cd28ed",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7e239a8f-522f-4f82-b342-5f77d8cd28ed",
+            "login": "nicolas.lorin",
+            "displayName": "LORIN Nicolas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LORIN Gaël",
+            "relatedId": "63fa233b-f1e7-4edd-bf75-a0e55b9685d7",
+            "relatedType": null,
+            "userId": "7e239a8f-522f-4f82-b342-5f77d8cd28ed",
+            "motto": "",
+            "photo": "/userbook/avatar/7e239a8f-522f-4f82-b342-5f77d8cd28ed",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

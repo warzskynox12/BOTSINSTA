@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c868d7d9-46b8-443d-86b9-94c40231cfd7",
+            "login": "aaron.lamotte-sully-alexandrine",
+            "displayName": "LAMOTTE-SULLY-ALEXANDRINE Aaron",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LAMOTTE Etienne",
+            "relatedId": "6ec65ef5-5f5c-45d8-a28d-4179eeabd2ca",
+            "relatedType": null,
+            "userId": "c868d7d9-46b8-443d-86b9-94c40231cfd7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c868d7d9-46b8-443d-86b9-94c40231cfd7",
+            "login": "aaron.lamotte-sully-alexandrine",
+            "displayName": "LAMOTTE-SULLY-ALEXANDRINE Aaron",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SULLY-ALEXANDRINE Laura",
+            "relatedId": "80fad849-e495-4a48-a1df-b3c691360125",
+            "relatedType": null,
+            "userId": "c868d7d9-46b8-443d-86b9-94c40231cfd7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

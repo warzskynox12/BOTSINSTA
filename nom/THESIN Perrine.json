@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "f3a085f2-ad70-4380-ba75-981d7f3e0d61",
+            "login": "perrine.thesin",
+            "displayName": "THESIN Perrine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THESIN Alexandre",
+            "relatedId": "aa07af22-d13b-4088-94b1-15302e04c426",
+            "relatedType": null,
+            "userId": "f3a085f2-ad70-4380-ba75-981d7f3e0d61",
+            "motto": "",
+            "photo": "/userbook/avatar/f3a085f2-ad70-4380-ba75-981d7f3e0d61",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "f3a085f2-ad70-4380-ba75-981d7f3e0d61",
+            "login": "perrine.thesin",
+            "displayName": "THESIN Perrine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THESIN Beatrice",
+            "relatedId": "68879eda-e784-4f40-9791-85cb80983d15",
+            "relatedType": null,
+            "userId": "f3a085f2-ad70-4380-ba75-981d7f3e0d61",
+            "motto": "",
+            "photo": "/userbook/avatar/f3a085f2-ad70-4380-ba75-981d7f3e0d61",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

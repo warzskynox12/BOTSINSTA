@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fe78006f-322f-4998-aa98-c9be333f4511",
+            "login": "lilian.macaire",
+            "displayName": "MACAIRE Lilian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GILLES Marina Annick Aline",
+            "relatedId": "8bb1beb3-4663-4f74-8745-01e1a15bac18",
+            "relatedType": null,
+            "userId": "fe78006f-322f-4998-aa98-c9be333f4511",
+            "motto": "",
+            "photo": "/userbook/avatar/fe78006f-322f-4998-aa98-c9be333f4511",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fe78006f-322f-4998-aa98-c9be333f4511",
+            "login": "lilian.macaire",
+            "displayName": "MACAIRE Lilian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MACAIRE Johan Robert Louis",
+            "relatedId": "08ebd4b7-21b9-40ad-a8c0-160bec9c2518",
+            "relatedType": null,
+            "userId": "fe78006f-322f-4998-aa98-c9be333f4511",
+            "motto": "",
+            "photo": "/userbook/avatar/fe78006f-322f-4998-aa98-c9be333f4511",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

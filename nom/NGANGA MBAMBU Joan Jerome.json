@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "329ed0d3-e533-4962-9ee1-c40243ad4e24",
+            "login": "joanjerome.ngangambambu",
+            "displayName": "NGANGA MBAMBU Joan Jerome",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KITENGE ANZAM Anne-Marcelle",
+            "relatedId": "478f238a-165d-4d01-a149-7baad98d8325",
+            "relatedType": null,
+            "userId": "329ed0d3-e533-4962-9ee1-c40243ad4e24",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

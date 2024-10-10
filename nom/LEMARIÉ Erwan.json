@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "038ac93d-e2f7-467c-a5d4-960c4c16758e",
+            "login": "erwan.lemarie",
+            "displayName": "LEMARIÉ Erwan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHAUMETTE Bérangère",
+            "relatedId": "8f7fc7b4-acbe-48de-bbd9-5be075c2f3b9",
+            "relatedType": null,
+            "userId": "038ac93d-e2f7-467c-a5d4-960c4c16758e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

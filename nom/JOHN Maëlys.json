@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0f171351-3614-41e3-9eda-077119400a7a",
+            "login": "maelys.john",
+            "displayName": "JOHN Maëlys",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RENAULT Margareth",
+            "relatedId": "9dea19ce-6100-46dd-90a7-2d6043ea077c",
+            "relatedType": null,
+            "userId": "0f171351-3614-41e3-9eda-077119400a7a",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0f171351-3614-41e3-9eda-077119400a7a",
+            "login": "maelys.john",
+            "displayName": "JOHN Maëlys",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "JOHN Franck",
+            "relatedId": "ff21f110-2faa-494d-a90e-f8e796ed850a",
+            "relatedType": null,
+            "userId": "0f171351-3614-41e3-9eda-077119400a7a",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

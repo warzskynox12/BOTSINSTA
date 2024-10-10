@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "200cf751-7035-4388-accb-0769fbd6bd30",
+            "login": "coralie.pouponbunel",
+            "displayName": "POUPON BUNEL Coralie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BUNEL Salvina",
+            "relatedId": "18a2ef88-59b8-4ab4-8a9f-873b46444b0b",
+            "relatedType": null,
+            "userId": "200cf751-7035-4388-accb-0769fbd6bd30",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "200cf751-7035-4388-accb-0769fbd6bd30",
+            "login": "coralie.pouponbunel",
+            "displayName": "POUPON BUNEL Coralie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "POUPON Baptiste",
+            "relatedId": "434168f7-30dc-4b0e-a4c6-ea9277a0d61e",
+            "relatedType": null,
+            "userId": "200cf751-7035-4388-accb-0769fbd6bd30",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fa3dbef2-8a16-479d-875c-f9e44c9e21de",
+            "login": "aaron-dylan.bampelebossiwa",
+            "displayName": "BAMPELE BOSSIWA Aaron-Dylan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BAMPELE BOSSIWA Alain",
+            "relatedId": "bb13d686-a0f1-42c6-b75f-8c5510c2422c",
+            "relatedType": null,
+            "userId": "fa3dbef2-8a16-479d-875c-f9e44c9e21de",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fa3dbef2-8a16-479d-875c-f9e44c9e21de",
+            "login": "aaron-dylan.bampelebossiwa",
+            "displayName": "BAMPELE BOSSIWA Aaron-Dylan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AMBA BIENGA Carine",
+            "relatedId": "b72c37da-263d-4cf3-9f86-ffacd7890da1",
+            "relatedType": null,
+            "userId": "fa3dbef2-8a16-479d-875c-f9e44c9e21de",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

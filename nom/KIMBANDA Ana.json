@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9d4bdb94-4c71-4a95-8694-b39b8c95027d",
+            "login": "ana.kimbanda",
+            "displayName": "KIMBANDA Ana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KIMBANDA LANDO Georges",
+            "relatedId": "f166f371-5449-498a-99dd-db62c1dd47bd",
+            "relatedType": null,
+            "userId": "9d4bdb94-4c71-4a95-8694-b39b8c95027d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2008-03-07",
+            "hobbies": []
+        },
+        {
+            "id": "9d4bdb94-4c71-4a95-8694-b39b8c95027d",
+            "login": "ana.kimbanda",
+            "displayName": "KIMBANDA Ana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NGOY KITOKO Arlette",
+            "relatedId": "e612b313-c654-4f85-9531-58c0436a8152",
+            "relatedType": null,
+            "userId": "9d4bdb94-4c71-4a95-8694-b39b8c95027d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2008-03-07",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2f276f1c-2c38-4f9c-ac1d-a3ccd53f75e5",
+            "login": "shayma.rizgaoui",
+            "displayName": "RIZGAOUI Shayma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RIZGAOUI Aziz",
+            "relatedId": "efc6912c-5b19-4493-ba74-e0b76464e9ce",
+            "relatedType": null,
+            "userId": "2f276f1c-2c38-4f9c-ac1d-a3ccd53f75e5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2f276f1c-2c38-4f9c-ac1d-a3ccd53f75e5",
+            "login": "shayma.rizgaoui",
+            "displayName": "RIZGAOUI Shayma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GHARRAZ Nadia",
+            "relatedId": "594b5013-6faf-47c4-a2e0-ae3ac1581c2d",
+            "relatedType": null,
+            "userId": "2f276f1c-2c38-4f9c-ac1d-a3ccd53f75e5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

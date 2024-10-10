@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "cf54a57a-e3a1-4da0-8e5e-e373037ddd76",
+            "login": "afonsodinis.nevesjesus",
+            "displayName": "NEVES JESUS Afonso Dinis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "210"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FERREIRA DE JESUS Agostinho Claudio",
+            "relatedId": "e4575460-7a5b-4cf3-8e85-aa0025120a1b",
+            "relatedType": null,
+            "userId": "cf54a57a-e3a1-4da0-8e5e-e373037ddd76",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "cf54a57a-e3a1-4da0-8e5e-e373037ddd76",
+            "login": "afonsodinis.nevesjesus",
+            "displayName": "NEVES JESUS Afonso Dinis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "210"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NEVES JESUS Elsa",
+            "relatedId": "ddc4309d-485a-47d9-98c7-51beb64aa777",
+            "relatedType": null,
+            "userId": "cf54a57a-e3a1-4da0-8e5e-e373037ddd76",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

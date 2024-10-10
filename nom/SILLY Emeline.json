@@ -1,0 +1,83 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a5bbccd4-7f02-42a7-a955-1b3413594474",
+            "login": "emeline.silly2",
+            "displayName": "SILLY Emeline",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SILLY Pascal",
+            "relatedId": "011a2c39-52eb-40b2-9d44-329880b5fb6d",
+            "relatedType": null,
+            "userId": "a5bbccd4-7f02-42a7-a955-1b3413594474",
+            "motto": "",
+            "photo": "/userbook/avatar/a5bbccd4-7f02-42a7-a955-1b3413594474",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "0664885988",
+            "birthdate": "2007-06-19",
+            "hobbies": []
+        },
+        {
+            "id": "a5bbccd4-7f02-42a7-a955-1b3413594474",
+            "login": "emeline.silly2",
+            "displayName": "SILLY Emeline",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SILLY Catherine",
+            "relatedId": "617cc07f-2beb-42ef-bb21-109a4334c5b2",
+            "relatedType": null,
+            "userId": "a5bbccd4-7f02-42a7-a955-1b3413594474",
+            "motto": "",
+            "photo": "/userbook/avatar/a5bbccd4-7f02-42a7-a955-1b3413594474",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "0664885988",
+            "birthdate": "2007-06-19",
+            "hobbies": []
+        }
+    ]
+}

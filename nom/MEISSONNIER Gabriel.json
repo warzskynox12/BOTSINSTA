@@ -1,0 +1,85 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "43e41af8-8269-4b74-afa5-de8a3932922d",
+            "login": "gabriel.meissonnier",
+            "displayName": "MEISSONNIER Gabriel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_PHONE",
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MEISSONNIER Stéphanie",
+            "relatedId": "2ae385ac-ee37-49d9-8712-654963deb045",
+            "relatedType": null,
+            "userId": "43e41af8-8269-4b74-afa5-de8a3932922d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": null,
+            "mobile": null,
+            "birthdate": "2008-03-14",
+            "hobbies": []
+        },
+        {
+            "id": "43e41af8-8269-4b74-afa5-de8a3932922d",
+            "login": "gabriel.meissonnier",
+            "displayName": "MEISSONNIER Gabriel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_PHONE",
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MEISSONNIER Fabien",
+            "relatedId": "c21b80b7-4cd8-44f5-a208-27b2fb6596c5",
+            "relatedType": null,
+            "userId": "43e41af8-8269-4b74-afa5-de8a3932922d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": null,
+            "mobile": null,
+            "birthdate": "2008-03-14",
+            "hobbies": []
+        }
+    ]
+}

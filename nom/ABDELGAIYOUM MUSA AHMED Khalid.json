@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8bae2c30-9a1c-4c3a-a2a6-483fb821b699",
+            "login": "khalid.abdelgaiyoummusaahmed",
+            "displayName": "ABDELGAIYOUM MUSA AHMED Khalid",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MUSA AHMED ALI Abdelgaiyoum",
+            "relatedId": "fdd30043-771b-4bc6-b351-fbcdea396c5e",
+            "relatedType": null,
+            "userId": "8bae2c30-9a1c-4c3a-a2a6-483fb821b699",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8bae2c30-9a1c-4c3a-a2a6-483fb821b699",
+            "login": "khalid.abdelgaiyoummusaahmed",
+            "displayName": "ABDELGAIYOUM MUSA AHMED Khalid",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ELAMIN ALSHARIF IBRAHIM Magdolin",
+            "relatedId": "f7931c19-bf4b-4981-ab71-f2e999e107af",
+            "relatedType": null,
+            "userId": "8bae2c30-9a1c-4c3a-a2a6-483fb821b699",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "cf9b175c-65af-474a-ada3-52086a30754e",
+            "login": "arnaud.bordereaux",
+            "displayName": "BORDEREAUX Arnaud",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BORDEREAUX Alexandre",
+            "relatedId": "908d0a47-1be6-4911-8fde-e02f8c37adbf",
+            "relatedType": null,
+            "userId": "cf9b175c-65af-474a-ada3-52086a30754e",
+            "motto": "\"Connais ton ennemi et connais-toi toi-même\"",
+            "photo": "/userbook/avatar/cf9b175c-65af-474a-ada3-52086a30754e",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "cf9b175c-65af-474a-ada3-52086a30754e",
+            "login": "arnaud.bordereaux",
+            "displayName": "BORDEREAUX Arnaud",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BORDEREAUX Céline",
+            "relatedId": "d8098c0a-ea36-4e3f-928f-ab5b9f68e45c",
+            "relatedType": null,
+            "userId": "cf9b175c-65af-474a-ada3-52086a30754e",
+            "motto": "\"Connais ton ennemi et connais-toi toi-même\"",
+            "photo": "/userbook/avatar/cf9b175c-65af-474a-ada3-52086a30754e",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b2deb110-a62f-404f-81e2-b5b99715b121",
+            "login": "clemence.boutant",
+            "displayName": "BOUTANT Clemence",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BEDU Sophie",
+            "relatedId": "882b5e08-aa45-4e4d-b017-2196fb28ff9a",
+            "relatedType": null,
+            "userId": "b2deb110-a62f-404f-81e2-b5b99715b121",
+            "motto": "",
+            "photo": "/userbook/avatar/b2deb110-a62f-404f-81e2-b5b99715b121",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "b2deb110-a62f-404f-81e2-b5b99715b121",
+            "login": "clemence.boutant",
+            "displayName": "BOUTANT Clemence",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUTANT Olivier",
+            "relatedId": "c9cf87b1-e3b3-4f98-87de-0527337923b8",
+            "relatedType": null,
+            "userId": "b2deb110-a62f-404f-81e2-b5b99715b121",
+            "motto": "",
+            "photo": "/userbook/avatar/b2deb110-a62f-404f-81e2-b5b99715b121",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

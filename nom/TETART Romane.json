@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "baca6b7d-b506-4ac9-8afc-f1c920e811c8",
+            "login": "romane.tetart",
+            "displayName": "TETART Romane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TETART Laurent",
+            "relatedId": "130aa923-776b-4e0d-b290-02d6ce06cc73",
+            "relatedType": null,
+            "userId": "baca6b7d-b506-4ac9-8afc-f1c920e811c8",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "baca6b7d-b506-4ac9-8afc-f1c920e811c8",
+            "login": "romane.tetart",
+            "displayName": "TETART Romane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TETART Anelyse",
+            "relatedId": "0d38fc4a-8039-4874-8756-4e17833bfbcf",
+            "relatedType": null,
+            "userId": "baca6b7d-b506-4ac9-8afc-f1c920e811c8",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

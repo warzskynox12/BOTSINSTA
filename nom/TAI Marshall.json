@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "f23a79a0-2be5-40e0-b527-c0307fbb286c",
+            "login": "marshall.tai",
+            "displayName": "TAI Marshall",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DANHO Julienne",
+            "relatedId": "eaa1c02d-3dfe-4fc3-8c33-f7285c85fae7",
+            "relatedType": null,
+            "userId": "f23a79a0-2be5-40e0-b527-c0307fbb286c",
+            "motto": "",
+            "photo": "/userbook/avatar/f23a79a0-2be5-40e0-b527-c0307fbb286c",
+            "mood": "worried",
+            "health": "",
+            "address": "",
+            "email": "maaskodu91@outlook.fr",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "f23a79a0-2be5-40e0-b527-c0307fbb286c",
+            "login": "marshall.tai",
+            "displayName": "TAI Marshall",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TAI Didier",
+            "relatedId": "c97d506c-a141-440b-b6c4-918b276d329a",
+            "relatedType": null,
+            "userId": "f23a79a0-2be5-40e0-b527-c0307fbb286c",
+            "motto": "",
+            "photo": "/userbook/avatar/f23a79a0-2be5-40e0-b527-c0307fbb286c",
+            "mood": "worried",
+            "health": "",
+            "address": "",
+            "email": "maaskodu91@outlook.fr",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

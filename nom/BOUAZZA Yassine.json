@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d20cf8a5-b4e6-4bd5-aeaf-7cfcbeb006a0",
+            "login": "yassine.bouazza2",
+            "displayName": "BOUAZZA Yassine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUAZZA Driss",
+            "relatedId": "8089a3d8-f502-4bc3-97fb-9d3336773079",
+            "relatedType": null,
+            "userId": "d20cf8a5-b4e6-4bd5-aeaf-7cfcbeb006a0",
+            "motto": "J'habite pas ici.",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d20cf8a5-b4e6-4bd5-aeaf-7cfcbeb006a0",
+            "login": "yassine.bouazza2",
+            "displayName": "BOUAZZA Yassine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUAZZA Zakia",
+            "relatedId": "c8a173e5-7530-45df-a650-5bf3ec79c032",
+            "relatedType": null,
+            "userId": "d20cf8a5-b4e6-4bd5-aeaf-7cfcbeb006a0",
+            "motto": "J'habite pas ici.",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

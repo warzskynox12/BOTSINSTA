@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3260d355-319b-4504-90d9-8b9007b246fe",
+            "login": "omaradil.benzerroug",
+            "displayName": "BENZERROUG Omar Adil",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHEBIRI Jacqueline",
+            "relatedId": "adbbaad9-20ee-4974-a4bc-fccc31b44a33",
+            "relatedType": null,
+            "userId": "3260d355-319b-4504-90d9-8b9007b246fe",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

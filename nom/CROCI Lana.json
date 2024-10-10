@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "549ec2d1-9ad1-4b10-a980-354f2a438595",
+            "login": "lana.croci",
+            "displayName": "CROCI Lana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CROCI Bruno",
+            "relatedId": "33504af2-2721-494d-86f4-644227ca59b1",
+            "relatedType": null,
+            "userId": "549ec2d1-9ad1-4b10-a980-354f2a438595",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-03-27",
+            "hobbies": []
+        },
+        {
+            "id": "549ec2d1-9ad1-4b10-a980-354f2a438595",
+            "login": "lana.croci",
+            "displayName": "CROCI Lana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GERMOND Véronique",
+            "relatedId": "6dab7461-e674-495b-9dd9-cc95e60a85ec",
+            "relatedType": null,
+            "userId": "549ec2d1-9ad1-4b10-a980-354f2a438595",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-03-27",
+            "hobbies": []
+        }
+    ]
+}

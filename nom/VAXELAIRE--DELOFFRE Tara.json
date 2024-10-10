@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "eee96b26-3f6a-4ccf-b756-81ba62e00c63",
+            "login": "tara.vaxelairedeloffre",
+            "displayName": "VAXELAIRE--DELOFFRE Tara",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VAXELAIRE Philippe",
+            "relatedId": "3f97b998-1ec7-4a3a-a80a-2056f65c11bc",
+            "relatedType": null,
+            "userId": "eee96b26-3f6a-4ccf-b756-81ba62e00c63",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "eee96b26-3f6a-4ccf-b756-81ba62e00c63",
+            "login": "tara.vaxelairedeloffre",
+            "displayName": "VAXELAIRE--DELOFFRE Tara",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VAXELAIRE Florence",
+            "relatedId": "34679fe2-f25c-4855-b612-6ee0235befc7",
+            "relatedType": null,
+            "userId": "eee96b26-3f6a-4ccf-b756-81ba62e00c63",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

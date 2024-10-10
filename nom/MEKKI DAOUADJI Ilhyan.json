@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b0d9ad6c-80d7-4452-acbc-2696789a1f1e",
+            "login": "ilhyan.mekkidaouadji",
+            "displayName": "MEKKI DAOUADJI Ilhyan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "POULLEAU Elodie",
+            "relatedId": "0161e9f8-fa0e-4fa2-880b-8b9070789c67",
+            "relatedType": null,
+            "userId": "b0d9ad6c-80d7-4452-acbc-2696789a1f1e",
+            "motto": "",
+            "photo": "/userbook/avatar/b0d9ad6c-80d7-4452-acbc-2696789a1f1e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "b0d9ad6c-80d7-4452-acbc-2696789a1f1e",
+            "login": "ilhyan.mekkidaouadji",
+            "displayName": "MEKKI DAOUADJI Ilhyan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MEKKI DAOUADJI Moussa",
+            "relatedId": "f5de2b96-970b-4b63-8bd5-78aa029d247c",
+            "relatedType": null,
+            "userId": "b0d9ad6c-80d7-4452-acbc-2696789a1f1e",
+            "motto": "",
+            "photo": "/userbook/avatar/b0d9ad6c-80d7-4452-acbc-2696789a1f1e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1b5f0c35-ced6-416d-a67c-931668da67a0",
+            "login": "theogan.girardot",
+            "displayName": "GIRARDOT Théogan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DUCHEMIN Laure-Annie",
+            "relatedId": "55f87ac0-0905-4958-9539-9f4a35916d36",
+            "relatedType": null,
+            "userId": "1b5f0c35-ced6-416d-a67c-931668da67a0",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Rock / Métal / Electronique"
+                }
+            ]
+        },
+        {
+            "id": "1b5f0c35-ced6-416d-a67c-931668da67a0",
+            "login": "theogan.girardot",
+            "displayName": "GIRARDOT Théogan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GIRARDOT Frédéric",
+            "relatedId": "4fbcec5c-786e-4ec4-94bc-851c72eb80f1",
+            "relatedType": null,
+            "userId": "1b5f0c35-ced6-416d-a67c-931668da67a0",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Rock / Métal / Electronique"
+                }
+            ]
+        }
+    ]
+}

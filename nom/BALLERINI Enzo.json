@@ -1,0 +1,145 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "feb8ff2e-1c80-45f3-9b45-436759c49338",
+            "login": "enzo.ballerini",
+            "displayName": "BALLERINI Enzo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_PHONE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BALLERINI Franck",
+            "relatedId": "451f710a-c798-42cc-bc2e-acbf2514127b",
+            "relatedType": null,
+            "userId": "feb8ff2e-1c80-45f3-9b45-436759c49338",
+            "motto": "",
+            "photo": "/userbook/avatar/feb8ff2e-1c80-45f3-9b45-436759c49338",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": null,
+            "mobile": "",
+            "birthdate": "2007-06-10",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "feb8ff2e-1c80-45f3-9b45-436759c49338",
+            "login": "enzo.ballerini",
+            "displayName": "BALLERINI Enzo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_PHONE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAILLARD Delphine",
+            "relatedId": "c7d5e1ed-3c4a-447a-a5d7-7256b39f2cba",
+            "relatedType": null,
+            "userId": "feb8ff2e-1c80-45f3-9b45-436759c49338",
+            "motto": "",
+            "photo": "/userbook/avatar/feb8ff2e-1c80-45f3-9b45-436759c49338",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": null,
+            "mobile": "",
+            "birthdate": "2007-06-10",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

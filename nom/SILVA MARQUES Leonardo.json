@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9ca0ec79-29de-496f-99b6-1e8df29107aa",
+            "login": "leonardo.silvamarques",
+            "displayName": "SILVA MARQUES Leonardo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MARQUES Ricardo",
+            "relatedId": "0fde0729-d966-40dd-b547-a36352809c57",
+            "relatedType": null,
+            "userId": "9ca0ec79-29de-496f-99b6-1e8df29107aa",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "9ca0ec79-29de-496f-99b6-1e8df29107aa",
+            "login": "leonardo.silvamarques",
+            "displayName": "SILVA MARQUES Leonardo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MARQUES Silvia",
+            "relatedId": "bb777ee7-4fed-4098-859e-03997893713d",
+            "relatedType": null,
+            "userId": "9ca0ec79-29de-496f-99b6-1e8df29107aa",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8571e5cc-f257-42a5-9837-fa55ca6832a4",
+            "login": "nathan.kegreisz",
+            "displayName": "KEGREISZ Nathan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KEGREISZ Luc",
+            "relatedId": "7eff4fa0-b3d9-4170-ac88-bd58d9dd45c9",
+            "relatedType": null,
+            "userId": "8571e5cc-f257-42a5-9837-fa55ca6832a4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "8571e5cc-f257-42a5-9837-fa55ca6832a4",
+            "login": "nathan.kegreisz",
+            "displayName": "KEGREISZ Nathan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KEGREISZ Valérie",
+            "relatedId": "049b57e8-926d-487e-a69d-b1141aaef02b",
+            "relatedType": null,
+            "userId": "8571e5cc-f257-42a5-9837-fa55ca6832a4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

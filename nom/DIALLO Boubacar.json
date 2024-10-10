@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "32471608-d6da-409b-b259-27b1124d4565",
+            "login": "boubacar.diallo7",
+            "displayName": "DIALLO Boubacar",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIALLO Houssainatou",
+            "relatedId": "59ffb17d-dca3-4d22-bea8-f0507602f3e6",
+            "relatedType": null,
+            "userId": "32471608-d6da-409b-b259-27b1124d4565",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "32471608-d6da-409b-b259-27b1124d4565",
+            "login": "boubacar.diallo7",
+            "displayName": "DIALLO Boubacar",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIALLO Mamadou Korka",
+            "relatedId": "0867c6a2-ca57-43e9-8845-93650f6a61bf",
+            "relatedType": null,
+            "userId": "32471608-d6da-409b-b259-27b1124d4565",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

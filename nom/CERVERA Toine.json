@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "e3fa29db-64b2-4666-ac6b-24eb4f94abae",
+            "login": "toine.cervera",
+            "displayName": "CERVERA Toine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CERVERA Virginie",
+            "relatedId": "107f5341-9bac-4dbc-b3ea-8808edc9ca4e",
+            "relatedType": null,
+            "userId": "e3fa29db-64b2-4666-ac6b-24eb4f94abae",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "e3fa29db-64b2-4666-ac6b-24eb4f94abae",
+            "login": "toine.cervera",
+            "displayName": "CERVERA Toine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CERVERA Arnaud",
+            "relatedId": "02c51c58-fc0f-48af-8c2c-6b057520234c",
+            "relatedType": null,
+            "userId": "e3fa29db-64b2-4666-ac6b-24eb4f94abae",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

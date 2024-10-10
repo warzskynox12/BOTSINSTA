@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "ea0076f2-8fac-4db6-8b1b-d4d9cc73fa27",
+            "login": "oceane.coint",
+            "displayName": "COINT Océane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "COINT Marcel",
+            "relatedId": "8e32a34a-4a9a-4cd1-a852-64d1f77f9c1f",
+            "relatedType": null,
+            "userId": "ea0076f2-8fac-4db6-8b1b-d4d9cc73fa27",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "ea0076f2-8fac-4db6-8b1b-d4d9cc73fa27",
+            "login": "oceane.coint",
+            "displayName": "COINT Océane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "COINT Christelle",
+            "relatedId": "baede023-2151-4712-a93b-2d3f1f7a52a9",
+            "relatedType": null,
+            "userId": "ea0076f2-8fac-4db6-8b1b-d4d9cc73fa27",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

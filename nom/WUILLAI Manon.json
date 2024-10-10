@@ -1,0 +1,119 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3528496c-8395-4eb3-9cd9-564e64ec8cd2",
+            "login": "manon.wuillai",
+            "displayName": "WUILLAI Manon",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "WUILLAI Eric",
+            "relatedId": "ca29aa8d-b871-4896-9270-a0550a4f3c3b",
+            "relatedType": null,
+            "userId": "3528496c-8395-4eb3-9cd9-564e64ec8cd2",
+            "motto": "",
+            "photo": "/userbook/avatar/3528496c-8395-4eb3-9cd9-564e64ec8cd2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Le HOCKEY"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Scream 1996 🤌"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Les hérissons 🥺"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "i haunt ur dreams 👻"
+                }
+            ]
+        },
+        {
+            "id": "3528496c-8395-4eb3-9cd9-564e64ec8cd2",
+            "login": "manon.wuillai",
+            "displayName": "WUILLAI Manon",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FREVENT Fabienne",
+            "relatedId": "85f931f5-b524-4147-900d-4c18b87ca2a0",
+            "relatedType": null,
+            "userId": "3528496c-8395-4eb3-9cd9-564e64ec8cd2",
+            "motto": "",
+            "photo": "/userbook/avatar/3528496c-8395-4eb3-9cd9-564e64ec8cd2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Le HOCKEY"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Scream 1996 🤌"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Les hérissons 🥺"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "i haunt ur dreams 👻"
+                }
+            ]
+        }
+    ]
+}

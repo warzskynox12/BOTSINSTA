@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "07da901c-2706-4c9a-a882-e12231dcad60",
+            "login": "emma.farnault-kawasaki",
+            "displayName": "FARNAULT-KAWASAKI Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FARNAULT Yuko",
+            "relatedId": "2525cc90-771f-4618-8d1f-0e9875a200e6",
+            "relatedType": null,
+            "userId": "07da901c-2706-4c9a-a882-e12231dcad60",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "07da901c-2706-4c9a-a882-e12231dcad60",
+            "login": "emma.farnault-kawasaki",
+            "displayName": "FARNAULT-KAWASAKI Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FARNAULT Richard",
+            "relatedId": "e5342437-5428-40d3-aa0c-ab845f4832d5",
+            "relatedType": null,
+            "userId": "07da901c-2706-4c9a-a882-e12231dcad60",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

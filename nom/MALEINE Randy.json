@@ -1,0 +1,83 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c63194b5-c86e-44c1-8bc8-3f08ebe36b1e",
+            "login": "randy.maleine",
+            "displayName": "MALEINE Randy",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MALEINE Didier",
+            "relatedId": "3aafbb57-bfb3-4d3b-a1a4-1034a96d2831",
+            "relatedType": null,
+            "userId": "c63194b5-c86e-44c1-8bc8-3f08ebe36b1e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-02-07",
+            "hobbies": []
+        },
+        {
+            "id": "c63194b5-c86e-44c1-8bc8-3f08ebe36b1e",
+            "login": "randy.maleine",
+            "displayName": "MALEINE Randy",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LESCA Marie - Hélène",
+            "relatedId": "38379b26-00aa-4063-839e-fc754321cc6a",
+            "relatedType": null,
+            "userId": "c63194b5-c86e-44c1-8bc8-3f08ebe36b1e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-02-07",
+            "hobbies": []
+        }
+    ]
+}

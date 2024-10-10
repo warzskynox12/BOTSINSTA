@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9131ae73-7e8f-45ed-93e1-84d10fe0120b",
+            "login": "diego.lisboacaetanodomingues",
+            "displayName": "LISBOA CAETANO--DOMINGUES Diego",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LISBOA CAETANO Marta",
+            "relatedId": "3049ef03-e3ef-4e83-a92f-19ef2d9a380a",
+            "relatedType": null,
+            "userId": "9131ae73-7e8f-45ed-93e1-84d10fe0120b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "9131ae73-7e8f-45ed-93e1-84d10fe0120b",
+            "login": "diego.lisboacaetanodomingues",
+            "displayName": "LISBOA CAETANO--DOMINGUES Diego",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOMINGUES Patrik",
+            "relatedId": "5a4a654c-d575-4e38-97b9-ae9fcbb5d548",
+            "relatedType": null,
+            "userId": "9131ae73-7e8f-45ed-93e1-84d10fe0120b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b7a2e68f-0904-4f86-b9ab-ab2fb332376a",
+            "login": "mary.tiar--begard",
+            "displayName": "TIAR--BEGARD Mary",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BEGARD Roxane",
+            "relatedId": "85ce5dc4-02a3-4048-a2b7-ab14de73f484",
+            "relatedType": null,
+            "userId": "b7a2e68f-0904-4f86-b9ab-ab2fb332376a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-02-15",
+            "hobbies": []
+        },
+        {
+            "id": "b7a2e68f-0904-4f86-b9ab-ab2fb332376a",
+            "login": "mary.tiar--begard",
+            "displayName": "TIAR--BEGARD Mary",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TIAR Neïl",
+            "relatedId": "68cea4c6-c4a5-4b2d-84fb-68a5e36aa73d",
+            "relatedType": null,
+            "userId": "b7a2e68f-0904-4f86-b9ab-ab2fb332376a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-02-15",
+            "hobbies": []
+        }
+    ]
+}

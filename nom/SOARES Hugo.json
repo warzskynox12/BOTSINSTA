@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a80ed1c3-f47d-4183-bb54-b7fbed20fe52",
+            "login": "hugo.soares3",
+            "displayName": "SOARES Hugo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SOARES Celine",
+            "relatedId": "0a69c9e3-e532-4d99-a67f-b7ee225c2d56",
+            "relatedType": null,
+            "userId": "a80ed1c3-f47d-4183-bb54-b7fbed20fe52",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a80ed1c3-f47d-4183-bb54-b7fbed20fe52",
+            "login": "hugo.soares3",
+            "displayName": "SOARES Hugo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SOARES Marcelo",
+            "relatedId": "39eeacc2-8bdf-4bc4-bb4a-e80c0ae38844",
+            "relatedType": null,
+            "userId": "a80ed1c3-f47d-4183-bb54-b7fbed20fe52",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

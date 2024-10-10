@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "57976476-91f9-4960-9a60-573fc317b184",
+            "login": "luna.galthie-bardelli",
+            "displayName": "GALTHIÉ-BARDELLI Luna",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BARDELLI Veronique",
+            "relatedId": "67c56929-c8f3-40f1-8aad-12dcfb5e66d2",
+            "relatedType": null,
+            "userId": "57976476-91f9-4960-9a60-573fc317b184",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "57976476-91f9-4960-9a60-573fc317b184",
+            "login": "luna.galthie-bardelli",
+            "displayName": "GALTHIÉ-BARDELLI Luna",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GALTHIÉ Benoit",
+            "relatedId": "52a669cd-13d2-4caf-8990-35b89f97af8d",
+            "relatedType": null,
+            "userId": "57976476-91f9-4960-9a60-573fc317b184",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

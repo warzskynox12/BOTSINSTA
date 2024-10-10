@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "11a0cff6-3129-4782-862c-5a486981e5d7",
+            "login": "thibaut.fiston-----nobile",
+            "displayName": "FISTON--NOBILE Thibaut",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NOBILE Alain",
+            "relatedId": "d6f2a70d-4b38-4762-a388-0039761c9d23",
+            "relatedType": null,
+            "userId": "11a0cff6-3129-4782-862c-5a486981e5d7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0f925fde-1f54-4c16-976f-977eb1c0e32f",
+            "login": "florian.defrance",
+            "displayName": "DEFRANCE Florian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "POITVIN Florence",
+            "relatedId": "ae020189-0877-4cd0-920e-cbd5e894823e",
+            "relatedType": null,
+            "userId": "0f925fde-1f54-4c16-976f-977eb1c0e32f",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0f925fde-1f54-4c16-976f-977eb1c0e32f",
+            "login": "florian.defrance",
+            "displayName": "DEFRANCE Florian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DEFRANCE Frederic",
+            "relatedId": "08b187de-0bde-4f3a-8351-d45f4484abd7",
+            "relatedType": null,
+            "userId": "0f925fde-1f54-4c16-976f-977eb1c0e32f",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

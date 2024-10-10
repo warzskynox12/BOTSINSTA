@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a6c0b971-a187-482a-a601-6daeb7633014",
+            "login": "amir.cliquet--benbrahim",
+            "displayName": "CLIQUET--BENBRAHIM Amir",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CLIQUET Karim-Wilfried",
+            "relatedId": "6c4093cd-c1c1-4b7c-886e-e84a599fed48",
+            "relatedType": null,
+            "userId": "a6c0b971-a187-482a-a601-6daeb7633014",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a6c0b971-a187-482a-a601-6daeb7633014",
+            "login": "amir.cliquet--benbrahim",
+            "displayName": "CLIQUET--BENBRAHIM Amir",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENBRAHIM Mariam",
+            "relatedId": "cbd44cd6-439b-4779-9856-686f7d54628d",
+            "relatedType": null,
+            "userId": "a6c0b971-a187-482a-a601-6daeb7633014",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7b4fb7f6-2ac9-42dc-80eb-7b7465e5f217",
+            "login": "dahlia.kusansadioriamadou",
+            "displayName": "KUSANSA DIORI AMADOU Dahlia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIORI AMADOU Boukari",
+            "relatedId": "efae72f9-c946-4efd-8825-56b98c78167d",
+            "relatedType": null,
+            "userId": "7b4fb7f6-2ac9-42dc-80eb-7b7465e5f217",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7b4fb7f6-2ac9-42dc-80eb-7b7465e5f217",
+            "login": "dahlia.kusansadioriamadou",
+            "displayName": "KUSANSA DIORI AMADOU Dahlia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KUSANSA Tatiana",
+            "relatedId": "d837b481-722c-4142-8569-973b952049db",
+            "relatedType": null,
+            "userId": "7b4fb7f6-2ac9-42dc-80eb-7b7465e5f217",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

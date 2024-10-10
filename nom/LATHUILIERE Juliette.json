@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "658eed75-7175-4eb5-993b-3ab1dd8906a0",
+            "login": "juliette.lathuiliere",
+            "displayName": "LATHUILIERE Juliette",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LATHUILIERE Stéphane",
+            "relatedId": "c10753f2-ddb0-42fa-b099-8bb848f2d0a7",
+            "relatedType": null,
+            "userId": "658eed75-7175-4eb5-993b-3ab1dd8906a0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "658eed75-7175-4eb5-993b-3ab1dd8906a0",
+            "login": "juliette.lathuiliere",
+            "displayName": "LATHUILIERE Juliette",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PEINEAU Peggy",
+            "relatedId": "5d7418a3-3b58-47b3-b23f-3adeef900fb6",
+            "relatedType": null,
+            "userId": "658eed75-7175-4eb5-993b-3ab1dd8906a0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

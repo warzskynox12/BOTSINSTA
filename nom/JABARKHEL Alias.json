@@ -1,0 +1,139 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "43847604-ee2e-4cbf-aed8-0dddba892d5c",
+            "login": "alias.jabarkhel",
+            "displayName": "JABARKHEL Alias",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "JABARKHEL Rahima",
+            "relatedId": "3b4a2db9-6a0a-4010-98a0-bc7702218ccd",
+            "relatedType": null,
+            "userId": "43847604-ee2e-4cbf-aed8-0dddba892d5c",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "43847604-ee2e-4cbf-aed8-0dddba892d5c",
+            "login": "alias.jabarkhel",
+            "displayName": "JABARKHEL Alias",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "JABARKHEL Mir Wais",
+            "relatedId": "2bc9e179-3124-4f3e-bd6d-4333d955e624",
+            "relatedType": null,
+            "userId": "43847604-ee2e-4cbf-aed8-0dddba892d5c",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

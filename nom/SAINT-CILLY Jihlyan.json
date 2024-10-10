@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d17ed7a7-bb9d-473f-bca0-fe891eafa7fc",
+            "login": "jihlyan.saintcilly",
+            "displayName": "SAINT-CILLY Jihlyan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SAINT-CILLY Yohann",
+            "relatedId": "f629d0b4-7e79-481f-a2c3-c6aee4bbd356",
+            "relatedType": null,
+            "userId": "d17ed7a7-bb9d-473f-bca0-fe891eafa7fc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d17ed7a7-bb9d-473f-bca0-fe891eafa7fc",
+            "login": "jihlyan.saintcilly",
+            "displayName": "SAINT-CILLY Jihlyan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CERVEAUX Elisa",
+            "relatedId": "2853fb7c-07e1-4c4c-86e9-fdd20d119e35",
+            "relatedType": null,
+            "userId": "d17ed7a7-bb9d-473f-bca0-fe891eafa7fc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

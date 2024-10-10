@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7516c51e-9cec-4eda-b9be-492e9efdbe6e",
+            "login": "david.vilafranca",
+            "displayName": "VILA FRANCA David",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VILA FRANCA Didacio",
+            "relatedId": "c495cd52-fd9e-4a95-ba14-c89c916ea22e",
+            "relatedType": null,
+            "userId": "7516c51e-9cec-4eda-b9be-492e9efdbe6e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7516c51e-9cec-4eda-b9be-492e9efdbe6e",
+            "login": "david.vilafranca",
+            "displayName": "VILA FRANCA David",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VIEIRA PINTO Sandra",
+            "relatedId": "e2f38835-9dfe-4999-8786-360aac017b61",
+            "relatedType": null,
+            "userId": "7516c51e-9cec-4eda-b9be-492e9efdbe6e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

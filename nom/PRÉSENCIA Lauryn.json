@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "43f44533-4acc-4ab0-bf85-d62e71b566c2",
+            "login": "lauryn.presencia",
+            "displayName": "PRÉSENCIA Lauryn",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PRÉSENCIA Ludwig",
+            "relatedId": "7450081f-a9e8-457c-a0ba-bac0f6e0e466",
+            "relatedType": null,
+            "userId": "43f44533-4acc-4ab0-bf85-d62e71b566c2",
+            "motto": "",
+            "photo": "/userbook/avatar/43f44533-4acc-4ab0-bf85-d62e71b566c2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "43f44533-4acc-4ab0-bf85-d62e71b566c2",
+            "login": "lauryn.presencia",
+            "displayName": "PRÉSENCIA Lauryn",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PRÉSENCIA Sylvaine",
+            "relatedId": "ade49b9c-59cd-46eb-b345-d91283fa788b",
+            "relatedType": null,
+            "userId": "43f44533-4acc-4ab0-bf85-d62e71b566c2",
+            "motto": "",
+            "photo": "/userbook/avatar/43f44533-4acc-4ab0-bf85-d62e71b566c2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2138263b-1dd9-4456-bebb-020719797601",
+            "login": "laura.dossantos6",
+            "displayName": "DOS SANTOS Laura",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOS SANTOS Vera",
+            "relatedId": "903bfd35-4d97-4325-8d0a-6c8400e8cec7",
+            "relatedType": null,
+            "userId": "2138263b-1dd9-4456-bebb-020719797601",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2138263b-1dd9-4456-bebb-020719797601",
+            "login": "laura.dossantos6",
+            "displayName": "DOS SANTOS Laura",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOS SANTOS Paul",
+            "relatedId": "85b680d5-d007-469e-a0ad-e5f695bb1a8f",
+            "relatedType": null,
+            "userId": "2138263b-1dd9-4456-bebb-020719797601",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

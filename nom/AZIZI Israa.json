@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fd0d62ad-4a06-448c-8d48-d6dd69b487f9",
+            "login": "israa.azizi",
+            "displayName": "AZIZI Israa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AZIZI Ikram",
+            "relatedId": "9df24c94-8652-4b90-95f5-28456d5c997d",
+            "relatedType": null,
+            "userId": "fd0d62ad-4a06-448c-8d48-d6dd69b487f9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fd0d62ad-4a06-448c-8d48-d6dd69b487f9",
+            "login": "israa.azizi",
+            "displayName": "AZIZI Israa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AZIZI Azzedine",
+            "relatedId": "1cab0aca-4521-461b-b1b8-b64f3ee11c84",
+            "relatedType": null,
+            "userId": "fd0d62ad-4a06-448c-8d48-d6dd69b487f9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

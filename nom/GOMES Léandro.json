@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8a0b9410-64b1-47af-9c7b-e8aa1ccc9fe6",
+            "login": "leandro.gomes",
+            "displayName": "GOMES Léandro",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GOMES Eva",
+            "relatedId": "76dea90b-e2ba-4e68-b225-409e2e05f75e",
+            "relatedType": null,
+            "userId": "8a0b9410-64b1-47af-9c7b-e8aa1ccc9fe6",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2008-04-02",
+            "hobbies": []
+        },
+        {
+            "id": "8a0b9410-64b1-47af-9c7b-e8aa1ccc9fe6",
+            "login": "leandro.gomes",
+            "displayName": "GOMES Léandro",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GOMES Agostinho",
+            "relatedId": "4e78ded0-78c0-4d76-b5a6-3112ef8f9895",
+            "relatedType": null,
+            "userId": "8a0b9410-64b1-47af-9c7b-e8aa1ccc9fe6",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2008-04-02",
+            "hobbies": []
+        }
+    ]
+}

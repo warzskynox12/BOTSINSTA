@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a85d0b0c-1c05-4de0-ba4a-4023c229fb91",
+            "login": "aramata.ficouthiala",
+            "displayName": "FICOU THIALA Aramata",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FICOU LELOU Balla",
+            "relatedId": "8946bd4c-335a-4cc9-b282-8523903a5ddd",
+            "relatedType": null,
+            "userId": "a85d0b0c-1c05-4de0-ba4a-4023c229fb91",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a85d0b0c-1c05-4de0-ba4a-4023c229fb91",
+            "login": "aramata.ficouthiala",
+            "displayName": "FICOU THIALA Aramata",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THIALA FICOU LELOU Marie",
+            "relatedId": "e0138442-690d-4f16-8d41-7cd8a2a57b95",
+            "relatedType": null,
+            "userId": "a85d0b0c-1c05-4de0-ba4a-4023c229fb91",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "31dbcb50-9907-4a1d-85e3-f79718e1c979",
+            "login": "elhoime.mackelekombo",
+            "displayName": "MACKELE KOMBO Elhoïme",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MACKELE KOMBO Wenceslas Régis",
+            "relatedId": "d4bd46b4-7a60-4333-b865-d73f5d2cb667",
+            "relatedType": null,
+            "userId": "31dbcb50-9907-4a1d-85e3-f79718e1c979",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "31dbcb50-9907-4a1d-85e3-f79718e1c979",
+            "login": "elhoime.mackelekombo",
+            "displayName": "MACKELE KOMBO Elhoïme",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DAMBA Landry",
+            "relatedId": "b4df1ac4-7150-4571-ba89-f47c4b0ab45a",
+            "relatedType": null,
+            "userId": "31dbcb50-9907-4a1d-85e3-f79718e1c979",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

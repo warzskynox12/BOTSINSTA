@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8a2b7512-82d6-4528-b4d0-f33158c83b50",
+            "login": "luca.santai",
+            "displayName": "SANTAI Luca",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SANTAI Corina",
+            "relatedId": "b74d1512-73a7-445c-a1a1-f1af585b6a7f",
+            "relatedType": null,
+            "userId": "8a2b7512-82d6-4528-b4d0-f33158c83b50",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8a2b7512-82d6-4528-b4d0-f33158c83b50",
+            "login": "luca.santai",
+            "displayName": "SANTAI Luca",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SANTAI Ioan",
+            "relatedId": "4aab2e4f-5f82-49df-8125-d96a18c5bcea",
+            "relatedType": null,
+            "userId": "8a2b7512-82d6-4528-b4d0-f33158c83b50",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

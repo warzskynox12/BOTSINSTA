@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "186221dc-0d95-453c-9da0-75d4180ebef6",
+            "login": "anaelle.virion-smiderle",
+            "displayName": "VIRION-SMIDERLE Anaelle",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VIRION Steeve",
+            "relatedId": "bd24cc81-f082-4082-b8f5-7b3380bf52ee",
+            "relatedType": null,
+            "userId": "186221dc-0d95-453c-9da0-75d4180ebef6",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "186221dc-0d95-453c-9da0-75d4180ebef6",
+            "login": "anaelle.virion-smiderle",
+            "displayName": "VIRION-SMIDERLE Anaelle",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SMIDERLE Karine",
+            "relatedId": "f36f5d10-b584-4017-8359-bc2cdc34b004",
+            "relatedType": null,
+            "userId": "186221dc-0d95-453c-9da0-75d4180ebef6",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

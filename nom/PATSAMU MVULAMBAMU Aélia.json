@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9f306085-0583-4aea-b96f-9c96d6141346",
+            "login": "aelia.patsamumvulambamu",
+            "displayName": "PATSAMU MVULAMBAMU Aélia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PATSAMU MVULAMBAMU Eric",
+            "relatedId": "e8a9433a-976d-4ca1-b608-2d9df68cb824",
+            "relatedType": null,
+            "userId": "9f306085-0583-4aea-b96f-9c96d6141346",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "9f306085-0583-4aea-b96f-9c96d6141346",
+            "login": "aelia.patsamumvulambamu",
+            "displayName": "PATSAMU MVULAMBAMU Aélia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PATSAMU MVULAMBAMU Regine",
+            "relatedId": "cf0576c6-bf9c-4abf-8b2b-eaaf1384a807",
+            "relatedType": null,
+            "userId": "9f306085-0583-4aea-b96f-9c96d6141346",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

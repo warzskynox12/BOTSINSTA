@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "601bd77d-802c-493d-bcbf-fff220a348f5",
+            "login": "elea.mugnes-ravel",
+            "displayName": "MUGNES-RAVEL Eléa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MUGNES Franck-Olivier",
+            "relatedId": "4bb26da4-b3e7-43bd-b058-a092db83f99e",
+            "relatedType": null,
+            "userId": "601bd77d-802c-493d-bcbf-fff220a348f5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "601bd77d-802c-493d-bcbf-fff220a348f5",
+            "login": "elea.mugnes-ravel",
+            "displayName": "MUGNES-RAVEL Eléa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MUGNES Elodie",
+            "relatedId": "150a9a58-3711-48a8-93ca-960608239d3d",
+            "relatedType": null,
+            "userId": "601bd77d-802c-493d-bcbf-fff220a348f5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

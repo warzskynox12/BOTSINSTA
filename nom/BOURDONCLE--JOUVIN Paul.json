@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4f14b2ab-7134-4f45-9997-7e1b1b4f98a0",
+            "login": "paul.bourdoncle--jouvin",
+            "displayName": "BOURDONCLE--JOUVIN Paul",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOURDONCLE Pierre",
+            "relatedId": "043000c2-7c54-4f84-a029-cb1bc082cb36",
+            "relatedType": null,
+            "userId": "4f14b2ab-7134-4f45-9997-7e1b1b4f98a0",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "4f14b2ab-7134-4f45-9997-7e1b1b4f98a0",
+            "login": "paul.bourdoncle--jouvin",
+            "displayName": "BOURDONCLE--JOUVIN Paul",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "JOUVIN Laurence",
+            "relatedId": "b8863032-d3f3-424b-ad8f-b74384399ed7",
+            "relatedType": null,
+            "userId": "4f14b2ab-7134-4f45-9997-7e1b1b4f98a0",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

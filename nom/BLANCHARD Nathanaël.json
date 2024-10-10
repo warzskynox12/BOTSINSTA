@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "26eba947-d2c3-4cf4-aee2-69dcc4ce8a3a",
+            "login": "nathanael.blanchard",
+            "displayName": "BLANCHARD Nathanaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHAMARD Delphine",
+            "relatedId": "c7b2a9ae-3e8d-49e7-bb8d-d0d0273a0c40",
+            "relatedType": null,
+            "userId": "26eba947-d2c3-4cf4-aee2-69dcc4ce8a3a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "26eba947-d2c3-4cf4-aee2-69dcc4ce8a3a",
+            "login": "nathanael.blanchard",
+            "displayName": "BLANCHARD Nathanaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BLANCHARD Jean-Philippe",
+            "relatedId": "5de41b50-a1c8-4fe0-b908-953db8c24258",
+            "relatedType": null,
+            "userId": "26eba947-d2c3-4cf4-aee2-69dcc4ce8a3a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

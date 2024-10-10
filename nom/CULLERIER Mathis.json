@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c779fc77-2337-4234-8715-033c3ee6eda8",
+            "login": "mathis.cullerier",
+            "displayName": "CULLERIER Mathis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DURAND -CULLERIER Alexandre",
+            "relatedId": "64535bde-c5d9-4219-bab6-1fae627bfd75",
+            "relatedType": null,
+            "userId": "c779fc77-2337-4234-8715-033c3ee6eda8",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c779fc77-2337-4234-8715-033c3ee6eda8",
+            "login": "mathis.cullerier",
+            "displayName": "CULLERIER Mathis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUTARD Carole",
+            "relatedId": "254f467b-c3e2-473f-ad19-96f205e0969e",
+            "relatedType": null,
+            "userId": "c779fc77-2337-4234-8715-033c3ee6eda8",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

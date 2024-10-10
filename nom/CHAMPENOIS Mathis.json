@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5cf0f0ff-1138-4b4b-87c4-ed6c532c629e",
+            "login": "mathis.champenois",
+            "displayName": "CHAMPENOIS Mathis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHAMPENOIS Philippe",
+            "relatedId": "c85ac2d1-977b-4541-a1da-587da567b4f5",
+            "relatedType": null,
+            "userId": "5cf0f0ff-1138-4b4b-87c4-ed6c532c629e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "5cf0f0ff-1138-4b4b-87c4-ed6c532c629e",
+            "login": "mathis.champenois",
+            "displayName": "CHAMPENOIS Mathis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BALLOT Karine",
+            "relatedId": "eac1a209-f72a-49e1-a2a6-7297fe984553",
+            "relatedType": null,
+            "userId": "5cf0f0ff-1138-4b4b-87c4-ed6c532c629e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

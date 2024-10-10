@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7fa0ccdf-4bba-40e5-b5f3-70447ee81687",
+            "login": "justine.dhez",
+            "displayName": "DHEZ Justine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DHEZ Sabine",
+            "relatedId": "2703ed2c-d3d0-484b-ba4c-4bf31d2f09d8",
+            "relatedType": null,
+            "userId": "7fa0ccdf-4bba-40e5-b5f3-70447ee81687",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7fa0ccdf-4bba-40e5-b5f3-70447ee81687",
+            "login": "justine.dhez",
+            "displayName": "DHEZ Justine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DHEZ Thierry",
+            "relatedId": "a4857b03-01ce-47da-bf1c-1cf37b45697e",
+            "relatedType": null,
+            "userId": "7fa0ccdf-4bba-40e5-b5f3-70447ee81687",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

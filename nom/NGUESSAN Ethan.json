@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "69ca69b5-5b9d-447f-8b4b-5f24ba7fe177",
+            "login": "ethan.nguessan",
+            "displayName": "NGUESSAN Ethan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOUHO Jeanne",
+            "relatedId": "40175b0d-5eb8-4159-aa7c-a345d5ef7b35",
+            "relatedType": null,
+            "userId": "69ca69b5-5b9d-447f-8b4b-5f24ba7fe177",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

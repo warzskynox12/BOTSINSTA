@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "760cc444-4877-4104-8827-43e330a70a65",
+            "login": "louane.bac",
+            "displayName": "BAC Louane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BAC Aude",
+            "relatedId": "8f920783-b9db-4103-981f-eb67ff36fe55",
+            "relatedType": null,
+            "userId": "760cc444-4877-4104-8827-43e330a70a65",
+            "motto": "",
+            "photo": "/userbook/avatar/760cc444-4877-4104-8827-43e330a70a65",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "760cc444-4877-4104-8827-43e330a70a65",
+            "login": "louane.bac",
+            "displayName": "BAC Louane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BAC Olivier",
+            "relatedId": "be4deab1-e436-4c9d-bd22-adbd0d64c52d",
+            "relatedType": null,
+            "userId": "760cc444-4877-4104-8827-43e330a70a65",
+            "motto": "",
+            "photo": "/userbook/avatar/760cc444-4877-4104-8827-43e330a70a65",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

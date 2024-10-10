@@ -1,0 +1,67 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3d278d54-b629-4452-b082-0aeee6c287bd",
+            "login": "magdalena.duseaux",
+            "displayName": "DUSEAUX Magdalena",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DUSEAUX Magali",
+            "relatedId": "2a131581-c08e-44b2-8607-c841519009e6",
+            "relatedType": null,
+            "userId": "3d278d54-b629-4452-b082-0aeee6c287bd",
+            "motto": "",
+            "photo": "/userbook/avatar/3d278d54-b629-4452-b082-0aeee6c287bd",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Ping-pong, Badminton "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Vice-Versa"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Tortue"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Jad Wio, Sneaker Pimps, IAMX, System of a down, Mägo de Oz, Laufey, Siouxxie and the Banshees, Florence and the machine "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "\"Les Fourmis\" de Bernard Werber, \"Dragon\" de E.e knight"
+                }
+            ]
+        }
+    ]
+}

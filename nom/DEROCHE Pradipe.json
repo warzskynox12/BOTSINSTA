@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5470d5cd-6d63-44f6-a0b4-254f656649fb",
+            "login": "pradipe.deroche",
+            "displayName": "DEROCHE Pradipe",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DEROCHE Dinagarane",
+            "relatedId": "970a7701-55bd-4c92-a1b5-cd770521c7ad",
+            "relatedType": null,
+            "userId": "5470d5cd-6d63-44f6-a0b4-254f656649fb",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "5470d5cd-6d63-44f6-a0b4-254f656649fb",
+            "login": "pradipe.deroche",
+            "displayName": "DEROCHE Pradipe",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DEROCHE Héma Zeenath",
+            "relatedId": "7ef1f8bb-8397-4e41-91ef-8d2a293bdd61",
+            "relatedType": null,
+            "userId": "5470d5cd-6d63-44f6-a0b4-254f656649fb",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

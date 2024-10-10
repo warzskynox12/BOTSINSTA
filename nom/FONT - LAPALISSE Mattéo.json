@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "235b2b55-a54b-4574-8f28-467b53458287",
+            "login": "matteo.font-lapalisse",
+            "displayName": "FONT - LAPALISSE Mattéo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FONT-LAPALISSE Thierry",
+            "relatedId": "1d939e1b-6dc0-41a0-a041-c5efe1ff7d72",
+            "relatedType": null,
+            "userId": "235b2b55-a54b-4574-8f28-467b53458287",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "235b2b55-a54b-4574-8f28-467b53458287",
+            "login": "matteo.font-lapalisse",
+            "displayName": "FONT - LAPALISSE Mattéo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FONT-LAPALISSE Christelle",
+            "relatedId": "aa91d9ea-8aa4-4521-abb3-e9698270f300",
+            "relatedType": null,
+            "userId": "235b2b55-a54b-4574-8f28-467b53458287",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

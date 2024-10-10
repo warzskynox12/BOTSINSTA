@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fc6b28fd-8e0d-4677-874f-4cdda2961465",
+            "login": "raphael.goncalvescosta",
+            "displayName": "GONCALVES COSTA Raphaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "214"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MACHADO GONCALVES Edouardo Filipe",
+            "relatedId": "53a2e33f-c70b-4762-8b20-fa93f81ac2bb",
+            "relatedType": null,
+            "userId": "fc6b28fd-8e0d-4677-874f-4cdda2961465",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fc6b28fd-8e0d-4677-874f-4cdda2961465",
+            "login": "raphael.goncalvescosta",
+            "displayName": "GONCALVES COSTA Raphaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "214"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SOUSA DA COSTA Maria Isabel",
+            "relatedId": "322b9154-757d-40c8-8fab-06b54c14500a",
+            "relatedType": null,
+            "userId": "fc6b28fd-8e0d-4677-874f-4cdda2961465",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

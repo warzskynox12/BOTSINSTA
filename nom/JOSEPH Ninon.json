@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "e74b022c-90c8-4f74-9b23-c0ae2a993461",
+            "login": "ninon.joseph",
+            "displayName": "JOSEPH Ninon",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HEILMANN Ingrid",
+            "relatedId": "e2fa8f3c-d14e-49a8-8bc2-ff530a7375f9",
+            "relatedType": null,
+            "userId": "e74b022c-90c8-4f74-9b23-c0ae2a993461",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

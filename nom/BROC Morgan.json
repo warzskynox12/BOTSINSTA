@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8323ed37-d202-4b36-953d-28444f91f281",
+            "login": "morgan.broc",
+            "displayName": "BROC Morgan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GUERTON Catherine",
+            "relatedId": "3f1b0db8-7126-4cc0-bcdb-a134f725e39a",
+            "relatedType": null,
+            "userId": "8323ed37-d202-4b36-953d-28444f91f281",
+            "motto": "",
+            "photo": "/userbook/avatar/8323ed37-d202-4b36-953d-28444f91f281",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8323ed37-d202-4b36-953d-28444f91f281",
+            "login": "morgan.broc",
+            "displayName": "BROC Morgan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BROC Stéphane",
+            "relatedId": "e9cff099-feff-4663-bcdc-3ec754477bc4",
+            "relatedType": null,
+            "userId": "8323ed37-d202-4b36-953d-28444f91f281",
+            "motto": "",
+            "photo": "/userbook/avatar/8323ed37-d202-4b36-953d-28444f91f281",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

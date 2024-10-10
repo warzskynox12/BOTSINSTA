@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "bbbd8d7d-0e67-40d5-8afd-c82aa1065e22",
+            "login": "mathias.lepinaytramcourt",
+            "displayName": "LEPINAY TRAMCOURT Mathias",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LÉPINAY Jean Bruno",
+            "relatedId": "4b436b33-c970-4189-93b3-5bcd11d2e37c",
+            "relatedType": null,
+            "userId": "bbbd8d7d-0e67-40d5-8afd-c82aa1065e22",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "bbbd8d7d-0e67-40d5-8afd-c82aa1065e22",
+            "login": "mathias.lepinaytramcourt",
+            "displayName": "LEPINAY TRAMCOURT Mathias",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEPINAY Laura",
+            "relatedId": "a1be0024-d155-4f14-88ef-70a119ef3953",
+            "relatedType": null,
+            "userId": "bbbd8d7d-0e67-40d5-8afd-c82aa1065e22",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

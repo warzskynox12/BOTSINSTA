@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c9300b45-7372-45e8-bcc6-3b6d37ab82cf",
+            "login": "eliott.fiot-bessis",
+            "displayName": "FIOT-BESSIS Eliott",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BESSIS Florence",
+            "relatedId": "e2d3ed1e-552f-4af7-bc0f-3717ebc78e4d",
+            "relatedType": null,
+            "userId": "c9300b45-7372-45e8-bcc6-3b6d37ab82cf",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c9300b45-7372-45e8-bcc6-3b6d37ab82cf",
+            "login": "eliott.fiot-bessis",
+            "displayName": "FIOT-BESSIS Eliott",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BESSIS Michel",
+            "relatedId": "99ccdfa5-adce-4c4d-9f76-5027abb95198",
+            "relatedType": null,
+            "userId": "c9300b45-7372-45e8-bcc6-3b6d37ab82cf",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

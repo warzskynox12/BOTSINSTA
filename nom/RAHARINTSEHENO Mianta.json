@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8ed9faa3-924b-477a-ae9c-eec39d4adef4",
+            "login": "mianta.raharintseheno",
+            "displayName": "RAHARINTSEHENO Mianta",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RAHARINTSEHENO Natacha",
+            "relatedId": "84ce7c76-6f64-4940-9895-0c1d3042c1fe",
+            "relatedType": null,
+            "userId": "8ed9faa3-924b-477a-ae9c-eec39d4adef4",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8ed9faa3-924b-477a-ae9c-eec39d4adef4",
+            "login": "mianta.raharintseheno",
+            "displayName": "RAHARINTSEHENO Mianta",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RAHARINTSEHENO Ndinbisoa",
+            "relatedId": "7a0aeddd-0620-4c9d-a933-9ffb6d6d58f0",
+            "relatedType": null,
+            "userId": "8ed9faa3-924b-477a-ae9c-eec39d4adef4",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

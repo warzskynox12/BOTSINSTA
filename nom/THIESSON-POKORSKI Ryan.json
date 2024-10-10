@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "bf028807-8a12-4527-9722-8c73e823ca41",
+            "login": "ryan.thiesson-pokorski",
+            "displayName": "THIESSON-POKORSKI Ryan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "POKORSKI Aurélie",
+            "relatedId": "7c3c297d-64da-4519-b789-4104cdec5ae0",
+            "relatedType": null,
+            "userId": "bf028807-8a12-4527-9722-8c73e823ca41",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "bf028807-8a12-4527-9722-8c73e823ca41",
+            "login": "ryan.thiesson-pokorski",
+            "displayName": "THIESSON-POKORSKI Ryan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THIESSON Sébastien",
+            "relatedId": "80e5c057-d0d8-4619-9012-52341ee6d7b5",
+            "relatedType": null,
+            "userId": "bf028807-8a12-4527-9722-8c73e823ca41",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

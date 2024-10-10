@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "11a04a48-6549-4e7a-8a98-ab6d26b28fb6",
+            "login": "antoine.bouvier",
+            "displayName": "BOUVIER Antoine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUVIER Laurent",
+            "relatedId": "25895f72-b2d9-4db1-a121-d64f358526fa",
+            "relatedType": null,
+            "userId": "11a04a48-6549-4e7a-8a98-ab6d26b28fb6",
+            "motto": "",
+            "photo": "/userbook/avatar/11a04a48-6549-4e7a-8a98-ab6d26b28fb6",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "11a04a48-6549-4e7a-8a98-ab6d26b28fb6",
+            "login": "antoine.bouvier",
+            "displayName": "BOUVIER Antoine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SARRAZIN Nathalie",
+            "relatedId": "d6b656ea-4566-4695-9d36-4becbb79c7a4",
+            "relatedType": null,
+            "userId": "11a04a48-6549-4e7a-8a98-ab6d26b28fb6",
+            "motto": "",
+            "photo": "/userbook/avatar/11a04a48-6549-4e7a-8a98-ab6d26b28fb6",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

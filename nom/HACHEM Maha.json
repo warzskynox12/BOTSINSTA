@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "25401d92-ccfc-4425-a51a-e1727b77ec72",
+            "login": "maha.hachem",
+            "displayName": "HACHEM Maha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HACHEM Mostefa",
+            "relatedId": "107fd38b-a0dc-46bd-a172-2f29f6687124",
+            "relatedType": null,
+            "userId": "25401d92-ccfc-4425-a51a-e1727b77ec72",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "25401d92-ccfc-4425-a51a-e1727b77ec72",
+            "login": "maha.hachem",
+            "displayName": "HACHEM Maha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HACHEM Hatika",
+            "relatedId": "0b245550-9cef-43d6-8f44-a8a835f78169",
+            "relatedType": null,
+            "userId": "25401d92-ccfc-4425-a51a-e1727b77ec72",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

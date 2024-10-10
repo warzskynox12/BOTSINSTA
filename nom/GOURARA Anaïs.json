@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "90c232dc-4514-454c-9c1d-649cd06eccfc",
+            "login": "anais.gourara",
+            "displayName": "GOURARA Anaïs",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GOURARA Hélène",
+            "relatedId": "2130b5ba-8c76-4f04-a478-cf4941ec2bcc",
+            "relatedType": null,
+            "userId": "90c232dc-4514-454c-9c1d-649cd06eccfc",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "90c232dc-4514-454c-9c1d-649cd06eccfc",
+            "login": "anais.gourara",
+            "displayName": "GOURARA Anaïs",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GOURARA Mohamed Amine",
+            "relatedId": "c64d4d73-b109-469b-aafc-7d9ff87b732e",
+            "relatedType": null,
+            "userId": "90c232dc-4514-454c-9c1d-649cd06eccfc",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

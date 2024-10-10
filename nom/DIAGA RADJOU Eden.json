@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8f81c660-451c-4ca8-80f2-0bf9d280b458",
+            "login": "eden.diagaradjou",
+            "displayName": "DIAGA RADJOU Eden",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIAGA RADJOU Stéphanie",
+            "relatedId": "b4334ab9-0998-4980-aa3f-2043238753e3",
+            "relatedType": null,
+            "userId": "8f81c660-451c-4ca8-80f2-0bf9d280b458",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8f81c660-451c-4ca8-80f2-0bf9d280b458",
+            "login": "eden.diagaradjou",
+            "displayName": "DIAGA RADJOU Eden",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIAGA RADJOU Stéphane",
+            "relatedId": "7571ee52-803f-4028-94ad-e35865af7ec6",
+            "relatedType": null,
+            "userId": "8f81c660-451c-4ca8-80f2-0bf9d280b458",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7533923b-9c7a-4470-a879-d55c4ba16285",
+            "login": "ilyes.lhoum",
+            "displayName": "LHOUM Ilyes",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LHOUM Ilham",
+            "relatedId": "8268ed51-6f70-41ec-8a82-62a8442cdbdc",
+            "relatedType": null,
+            "userId": "7533923b-9c7a-4470-a879-d55c4ba16285",
+            "motto": "lol",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7533923b-9c7a-4470-a879-d55c4ba16285",
+            "login": "ilyes.lhoum",
+            "displayName": "LHOUM Ilyes",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LHOUM Khalid",
+            "relatedId": "f013b7dc-e96c-4f96-8439-1600fa0580be",
+            "relatedType": null,
+            "userId": "7533923b-9c7a-4470-a879-d55c4ba16285",
+            "motto": "lol",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

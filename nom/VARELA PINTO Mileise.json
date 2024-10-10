@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "92b57989-0752-4ea7-81fa-d56812de8196",
+            "login": "mileise.varelapinto",
+            "displayName": "VARELA PINTO Mileise",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CABRAL PINTO Minarvino",
+            "relatedId": "14aad4fc-d435-4108-b8a5-50801e4082d5",
+            "relatedType": null,
+            "userId": "92b57989-0752-4ea7-81fa-d56812de8196",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "92b57989-0752-4ea7-81fa-d56812de8196",
+            "login": "mileise.varelapinto",
+            "displayName": "VARELA PINTO Mileise",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "105"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VARELA PINTO Evanile",
+            "relatedId": "d65063bb-7e8c-43ce-9acf-a5bc3dc5ac0b",
+            "relatedType": null,
+            "userId": "92b57989-0752-4ea7-81fa-d56812de8196",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

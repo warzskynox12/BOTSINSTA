@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9ab2b8a0-8671-4c57-9ea2-20fca24e8cf4",
+            "login": "benjamin.donascimentopais",
+            "displayName": "DO NASCIMENTO PAIS Benjamin",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DO-NASCIMENTO-PAIS Jean-Marc",
+            "relatedId": "6d93cabd-b5b5-4601-a0d7-3428b9718e1e",
+            "relatedType": null,
+            "userId": "9ab2b8a0-8671-4c57-9ea2-20fca24e8cf4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "9ab2b8a0-8671-4c57-9ea2-20fca24e8cf4",
+            "login": "benjamin.donascimentopais",
+            "displayName": "DO NASCIMENTO PAIS Benjamin",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VAZ Elisabeth",
+            "relatedId": "e8a89073-e26f-49e4-ae88-301dcdc26823",
+            "relatedType": null,
+            "userId": "9ab2b8a0-8671-4c57-9ea2-20fca24e8cf4",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

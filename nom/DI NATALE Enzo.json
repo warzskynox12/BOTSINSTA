@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "85ecba48-b0ab-48ee-80a4-63f8885294c6",
+            "login": "enzo.dinatale",
+            "displayName": "DI NATALE Enzo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DI NATALE Domenico",
+            "relatedId": "056b9ac6-a866-4a59-834b-e0b469b2ddbc",
+            "relatedType": null,
+            "userId": "85ecba48-b0ab-48ee-80a4-63f8885294c6",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "85ecba48-b0ab-48ee-80a4-63f8885294c6",
+            "login": "enzo.dinatale",
+            "displayName": "DI NATALE Enzo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DI NATALE Nathalie",
+            "relatedId": "d9080b43-54a2-4e58-89e2-dee010b62fdd",
+            "relatedType": null,
+            "userId": "85ecba48-b0ab-48ee-80a4-63f8885294c6",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

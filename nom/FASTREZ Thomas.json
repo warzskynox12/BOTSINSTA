@@ -1,0 +1,89 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a0a524eb-9b15-444b-b5e0-9e3d930ff09e",
+            "login": "thomas.fastrez",
+            "displayName": "FASTREZ Thomas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FASTREZ Jérôme",
+            "relatedId": "6c17111e-9f14-466a-b6b8-05206da125a7",
+            "relatedType": null,
+            "userId": "a0a524eb-9b15-444b-b5e0-9e3d930ff09e",
+            "motto": "",
+            "photo": "/userbook/avatar/a0a524eb-9b15-444b-b5e0-9e3d930ff09e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "a0a524eb-9b15-444b-b5e0-9e3d930ff09e",
+            "login": "thomas.fastrez",
+            "displayName": "FASTREZ Thomas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FASTREZ Virginie",
+            "relatedId": "4e9eacbd-6a58-44ce-a9b6-3266b3b5af4b",
+            "relatedType": null,
+            "userId": "a0a524eb-9b15-444b-b5e0-9e3d930ff09e",
+            "motto": "",
+            "photo": "/userbook/avatar/a0a524eb-9b15-444b-b5e0-9e3d930ff09e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

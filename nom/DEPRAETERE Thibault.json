@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a23924a6-eed3-46e2-8fe3-00da3098ac0e",
+            "login": "thibault.depraetere",
+            "displayName": "DEPRAETERE Thibault",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DEPRAETERE Arnaud",
+            "relatedId": "2ad58e38-afba-49e7-8e09-a43a3b298270",
+            "relatedType": null,
+            "userId": "a23924a6-eed3-46e2-8fe3-00da3098ac0e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-04-11",
+            "hobbies": []
+        },
+        {
+            "id": "a23924a6-eed3-46e2-8fe3-00da3098ac0e",
+            "login": "thibault.depraetere",
+            "displayName": "DEPRAETERE Thibault",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "COLIN Carine",
+            "relatedId": "6800dce1-7e1d-43ce-8d01-b10747d2110a",
+            "relatedType": null,
+            "userId": "a23924a6-eed3-46e2-8fe3-00da3098ac0e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-04-11",
+            "hobbies": []
+        }
+    ]
+}

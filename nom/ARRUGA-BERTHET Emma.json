@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d790f193-8f85-4118-8f57-f152ffe41a02",
+            "login": "emma.arruga-berthet",
+            "displayName": "ARRUGA-BERTHET Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ARRUGA Francisco Javier",
+            "relatedId": "582221e3-04ab-4496-8266-2d6e6eccab3d",
+            "relatedType": null,
+            "userId": "d790f193-8f85-4118-8f57-f152ffe41a02",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d790f193-8f85-4118-8f57-f152ffe41a02",
+            "login": "emma.arruga-berthet",
+            "displayName": "ARRUGA-BERTHET Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BERTHET Sylvette",
+            "relatedId": "45741a20-756e-42fc-bd02-7c9f0359a222",
+            "relatedType": null,
+            "userId": "d790f193-8f85-4118-8f57-f152ffe41a02",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

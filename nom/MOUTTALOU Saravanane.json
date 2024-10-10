@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0e872c11-a848-424e-b7a0-18e7946fbff6",
+            "login": "saravanane.mouttalou",
+            "displayName": "MOUTTALOU Saravanane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MOUTTALOU Pouchepalatchoumy",
+            "relatedId": "61289ebb-f0f9-4918-84bb-da83ce7c8765",
+            "relatedType": null,
+            "userId": "0e872c11-a848-424e-b7a0-18e7946fbff6",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0e872c11-a848-424e-b7a0-18e7946fbff6",
+            "login": "saravanane.mouttalou",
+            "displayName": "MOUTTALOU Saravanane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MOUTTALOU Mourougane",
+            "relatedId": "536e38e9-f48c-431a-ac61-06affee1e61b",
+            "relatedType": null,
+            "userId": "0e872c11-a848-424e-b7a0-18e7946fbff6",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

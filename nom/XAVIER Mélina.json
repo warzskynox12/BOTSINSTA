@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "aaba20aa-4ea5-48e2-b1b8-41b74fa162e5",
+            "login": "melina.xavier",
+            "displayName": "XAVIER Mélina",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FARJAUDOU Nathalie",
+            "relatedId": "2ecafad6-860a-400a-8e12-0947c4a3dfe3",
+            "relatedType": null,
+            "userId": "aaba20aa-4ea5-48e2-b1b8-41b74fa162e5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

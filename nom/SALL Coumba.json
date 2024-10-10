@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6e6d64f1-a038-4d8f-ae58-06dc55c65166",
+            "login": "coumba.sall",
+            "displayName": "SALL Coumba",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SALL Alimatou",
+            "relatedId": "7a70fbef-74f7-4a65-8fd7-8397c285fe71",
+            "relatedType": null,
+            "userId": "6e6d64f1-a038-4d8f-ae58-06dc55c65166",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6e6d64f1-a038-4d8f-ae58-06dc55c65166",
+            "login": "coumba.sall",
+            "displayName": "SALL Coumba",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SALL Amadou Abdoul",
+            "relatedId": "f1a59d4e-bb4d-4aea-97dc-e05da4434c96",
+            "relatedType": null,
+            "userId": "6e6d64f1-a038-4d8f-ae58-06dc55c65166",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

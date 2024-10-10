@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fb9c7979-b9f8-4940-af77-4b699ff4bd67",
+            "login": "yani.bendahmane",
+            "displayName": "BENDAHMANE Yani",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENDAHMANE Farid",
+            "relatedId": "36883f3b-a9f9-4e94-834e-29c7e953604e",
+            "relatedType": null,
+            "userId": "fb9c7979-b9f8-4940-af77-4b699ff4bd67",
+            "motto": "",
+            "photo": "/userbook/avatar/fb9c7979-b9f8-4940-af77-4b699ff4bd67",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fb9c7979-b9f8-4940-af77-4b699ff4bd67",
+            "login": "yani.bendahmane",
+            "displayName": "BENDAHMANE Yani",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENDAHMANE Monia",
+            "relatedId": "fb4a9f63-0168-4c3a-b3e4-a2883aa24cc8",
+            "relatedType": null,
+            "userId": "fb9c7979-b9f8-4940-af77-4b699ff4bd67",
+            "motto": "",
+            "photo": "/userbook/avatar/fb9c7979-b9f8-4940-af77-4b699ff4bd67",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "158c0a4e-e099-488c-8ce6-5b7289d755bf",
+            "login": "trystan.laplaza--artiguenave",
+            "displayName": "LAPLAZA--ARTIGUENAVE Trystan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ARTIGUENAVE Alexandra",
+            "relatedId": "cdad255f-adf4-4bf3-8290-b049682eb531",
+            "relatedType": null,
+            "userId": "158c0a4e-e099-488c-8ce6-5b7289d755bf",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "158c0a4e-e099-488c-8ce6-5b7289d755bf",
+            "login": "trystan.laplaza--artiguenave",
+            "displayName": "LAPLAZA--ARTIGUENAVE Trystan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LAPLAZA Loïg",
+            "relatedId": "0e69ad26-5e8a-4852-a8a8-212398af9c8f",
+            "relatedType": null,
+            "userId": "158c0a4e-e099-488c-8ce6-5b7289d755bf",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

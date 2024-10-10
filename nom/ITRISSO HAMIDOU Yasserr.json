@@ -1,0 +1,119 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "71f4f7ef-ec03-4bc5-8d23-8114f2db267e",
+            "login": "yasserr.itrissohamidou",
+            "displayName": "ITRISSO HAMIDOU Yasserr",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ITRISSO Amina",
+            "relatedId": "1ff05d3b-302d-468a-94b4-398709ba07e5",
+            "relatedType": null,
+            "userId": "71f4f7ef-ec03-4bc5-8d23-8114f2db267e",
+            "motto": "La nature fait les hommes semblables, la vie les rend différents",
+            "photo": "/userbook/avatar/71f4f7ef-ec03-4bc5-8d23-8114f2db267e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Basket"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Chat"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Indiana"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Terrain de basket"
+                }
+            ]
+        },
+        {
+            "id": "71f4f7ef-ec03-4bc5-8d23-8114f2db267e",
+            "login": "yasserr.itrissohamidou",
+            "displayName": "ITRISSO HAMIDOU Yasserr",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ITRISSO-HAMIDOU Abdoul",
+            "relatedId": "ac2fb023-15fc-4717-b331-4beedcdf0a41",
+            "relatedType": null,
+            "userId": "71f4f7ef-ec03-4bc5-8d23-8114f2db267e",
+            "motto": "La nature fait les hommes semblables, la vie les rend différents",
+            "photo": "/userbook/avatar/71f4f7ef-ec03-4bc5-8d23-8114f2db267e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Basket"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Chat"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Indiana"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "Terrain de basket"
+                }
+            ]
+        }
+    ]
+}

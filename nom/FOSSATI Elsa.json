@@ -1,0 +1,99 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "cc303168-a652-4d25-b8b1-bf9eb0ea94ef",
+            "login": "elsa.fossati",
+            "displayName": "FOSSATI Elsa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOIJEAU Céline",
+            "relatedId": "5cecc6ca-dc64-40f6-8584-ad6a74f83fde",
+            "relatedType": null,
+            "userId": "cc303168-a652-4d25-b8b1-bf9eb0ea94ef",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "cc303168-a652-4d25-b8b1-bf9eb0ea94ef",
+            "login": "elsa.fossati",
+            "displayName": "FOSSATI Elsa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FOSSATI Marc",
+            "relatedId": "8492f74b-2726-4228-8930-ad6655a9b8ae",
+            "relatedType": null,
+            "userId": "cc303168-a652-4d25-b8b1-bf9eb0ea94ef",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

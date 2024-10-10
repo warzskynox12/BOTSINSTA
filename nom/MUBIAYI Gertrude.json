@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c3ff0e0e-63b4-4eb9-bb73-e081c6b3f513",
+            "login": "gertrude.mubiayi",
+            "displayName": "MUBIAYI Gertrude",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MUBIAYI Michel",
+            "relatedId": "cd7a3bf4-5429-482a-a7e2-83588e53540a",
+            "relatedType": null,
+            "userId": "c3ff0e0e-63b4-4eb9-bb73-e081c6b3f513",
+            "motto": "",
+            "photo": "/userbook/avatar/c3ff0e0e-63b4-4eb9-bb73-e081c6b3f513",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c3ff0e0e-63b4-4eb9-bb73-e081c6b3f513",
+            "login": "gertrude.mubiayi",
+            "displayName": "MUBIAYI Gertrude",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MUBIAYI Adele",
+            "relatedId": "e1561fb4-8841-4ad4-b5a1-72aff651ed37",
+            "relatedType": null,
+            "userId": "c3ff0e0e-63b4-4eb9-bb73-e081c6b3f513",
+            "motto": "",
+            "photo": "/userbook/avatar/c3ff0e0e-63b4-4eb9-bb73-e081c6b3f513",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

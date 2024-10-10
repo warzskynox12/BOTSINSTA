@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fe486eb0-75dd-4d64-b49a-90a7147ce41a",
+            "login": "stevy.diakubikanzambi",
+            "displayName": "DIAKUBIKA NZAMBI Stevy",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIANTETE DIAFUANA Elisabeth",
+            "relatedId": "8a76f051-daad-4979-8448-3712c0420f55",
+            "relatedType": null,
+            "userId": "fe486eb0-75dd-4d64-b49a-90a7147ce41a",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fe486eb0-75dd-4d64-b49a-90a7147ce41a",
+            "login": "stevy.diakubikanzambi",
+            "displayName": "DIAKUBIKA NZAMBI Stevy",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIAKUBIKA NZAMBI Andre",
+            "relatedId": "7228e19f-5cc2-4f83-b06a-5bccc8ffa353",
+            "relatedType": null,
+            "userId": "fe486eb0-75dd-4d64-b49a-90a7147ce41a",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

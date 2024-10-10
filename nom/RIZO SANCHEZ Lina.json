@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c2482caf-8ed6-4442-8f24-bc1e444e24c2",
+            "login": "lina.rizosanchez",
+            "displayName": "RIZO SANCHEZ Lina",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RIZO SANCHEZ Cyril",
+            "relatedId": "10a3bfeb-89ea-4471-bd20-f12a71301cc8",
+            "relatedType": null,
+            "userId": "c2482caf-8ed6-4442-8f24-bc1e444e24c2",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

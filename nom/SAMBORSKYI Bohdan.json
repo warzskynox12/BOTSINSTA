@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "ec41e996-c3c1-4513-b253-e7dba9642187",
+            "login": "bohdan.samborskyi",
+            "displayName": "SAMBORSKYI Bohdan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MARTYNIUK Tetiana",
+            "relatedId": "e9f8741b-2e39-45d4-83d0-3f9033e97a08",
+            "relatedType": null,
+            "userId": "ec41e996-c3c1-4513-b253-e7dba9642187",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

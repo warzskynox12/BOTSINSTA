@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "e5275384-acd4-4f67-8965-6a894aad4ef0",
+            "login": "lana.oliveira",
+            "displayName": "OLIVEIRA Lana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "OLIVEIRA Vanessa",
+            "relatedId": "902fc627-6bcc-4041-a8e7-b4f1664a47e8",
+            "relatedType": null,
+            "userId": "e5275384-acd4-4f67-8965-6a894aad4ef0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

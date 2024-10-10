@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8eec420f-5d56-4a15-9b75-e7b18ec92173",
+            "login": "eric.blocq",
+            "displayName": "BLOCQ Eric",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BLOCQ Cathy",
+            "relatedId": "a794c27c-3b51-4c16-8169-daa9de9d6112",
+            "relatedType": null,
+            "userId": "8eec420f-5d56-4a15-9b75-e7b18ec92173",
+            "motto": "",
+            "photo": "/userbook/avatar/8eec420f-5d56-4a15-9b75-e7b18ec92173",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-04-09",
+            "hobbies": []
+        },
+        {
+            "id": "8eec420f-5d56-4a15-9b75-e7b18ec92173",
+            "login": "eric.blocq",
+            "displayName": "BLOCQ Eric",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BLOCQ Sébastien",
+            "relatedId": "c15a0286-c821-4ecd-857b-3de82781686c",
+            "relatedType": null,
+            "userId": "8eec420f-5d56-4a15-9b75-e7b18ec92173",
+            "motto": "",
+            "photo": "/userbook/avatar/8eec420f-5d56-4a15-9b75-e7b18ec92173",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-04-09",
+            "hobbies": []
+        }
+    ]
+}

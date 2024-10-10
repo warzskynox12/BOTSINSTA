@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fc9c2f9e-41dc-46cb-9ebe-e7030a4b8045",
+            "login": "yoann.noret--lebreton",
+            "displayName": "NORET--LE BRETON Yoann",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NORET Sylvain",
+            "relatedId": "2d1393f7-9338-42e0-8ee7-2f5c5e70687d",
+            "relatedType": null,
+            "userId": "fc9c2f9e-41dc-46cb-9ebe-e7030a4b8045",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fc9c2f9e-41dc-46cb-9ebe-e7030a4b8045",
+            "login": "yoann.noret--lebreton",
+            "displayName": "NORET--LE BRETON Yoann",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE BRETON Stéphanie",
+            "relatedId": "a911b883-0c84-45d5-90c3-fc7a4ed073fa",
+            "relatedType": null,
+            "userId": "fc9c2f9e-41dc-46cb-9ebe-e7030a4b8045",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

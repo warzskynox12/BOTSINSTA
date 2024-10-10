@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "dd8db45d-cf48-47de-8452-7ef1f445eacc",
+            "login": "william.alvesmonteiro",
+            "displayName": "ALVES MONTEIRO William",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ALVES MONTEIRO Anabela",
+            "relatedId": "a705153f-06d7-4db0-87af-681ae61eeec8",
+            "relatedType": null,
+            "userId": "dd8db45d-cf48-47de-8452-7ef1f445eacc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "dd8db45d-cf48-47de-8452-7ef1f445eacc",
+            "login": "william.alvesmonteiro",
+            "displayName": "ALVES MONTEIRO William",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ALVES MONTEIRO Tiago",
+            "relatedId": "7bf81453-a6c2-45bc-8b75-0b1f6dfc32c8",
+            "relatedType": null,
+            "userId": "dd8db45d-cf48-47de-8452-7ef1f445eacc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

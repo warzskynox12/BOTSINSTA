@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1676487d-0450-4a30-b83a-4bf689c4346e",
+            "login": "birane.thiam",
+            "displayName": "THIAM Birane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MANGANE Maty",
+            "relatedId": "a51026e3-d064-4668-a203-a2ddd6b247d6",
+            "relatedType": null,
+            "userId": "1676487d-0450-4a30-b83a-4bf689c4346e",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "1676487d-0450-4a30-b83a-4bf689c4346e",
+            "login": "birane.thiam",
+            "displayName": "THIAM Birane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THIAM Abdoulaye",
+            "relatedId": "cc5a736a-6d47-444e-a4c9-9c732f4f24a9",
+            "relatedType": null,
+            "userId": "1676487d-0450-4a30-b83a-4bf689c4346e",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

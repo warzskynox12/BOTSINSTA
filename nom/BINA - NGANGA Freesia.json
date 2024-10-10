@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3763ff43-7763-4415-979b-b58d588ec1c1",
+            "login": "freesia.bina-nganga",
+            "displayName": "BINA - NGANGA Freesia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BINA NGANGA Carole",
+            "relatedId": "0ad97b80-5e45-47db-97fe-cd99d9ccf378",
+            "relatedType": null,
+            "userId": "3763ff43-7763-4415-979b-b58d588ec1c1",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "3763ff43-7763-4415-979b-b58d588ec1c1",
+            "login": "freesia.bina-nganga",
+            "displayName": "BINA - NGANGA Freesia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BINA-NGANGA Gildas",
+            "relatedId": "4f90ba2c-8289-4711-814f-009e85ba40a9",
+            "relatedType": null,
+            "userId": "3763ff43-7763-4415-979b-b58d588ec1c1",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

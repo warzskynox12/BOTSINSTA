@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "dce1c557-5a49-40c0-abdd-036b6bc56661",
+            "login": "ayoub.benyoucef",
+            "displayName": "BENYOUCEF Ayoub",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENYOUCEF Hamed",
+            "relatedId": "59a0ec41-349e-482d-a503-7fe012c09e8c",
+            "relatedType": null,
+            "userId": "dce1c557-5a49-40c0-abdd-036b6bc56661",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "dce1c557-5a49-40c0-abdd-036b6bc56661",
+            "login": "ayoub.benyoucef",
+            "displayName": "BENYOUCEF Ayoub",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MEMMOU Nassima",
+            "relatedId": "6e4497f7-5fe4-43da-9b63-fd4fc7d9f2d8",
+            "relatedType": null,
+            "userId": "dce1c557-5a49-40c0-abdd-036b6bc56661",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

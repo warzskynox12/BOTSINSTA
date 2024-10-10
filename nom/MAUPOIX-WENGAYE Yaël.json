@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "500f7507-edc9-4f11-996c-2cd1e2b930e3",
+            "login": "yael.maupoixwengaye",
+            "displayName": "MAUPOIX-WENGAYE Yaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAUPOIX Jérôme",
+            "relatedId": "51d35356-2a5a-4ed4-bbbe-8e7badb1247a",
+            "relatedType": null,
+            "userId": "500f7507-edc9-4f11-996c-2cd1e2b930e3",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "500f7507-edc9-4f11-996c-2cd1e2b930e3",
+            "login": "yael.maupoixwengaye",
+            "displayName": "MAUPOIX-WENGAYE Yaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "WENGAYE Déborah",
+            "relatedId": "463ed871-8381-4ad5-a567-ce5692e81a6b",
+            "relatedType": null,
+            "userId": "500f7507-edc9-4f11-996c-2cd1e2b930e3",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4b2ecaab-b5a0-4c23-b5e1-6a141a51cd41",
+            "login": "nathalie.deandrade",
+            "displayName": "DE ANDRADE Nathalie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "QUILLOT Florence",
+            "relatedId": "62b17187-db2c-41dd-8779-9c4d4059d20c",
+            "relatedType": null,
+            "userId": "4b2ecaab-b5a0-4c23-b5e1-6a141a51cd41",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

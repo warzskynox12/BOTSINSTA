@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6cf96047-8cee-4dae-8f18-5557aea7b355",
+            "login": "mariia.kondratiuk",
+            "displayName": "KONDRATIUK Mariia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KONDRATIUK Nataliia",
+            "relatedId": "40eab754-80a7-42ab-8c27-ef19a9847623",
+            "relatedType": null,
+            "userId": "6cf96047-8cee-4dae-8f18-5557aea7b355",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

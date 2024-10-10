@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "550aa8e7-336d-4386-a561-a8af273bf751",
+            "login": "malia.ildefonse",
+            "displayName": "ILDEFONSE Malia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RÉAULT GUTIÉRREZ CONCEPCIÓN Claire",
+            "relatedId": "0012d037-6e5b-43ee-b4ce-931878d8d14d",
+            "relatedType": null,
+            "userId": "550aa8e7-336d-4386-a561-a8af273bf751",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "550aa8e7-336d-4386-a561-a8af273bf751",
+            "login": "malia.ildefonse",
+            "displayName": "ILDEFONSE Malia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ILDEFONSE Gilles",
+            "relatedId": "202a5630-d167-40da-9224-51c931e5a267",
+            "relatedType": null,
+            "userId": "550aa8e7-336d-4386-a561-a8af273bf751",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

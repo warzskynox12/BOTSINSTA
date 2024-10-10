@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6777cdd1-296e-48bf-a4c1-f6bfd8365bd9",
+            "login": "flore.dosramos--tourres",
+            "displayName": "DOS RAMOS--TOURRES Flore",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOS RAMOS TOURRES Patrique",
+            "relatedId": "f3c77f1e-d263-4b15-a518-d45c3799f079",
+            "relatedType": null,
+            "userId": "6777cdd1-296e-48bf-a4c1-f6bfd8365bd9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6777cdd1-296e-48bf-a4c1-f6bfd8365bd9",
+            "login": "flore.dosramos--tourres",
+            "displayName": "DOS RAMOS--TOURRES Flore",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TOURRES DOS RAMOS Julie",
+            "relatedId": "602495c9-854a-412b-8bf8-37e9010fe9df",
+            "relatedType": null,
+            "userId": "6777cdd1-296e-48bf-a4c1-f6bfd8365bd9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

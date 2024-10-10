@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0158a78a-0a5e-4ad7-845a-30b0e42476d5",
+            "login": "ema.jubely",
+            "displayName": "JUBELY Ema",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "JUBELY Philippe",
+            "relatedId": "93abef49-a3ac-4746-94b0-f727f544e62e",
+            "relatedType": null,
+            "userId": "0158a78a-0a5e-4ad7-845a-30b0e42476d5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0158a78a-0a5e-4ad7-845a-30b0e42476d5",
+            "login": "ema.jubely",
+            "displayName": "JUBELY Ema",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "EURANIE Betty",
+            "relatedId": "71b4475c-a276-4fc2-85ba-c9bc44e3f913",
+            "relatedType": null,
+            "userId": "0158a78a-0a5e-4ad7-845a-30b0e42476d5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

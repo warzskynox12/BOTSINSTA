@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d2af5e55-8fbc-4ac4-95e4-33b97a3943cf",
+            "login": "pierre.luhindi-fataki",
+            "displayName": "LUHINDI-FATAKI Pierre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BAMPELE BOSSIWA Alain",
+            "relatedId": "bb13d686-a0f1-42c6-b75f-8c5510c2422c",
+            "relatedType": null,
+            "userId": "d2af5e55-8fbc-4ac4-95e4-33b97a3943cf",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

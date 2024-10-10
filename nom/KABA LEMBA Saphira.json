@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0a8dde75-546d-4121-b238-505c29fbfb84",
+            "login": "saphira.kabalemba",
+            "displayName": "KABA LEMBA Saphira",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "N ZALA ZOLA Tina",
+            "relatedId": "d0c058b4-be20-4c3a-a519-667f2e85079f",
+            "relatedType": null,
+            "userId": "0a8dde75-546d-4121-b238-505c29fbfb84",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

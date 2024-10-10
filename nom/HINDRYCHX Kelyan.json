@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9296363e-225b-4f34-9c6e-ed5c5b073efa",
+            "login": "kelyan.hindrychx",
+            "displayName": "HINDRYCHX Kelyan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PEREZ Nathalie",
+            "relatedId": "fb6c3442-7459-44d2-963c-aaf1852e0b04",
+            "relatedType": null,
+            "userId": "9296363e-225b-4f34-9c6e-ed5c5b073efa",
+            "motto": "",
+            "photo": "",
+            "mood": "sick",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "9296363e-225b-4f34-9c6e-ed5c5b073efa",
+            "login": "kelyan.hindrychx",
+            "displayName": "HINDRYCHX Kelyan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HINDRYCHX Sebastien",
+            "relatedId": "0481f2a7-b6be-4b89-912b-e4a3a7e9fac0",
+            "relatedType": null,
+            "userId": "9296363e-225b-4f34-9c6e-ed5c5b073efa",
+            "motto": "",
+            "photo": "",
+            "mood": "sick",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

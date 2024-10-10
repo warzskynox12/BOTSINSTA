@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8905dfe2-fb54-4e58-ad89-2276d2ca6a14",
+            "login": "evan.defondaumiere",
+            "displayName": "DE FONDAUMIERE Evan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DE FONDAUMIERE Eric",
+            "relatedId": "370c9f38-0e9b-462f-8295-95b17468b9ab",
+            "relatedType": null,
+            "userId": "8905dfe2-fb54-4e58-ad89-2276d2ca6a14",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8905dfe2-fb54-4e58-ad89-2276d2ca6a14",
+            "login": "evan.defondaumiere",
+            "displayName": "DE FONDAUMIERE Evan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DE FONDAUMIERE Anne",
+            "relatedId": "bc8fb12f-e0df-44eb-9c61-95ea3604158f",
+            "relatedType": null,
+            "userId": "8905dfe2-fb54-4e58-ad89-2276d2ca6a14",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

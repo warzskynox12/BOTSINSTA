@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4197f440-7330-4d13-a2d5-200f2de8bf88",
+            "login": "anna.mariolle--harper",
+            "displayName": "MARIOLLE--HARPER Anna",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HARPER Alicia",
+            "relatedId": "30f1be5f-c9fe-45e3-bb43-6b4387957a49",
+            "relatedType": null,
+            "userId": "4197f440-7330-4d13-a2d5-200f2de8bf88",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "4197f440-7330-4d13-a2d5-200f2de8bf88",
+            "login": "anna.mariolle--harper",
+            "displayName": "MARIOLLE--HARPER Anna",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MARIOLLE Mathieu",
+            "relatedId": "af6d769c-20f9-45cc-af19-56afc165375f",
+            "relatedType": null,
+            "userId": "4197f440-7330-4d13-a2d5-200f2de8bf88",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

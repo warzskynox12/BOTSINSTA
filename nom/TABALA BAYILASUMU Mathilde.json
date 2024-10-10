@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "75812ae2-113b-480f-b0ab-d7e046801f0e",
+            "login": "mathilde.tabalabayilasumu",
+            "displayName": "TABALA BAYILASUMU Mathilde",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SEDEKE EPTABALA Ernestine",
+            "relatedId": "673ba3fb-7ba9-418e-996c-d094d803ecea",
+            "relatedType": null,
+            "userId": "75812ae2-113b-480f-b0ab-d7e046801f0e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "75812ae2-113b-480f-b0ab-d7e046801f0e",
+            "login": "mathilde.tabalabayilasumu",
+            "displayName": "TABALA BAYILASUMU Mathilde",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TABALA TABARO AFICKEL Jean-Pierre",
+            "relatedId": "ac67ea62-5ae9-427a-9360-d41d7ff338e0",
+            "relatedType": null,
+            "userId": "75812ae2-113b-480f-b0ab-d7e046801f0e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

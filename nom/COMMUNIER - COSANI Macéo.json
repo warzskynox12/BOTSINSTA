@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "472472f0-04d3-47eb-a4a6-91e3b49856c9",
+            "login": "maceo.communiercosani",
+            "displayName": "COMMUNIER - COSANI Macéo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "COMMUNIER Yann",
+            "relatedId": "3fcfd434-4bd7-4cda-9424-55af013752c2",
+            "relatedType": null,
+            "userId": "472472f0-04d3-47eb-a4a6-91e3b49856c9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "472472f0-04d3-47eb-a4a6-91e3b49856c9",
+            "login": "maceo.communiercosani",
+            "displayName": "COMMUNIER - COSANI Macéo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "COSANI Mélanie",
+            "relatedId": "79fb14b9-0186-4968-a6ad-b3a2bc216c65",
+            "relatedType": null,
+            "userId": "472472f0-04d3-47eb-a4a6-91e3b49856c9",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3d96efdf-0dab-42b0-8c3f-5e984828eae1",
+            "login": "vivien.alexandre",
+            "displayName": "ALEXANDRE Vivien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ALEXANDRE Pierre",
+            "relatedId": "274a3c82-723d-4d54-a24c-68bc75066f55",
+            "relatedType": null,
+            "userId": "3d96efdf-0dab-42b0-8c3f-5e984828eae1",
+            "motto": "OOKKKK",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "3d96efdf-0dab-42b0-8c3f-5e984828eae1",
+            "login": "vivien.alexandre",
+            "displayName": "ALEXANDRE Vivien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ALEXANDRE Chrystelle",
+            "relatedId": "8942e060-a702-40e7-a8de-602c474dad52",
+            "relatedType": null,
+            "userId": "3d96efdf-0dab-42b0-8c3f-5e984828eae1",
+            "motto": "OOKKKK",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

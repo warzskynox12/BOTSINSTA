@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c69fe4d7-ee0e-4352-a1b7-71fc1b6c741b",
+            "login": "clementine.placet",
+            "displayName": "PLACET Clémentine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GARCIA Stella",
+            "relatedId": "8e193699-df16-4ed9-82e9-7000aa865201",
+            "relatedType": null,
+            "userId": "c69fe4d7-ee0e-4352-a1b7-71fc1b6c741b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c69fe4d7-ee0e-4352-a1b7-71fc1b6c741b",
+            "login": "clementine.placet",
+            "displayName": "PLACET Clémentine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PLACET Frédéric",
+            "relatedId": "2c144a5c-dc0b-4f5d-8bc8-15acd6faa7a4",
+            "relatedType": null,
+            "userId": "c69fe4d7-ee0e-4352-a1b7-71fc1b6c741b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b02c419c-7ac4-4adb-b93a-3b7117cfa2cc",
+            "login": "oumelkheir.chohra",
+            "displayName": "CHOHRA Oum-Elkheir",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHOHRA Fatma-Zohra",
+            "relatedId": "3c5f4012-5abb-44fa-8829-0d0855e4b75f",
+            "relatedType": null,
+            "userId": "b02c419c-7ac4-4adb-b93a-3b7117cfa2cc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2009-06-29",
+            "hobbies": []
+        },
+        {
+            "id": "b02c419c-7ac4-4adb-b93a-3b7117cfa2cc",
+            "login": "oumelkheir.chohra",
+            "displayName": "CHOHRA Oum-Elkheir",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHOHRA Amar",
+            "relatedId": "c991c94c-8987-4949-a2bb-0d29df62ebf0",
+            "relatedType": null,
+            "userId": "b02c419c-7ac4-4adb-b93a-3b7117cfa2cc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2009-06-29",
+            "hobbies": []
+        }
+    ]
+}

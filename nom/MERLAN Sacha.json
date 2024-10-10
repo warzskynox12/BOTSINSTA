@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "699957ba-c779-4ff8-82c5-b37121601d03",
+            "login": "sacha.merlan",
+            "displayName": "MERLAN Sacha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MERLAN Dave",
+            "relatedId": "d5f13c28-4fcd-4d69-91e2-77d03ea37427",
+            "relatedType": null,
+            "userId": "699957ba-c779-4ff8-82c5-b37121601d03",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "699957ba-c779-4ff8-82c5-b37121601d03",
+            "login": "sacha.merlan",
+            "displayName": "MERLAN Sacha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MERLAN Laetitia",
+            "relatedId": "68542a85-a942-42e9-93ce-e1612e3155ea",
+            "relatedType": null,
+            "userId": "699957ba-c779-4ff8-82c5-b37121601d03",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

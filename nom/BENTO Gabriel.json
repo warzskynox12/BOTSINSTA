@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "48ca66aa-2cfb-47de-bd7d-e5973d158af7",
+            "login": "gabriel.bento",
+            "displayName": "BENTO Gabriel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENTO Luis Filipe",
+            "relatedId": "b3d30868-8de7-4db3-8aa0-339e0c6a3f1f",
+            "relatedType": null,
+            "userId": "48ca66aa-2cfb-47de-bd7d-e5973d158af7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "48ca66aa-2cfb-47de-bd7d-e5973d158af7",
+            "login": "gabriel.bento",
+            "displayName": "BENTO Gabriel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENTO Karine",
+            "relatedId": "f13c7a59-02ec-4c0a-8a3e-a2b4be0193d8",
+            "relatedType": null,
+            "userId": "48ca66aa-2cfb-47de-bd7d-e5973d158af7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

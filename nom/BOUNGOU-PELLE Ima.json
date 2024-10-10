@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c30e40e3-82fe-496c-b7d8-52d524a3b888",
+            "login": "ima.boungou-pelle",
+            "displayName": "BOUNGOU-PELLE Ima",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUNGOU-PELLE Eric",
+            "relatedId": "f4a43afd-1158-43ab-9b92-529f30b3b190",
+            "relatedType": null,
+            "userId": "c30e40e3-82fe-496c-b7d8-52d524a3b888",
+            "motto": "",
+            "photo": "/userbook/avatar/c30e40e3-82fe-496c-b7d8-52d524a3b888",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c30e40e3-82fe-496c-b7d8-52d524a3b888",
+            "login": "ima.boungou-pelle",
+            "displayName": "BOUNGOU-PELLE Ima",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUNGOU-PELLE Thérèse",
+            "relatedId": "d06bfcfa-9c0d-44d5-b610-82062f3cd40c",
+            "relatedType": null,
+            "userId": "c30e40e3-82fe-496c-b7d8-52d524a3b888",
+            "motto": "",
+            "photo": "/userbook/avatar/c30e40e3-82fe-496c-b7d8-52d524a3b888",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

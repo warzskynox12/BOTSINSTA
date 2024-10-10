@@ -1,0 +1,89 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6376b735-ec2f-42de-a40b-d2bfbf5413e0",
+            "login": "sarah.aitbenali3",
+            "displayName": "AIT BENALI Sarah",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AIT BENALI Chabane",
+            "relatedId": "d59a14ac-6dc7-4197-8e7d-7ed40d3771e3",
+            "relatedType": null,
+            "userId": "6376b735-ec2f-42de-a40b-d2bfbf5413e0",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "6376b735-ec2f-42de-a40b-d2bfbf5413e0",
+            "login": "sarah.aitbenali3",
+            "displayName": "AIT BENALI Sarah",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG8"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENAISSA Djazia",
+            "relatedId": "b7a7e5df-05dc-4011-b83b-68f57461b0a4",
+            "relatedType": null,
+            "userId": "6376b735-ec2f-42de-a40b-d2bfbf5413e0",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

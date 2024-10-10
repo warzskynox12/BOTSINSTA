@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4b761add-fec5-4337-be90-443597bd7093",
+            "login": "orliame.kongalodiha",
+            "displayName": "KONGA LODIHA Orliame",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BATEKA MBEMBA Jilva",
+            "relatedId": "cbfff51b-3374-4968-b4a1-b6d8f86482b5",
+            "relatedType": null,
+            "userId": "4b761add-fec5-4337-be90-443597bd7093",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "4b761add-fec5-4337-be90-443597bd7093",
+            "login": "orliame.kongalodiha",
+            "displayName": "KONGA LODIHA Orliame",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KONGA LODIHA Emmanuel",
+            "relatedId": "e9dc7495-6160-4d74-937d-df650e63530a",
+            "relatedType": null,
+            "userId": "4b761add-fec5-4337-be90-443597bd7093",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

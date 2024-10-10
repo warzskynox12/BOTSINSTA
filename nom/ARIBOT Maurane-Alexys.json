@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8fbb6238-5e4d-40dc-89dd-79e10b5fa346",
+            "login": "mauranealexys.aribot",
+            "displayName": "ARIBOT Maurane-Alexys",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ARIBOT Maria-Stella",
+            "relatedId": "23072d0a-b791-4c62-be4b-ee68c05a57c8",
+            "relatedType": null,
+            "userId": "8fbb6238-5e4d-40dc-89dd-79e10b5fa346",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0117c2df-a41b-4960-92d5-f18fb7d33223",
+            "login": "joana.pimentateixeira",
+            "displayName": "PIMENTA TEIXEIRA Joana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PIMENTA Georges",
+            "relatedId": "0cce24c4-a5a2-4215-8157-9c766ee589e3",
+            "relatedType": null,
+            "userId": "0117c2df-a41b-4960-92d5-f18fb7d33223",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0117c2df-a41b-4960-92d5-f18fb7d33223",
+            "login": "joana.pimentateixeira",
+            "displayName": "PIMENTA TEIXEIRA Joana",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TEIXEIRA Melissa",
+            "relatedId": "a59384e7-f3cd-4d21-8258-91f1e05c55e0",
+            "relatedType": null,
+            "userId": "0117c2df-a41b-4960-92d5-f18fb7d33223",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

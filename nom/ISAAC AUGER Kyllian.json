@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "96438370-368b-4533-89ce-3b8ce776195d",
+            "login": "kyllian.isaacauger",
+            "displayName": "ISAAC AUGER Kyllian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AUGER Nadège",
+            "relatedId": "30d0739b-3211-4ab8-9e94-c828d0cf384e",
+            "relatedType": null,
+            "userId": "96438370-368b-4533-89ce-3b8ce776195d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "96438370-368b-4533-89ce-3b8ce776195d",
+            "login": "kyllian.isaacauger",
+            "displayName": "ISAAC AUGER Kyllian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ISAAC Sébastien",
+            "relatedId": "76b4a2a2-7073-432d-8745-4cebe1601ebd",
+            "relatedType": null,
+            "userId": "96438370-368b-4533-89ce-3b8ce776195d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

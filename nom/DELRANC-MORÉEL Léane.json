@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "999a605d-ed5e-41aa-9031-8f4b343cdab0",
+            "login": "leane.delranc-moreel",
+            "displayName": "DELRANC-MORÉEL Léane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DELRANC Edouard",
+            "relatedId": "623f2b4c-c654-4882-aa06-69dacd3f09d3",
+            "relatedType": null,
+            "userId": "999a605d-ed5e-41aa-9031-8f4b343cdab0",
+            "motto": "",
+            "photo": "/userbook/avatar/999a605d-ed5e-41aa-9031-8f4b343cdab0",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "999a605d-ed5e-41aa-9031-8f4b343cdab0",
+            "login": "leane.delranc-moreel",
+            "displayName": "DELRANC-MORÉEL Léane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MORÉEL Sophie",
+            "relatedId": "84000873-84c3-448d-a208-04b87d0cecb6",
+            "relatedType": null,
+            "userId": "999a605d-ed5e-41aa-9031-8f4b343cdab0",
+            "motto": "",
+            "photo": "/userbook/avatar/999a605d-ed5e-41aa-9031-8f4b343cdab0",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

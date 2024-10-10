@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3fe609bd-7de5-4bc8-a00e-cf6c875bbc38",
+            "login": "melina.zerrouki",
+            "displayName": "ZERROUKI Mélina",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HANNEQUIN Sonia",
+            "relatedId": "f39dddc9-4710-4e2e-845d-49cec5ea94b8",
+            "relatedType": null,
+            "userId": "3fe609bd-7de5-4bc8-a00e-cf6c875bbc38",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

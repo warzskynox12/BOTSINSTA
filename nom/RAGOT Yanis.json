@@ -1,0 +1,74 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7019ded3-ca50-4209-9e5f-d8a18fa6c5f7",
+            "login": "yanis.ragot",
+            "displayName": "RAGOT Yanis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RAGOT Pierre",
+            "relatedId": "1d8e39eb-512a-4a50-8045-0fbb2464f86a",
+            "relatedType": null,
+            "userId": "7019ded3-ca50-4209-9e5f-d8a18fa6c5f7",
+            "motto": "XDDD",
+            "photo": "/userbook/avatar/7019ded3-ca50-4209-9e5f-d8a18fa6c5f7",
+            "mood": "happy",
+            "health": "je suis trop crazy foufou un peu",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "jsp"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "barbie"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "marine le pen"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "among us"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "ma chambre"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "autobio de zemmour"
+                }
+            ]
+        }
+    ]
+}

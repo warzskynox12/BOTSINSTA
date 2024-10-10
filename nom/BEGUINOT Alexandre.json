@@ -1,0 +1,145 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "bbcee287-97ec-4ab7-ba1d-fdf9d1314c07",
+            "login": "alexandre.beguinot",
+            "displayName": "BEGUINOT Alexandre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BEGUINOT Herve",
+            "relatedId": "cb4a80a5-6401-4e44-b316-ab8a0cb1841c",
+            "relatedType": null,
+            "userId": "bbcee287-97ec-4ab7-ba1d-fdf9d1314c07",
+            "motto": "être faible n'est pas une honte mais c'est resté faible qui en est une.",
+            "photo": "/userbook/avatar/bbcee287-97ec-4ab7-ba1d-fdf9d1314c07",
+            "mood": "dreamy",
+            "health": "l'erreur est une chance \n",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-02-02",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "bbcee287-97ec-4ab7-ba1d-fdf9d1314c07",
+            "login": "alexandre.beguinot",
+            "displayName": "BEGUINOT Alexandre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BEGUINOT Sandrine",
+            "relatedId": "11d6c0bf-5603-445f-8304-e793543fe925",
+            "relatedType": null,
+            "userId": "bbcee287-97ec-4ab7-ba1d-fdf9d1314c07",
+            "motto": "être faible n'est pas une honte mais c'est resté faible qui en est une.",
+            "photo": "/userbook/avatar/bbcee287-97ec-4ab7-ba1d-fdf9d1314c07",
+            "mood": "dreamy",
+            "health": "l'erreur est une chance \n",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-02-02",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

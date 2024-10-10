@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6f6c98d2-003b-4981-8af6-07f8b05a04cd",
+            "login": "baptiste.cousin",
+            "displayName": "COUSIN Baptiste",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "COUSIN Cyril",
+            "relatedId": "37d9a710-3a24-4787-86c4-63bc9646686e",
+            "relatedType": null,
+            "userId": "6f6c98d2-003b-4981-8af6-07f8b05a04cd",
+            "motto": "(╯°□°）╯︵ ┻━┻",
+            "photo": "/userbook/avatar/6f6c98d2-003b-4981-8af6-07f8b05a04cd",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6f6c98d2-003b-4981-8af6-07f8b05a04cd",
+            "login": "baptiste.cousin",
+            "displayName": "COUSIN Baptiste",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "COUSIN Diane",
+            "relatedId": "09cc9c9a-2b16-447c-b608-2594920b60ef",
+            "relatedType": null,
+            "userId": "6f6c98d2-003b-4981-8af6-07f8b05a04cd",
+            "motto": "(╯°□°）╯︵ ┻━┻",
+            "photo": "/userbook/avatar/6f6c98d2-003b-4981-8af6-07f8b05a04cd",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

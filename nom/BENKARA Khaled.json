@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5577901b-781d-4975-9977-00023aa0cbb4",
+            "login": "khaled.benkara",
+            "displayName": "BENKARA Khaled",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENKARA Djelloul",
+            "relatedId": "fddd1dbd-0267-4668-bb0f-99932cccd299",
+            "relatedType": null,
+            "userId": "5577901b-781d-4975-9977-00023aa0cbb4",
+            "motto": "",
+            "photo": "/userbook/avatar/5577901b-781d-4975-9977-00023aa0cbb4",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-10-26",
+            "hobbies": []
+        },
+        {
+            "id": "5577901b-781d-4975-9977-00023aa0cbb4",
+            "login": "khaled.benkara",
+            "displayName": "BENKARA Khaled",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENKARA Samia",
+            "relatedId": "8a25fc28-e449-4504-86f8-a77835df5ec3",
+            "relatedType": null,
+            "userId": "5577901b-781d-4975-9977-00023aa0cbb4",
+            "motto": "",
+            "photo": "/userbook/avatar/5577901b-781d-4975-9977-00023aa0cbb4",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2007-10-26",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3fb66371-fed0-48b8-8af4-be1cc22143cb",
+            "login": "julien.lemaitre",
+            "displayName": "LEMAITRE Julien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEMAITRE Thomas",
+            "relatedId": "c92428ff-a940-432d-9ac2-d5979a88524f",
+            "relatedType": null,
+            "userId": "3fb66371-fed0-48b8-8af4-be1cc22143cb",
+            "motto": "never give up",
+            "photo": "/userbook/avatar/3fb66371-fed0-48b8-8af4-be1cc22143cb",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-09-26",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "musculation"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "sciense fictioon "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "loup"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "un peu de tous"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "terre"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "BD"
+                }
+            ]
+        },
+        {
+            "id": "3fb66371-fed0-48b8-8af4-be1cc22143cb",
+            "login": "julien.lemaitre",
+            "displayName": "LEMAITRE Julien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEMAITRE-DAUVILLIERS Sandra",
+            "relatedId": "c05d3305-0fd0-4c57-89d6-82c1be2808c7",
+            "relatedType": null,
+            "userId": "3fb66371-fed0-48b8-8af4-be1cc22143cb",
+            "motto": "never give up",
+            "photo": "/userbook/avatar/3fb66371-fed0-48b8-8af4-be1cc22143cb",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-09-26",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "musculation"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "sciense fictioon "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "loup"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "un peu de tous"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "terre"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "BD"
+                }
+            ]
+        }
+    ]
+}

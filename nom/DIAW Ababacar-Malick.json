@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0859b0f4-97c8-45a9-b9eb-0a4c75ea86d2",
+            "login": "ababacar-malick.diaw",
+            "displayName": "DIAW Ababacar-Malick",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIAW Ramatoulaye",
+            "relatedId": "e4e108d6-f7bd-4494-a616-2d9b0c723df4",
+            "relatedType": null,
+            "userId": "0859b0f4-97c8-45a9-b9eb-0a4c75ea86d2",
+            "motto": "",
+            "photo": "/userbook/avatar/0859b0f4-97c8-45a9-b9eb-0a4c75ea86d2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0859b0f4-97c8-45a9-b9eb-0a4c75ea86d2",
+            "login": "ababacar-malick.diaw",
+            "displayName": "DIAW Ababacar-Malick",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DIAW Yaya",
+            "relatedId": "c8412959-3809-4e04-8149-e4311f4cde97",
+            "relatedType": null,
+            "userId": "0859b0f4-97c8-45a9-b9eb-0a4c75ea86d2",
+            "motto": "",
+            "photo": "/userbook/avatar/0859b0f4-97c8-45a9-b9eb-0a4c75ea86d2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

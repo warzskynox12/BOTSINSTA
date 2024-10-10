@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "f46f3dd1-ae03-43cd-86ed-79a74bbeabef",
+            "login": "faisaladeola.sunmola",
+            "displayName": "SUNMOLA Faisal Adeola",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "211"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SUNMOLA Moshood Alamu",
+            "relatedId": "0093bced-f253-4db9-a6c0-131d65f679c4",
+            "relatedType": null,
+            "userId": "f46f3dd1-ae03-43cd-86ed-79a74bbeabef",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "f46f3dd1-ae03-43cd-86ed-79a74bbeabef",
+            "login": "faisaladeola.sunmola",
+            "displayName": "SUNMOLA Faisal Adeola",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "211"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SUNMOLA Ganiyat Oluwakemi",
+            "relatedId": "f1956ee2-4a8a-464a-be1f-0441e8bd3c7d",
+            "relatedType": null,
+            "userId": "f46f3dd1-ae03-43cd-86ed-79a74bbeabef",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

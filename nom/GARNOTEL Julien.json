@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0c648ee8-f19f-4e89-aa45-54c81b495614",
+            "login": "julien.garnotel",
+            "displayName": "GARNOTEL Julien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GARNOTEL Laurent",
+            "relatedId": "16d042b5-8c00-4aa7-9d40-a153e8195600",
+            "relatedType": null,
+            "userId": "0c648ee8-f19f-4e89-aa45-54c81b495614",
+            "motto": "(☞ﾟヮﾟ)☞ 💥 ☜(ﾟヮﾟ☜)",
+            "photo": "/userbook/avatar/0c648ee8-f19f-4e89-aa45-54c81b495614",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0c648ee8-f19f-4e89-aa45-54c81b495614",
+            "login": "julien.garnotel",
+            "displayName": "GARNOTEL Julien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FOUILLET Murielle",
+            "relatedId": "c30005c9-eb0f-4dfa-aa2c-1a715cce4efe",
+            "relatedType": null,
+            "userId": "0c648ee8-f19f-4e89-aa45-54c81b495614",
+            "motto": "(☞ﾟヮﾟ)☞ 💥 ☜(ﾟヮﾟ☜)",
+            "photo": "/userbook/avatar/0c648ee8-f19f-4e89-aa45-54c81b495614",
+            "mood": "sad",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

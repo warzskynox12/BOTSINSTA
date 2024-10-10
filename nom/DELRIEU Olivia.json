@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5e24737e-0299-4518-82b3-933fd5f6c060",
+            "login": "olivia.delrieu",
+            "displayName": "DELRIEU Olivia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DELRIEU Aurélien",
+            "relatedId": "1cad4175-a6e4-498b-98ee-0f70ff5b5760",
+            "relatedType": null,
+            "userId": "5e24737e-0299-4518-82b3-933fd5f6c060",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-10-28",
+            "hobbies": []
+        },
+        {
+            "id": "5e24737e-0299-4518-82b3-933fd5f6c060",
+            "login": "olivia.delrieu",
+            "displayName": "DELRIEU Olivia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DELRIEU Stéphanie",
+            "relatedId": "25ac9f5b-0567-40e0-906c-be1025ef3fe3",
+            "relatedType": null,
+            "userId": "5e24737e-0299-4518-82b3-933fd5f6c060",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2006-10-28",
+            "hobbies": []
+        }
+    ]
+}

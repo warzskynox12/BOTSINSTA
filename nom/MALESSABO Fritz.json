@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8dfa3198-9b81-4e70-b56b-004eb35e1785",
+            "login": "fritz.malessabo",
+            "displayName": "MALESSABO Fritz",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "YANGOUFOLO MALESSABO Audrey",
+            "relatedId": "5497fa85-cb3c-43ba-b72e-ad79ff490d72",
+            "relatedType": null,
+            "userId": "8dfa3198-9b81-4e70-b56b-004eb35e1785",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "8dfa3198-9b81-4e70-b56b-004eb35e1785",
+            "login": "fritz.malessabo",
+            "displayName": "MALESSABO Fritz",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "YANGOUFOLO MALESSABO Martial Didier",
+            "relatedId": "50141f66-0fe1-4b3c-858e-083851084733",
+            "relatedType": null,
+            "userId": "8dfa3198-9b81-4e70-b56b-004eb35e1785",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

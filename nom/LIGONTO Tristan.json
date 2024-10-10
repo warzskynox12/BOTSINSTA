@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "267d20d8-85ac-4a02-952f-5c19953d5905",
+            "login": "tristan.ligonto",
+            "displayName": "LIGONTO Tristan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LIGONTO Sebastien",
+            "relatedId": "b22e1a6a-d4f7-4b85-bc45-7d8eeee75a3a",
+            "relatedType": null,
+            "userId": "267d20d8-85ac-4a02-952f-5c19953d5905",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "267d20d8-85ac-4a02-952f-5c19953d5905",
+            "login": "tristan.ligonto",
+            "displayName": "LIGONTO Tristan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LIGONTO Valerie",
+            "relatedId": "3d444efd-5b40-4843-9c62-0fa0c343228b",
+            "relatedType": null,
+            "userId": "267d20d8-85ac-4a02-952f-5c19953d5905",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

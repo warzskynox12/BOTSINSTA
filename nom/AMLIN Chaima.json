@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5c53ac83-a05d-47ac-92ba-cc2ff320b50e",
+            "login": "chaima.amlin",
+            "displayName": "AMLIN Chaima",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PETREMONT Magali",
+            "relatedId": "7e3cb5d9-3d19-4016-be1e-89fe71b29794",
+            "relatedType": null,
+            "userId": "5c53ac83-a05d-47ac-92ba-cc2ff320b50e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

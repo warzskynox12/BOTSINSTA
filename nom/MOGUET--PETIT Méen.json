@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "95179fea-2083-4d24-90b1-71b030375a79",
+            "login": "meen.moguet--petit",
+            "displayName": "MOGUET--PETIT Méen",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MOGUET Nathalie",
+            "relatedId": "20052f5e-8c1c-429f-8a26-4df7f08a35f9",
+            "relatedType": null,
+            "userId": "95179fea-2083-4d24-90b1-71b030375a79",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "95179fea-2083-4d24-90b1-71b030375a79",
+            "login": "meen.moguet--petit",
+            "displayName": "MOGUET--PETIT Méen",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PETIT Jérôme",
+            "relatedId": "32ee9364-2456-46e4-b978-eeb7fa99dafb",
+            "relatedType": null,
+            "userId": "95179fea-2083-4d24-90b1-71b030375a79",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

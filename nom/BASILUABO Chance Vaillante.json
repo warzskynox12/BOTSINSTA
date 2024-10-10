@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "60af02c8-5590-4ed7-abe8-ec20b32e57bf",
+            "login": "chancevaillante.basiluabo",
+            "displayName": "BASILUABO Chance Vaillante",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NGONDO Marie-Louise",
+            "relatedId": "3d48bc03-f18b-42d8-afa5-86786bca7a81",
+            "relatedType": null,
+            "userId": "60af02c8-5590-4ed7-abe8-ec20b32e57bf",
+            "motto": "",
+            "photo": "/userbook/avatar/60af02c8-5590-4ed7-abe8-ec20b32e57bf",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "60af02c8-5590-4ed7-abe8-ec20b32e57bf",
+            "login": "chancevaillante.basiluabo",
+            "displayName": "BASILUABO Chance Vaillante",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BASILUABO Vaillant Chancelier",
+            "relatedId": "3cbd412e-02fc-492b-947c-20018f48cc55",
+            "relatedType": null,
+            "userId": "60af02c8-5590-4ed7-abe8-ec20b32e57bf",
+            "motto": "",
+            "photo": "/userbook/avatar/60af02c8-5590-4ed7-abe8-ec20b32e57bf",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

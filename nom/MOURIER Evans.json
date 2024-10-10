@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b0c9f631-3346-4a5f-a5b3-484e6ebe67a8",
+            "login": "evans.mourier",
+            "displayName": "MOURIER Evans",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MOURIER Thierry",
+            "relatedId": "01d5d720-4637-4929-b6cb-fe9bc2fbe777",
+            "relatedType": null,
+            "userId": "b0c9f631-3346-4a5f-a5b3-484e6ebe67a8",
+            "motto": "C’qui compte c’est pas c’qu’on fait dans la vie mais c’quon fait de sa vie",
+            "photo": "/userbook/avatar/b0c9f631-3346-4a5f-a5b3-484e6ebe67a8",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "b0c9f631-3346-4a5f-a5b3-484e6ebe67a8",
+            "login": "evans.mourier",
+            "displayName": "MOURIER Evans",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SUNER Karine",
+            "relatedId": "b5e51ad9-9ab5-4a14-8850-c90d4d611387",
+            "relatedType": null,
+            "userId": "b0c9f631-3346-4a5f-a5b3-484e6ebe67a8",
+            "motto": "C’qui compte c’est pas c’qu’on fait dans la vie mais c’quon fait de sa vie",
+            "photo": "/userbook/avatar/b0c9f631-3346-4a5f-a5b3-484e6ebe67a8",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

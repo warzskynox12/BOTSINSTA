@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "58939f52-cf79-4582-811c-284e0810d0f2",
+            "login": "guri.lachkarachvili",
+            "displayName": "LACHKARACHVILI Guri",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LACHKARACHVILI Zakaria",
+            "relatedId": "93417b68-7658-4f82-8933-404b282d592a",
+            "relatedType": null,
+            "userId": "58939f52-cf79-4582-811c-284e0810d0f2",
+            "motto": "",
+            "photo": "/userbook/avatar/58939f52-cf79-4582-811c-284e0810d0f2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "58939f52-cf79-4582-811c-284e0810d0f2",
+            "login": "guri.lachkarachvili",
+            "displayName": "LACHKARACHVILI Guri",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LACHKARACHVILI Médéa",
+            "relatedId": "cc4fffe8-28a6-4476-9a30-08262db1be6b",
+            "relatedType": null,
+            "userId": "58939f52-cf79-4582-811c-284e0810d0f2",
+            "motto": "",
+            "photo": "/userbook/avatar/58939f52-cf79-4582-811c-284e0810d0f2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

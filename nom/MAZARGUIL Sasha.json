@@ -1,0 +1,89 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "58f45be7-fba2-4323-9b6e-4fe1cffeeddf",
+            "login": "sasha.mazarguil",
+            "displayName": "MAZARGUIL Sasha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAZARGUIL Sébastien",
+            "relatedId": "b3d9285b-ca3a-4c01-8612-080df66c5e6b",
+            "relatedType": null,
+            "userId": "58f45be7-fba2-4323-9b6e-4fe1cffeeddf",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "58f45be7-fba2-4323-9b6e-4fe1cffeeddf",
+            "login": "sasha.mazarguil",
+            "displayName": "MAZARGUIL Sasha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "JEAN Ludivine",
+            "relatedId": "f24ddcd9-46ed-43d3-ad39-c6ebc9762a4b",
+            "relatedType": null,
+            "userId": "58f45be7-fba2-4323-9b6e-4fe1cffeeddf",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

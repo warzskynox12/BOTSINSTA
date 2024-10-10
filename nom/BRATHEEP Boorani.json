@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "919ab261-c483-45b9-ad6e-4b91e2af6a20",
+            "login": "boorani.bratheep",
+            "displayName": "BRATHEEP Boorani",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BRATHEEP Uthayamalini",
+            "relatedId": "ae4e1083-5eb3-4cee-b775-5278c5ef241c",
+            "relatedType": null,
+            "userId": "919ab261-c483-45b9-ad6e-4b91e2af6a20",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "919ab261-c483-45b9-ad6e-4b91e2af6a20",
+            "login": "boorani.bratheep",
+            "displayName": "BRATHEEP Boorani",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAHALINGAM Bratheep",
+            "relatedId": "1d0cb79b-3904-4261-9c69-859cfbc51c62",
+            "relatedType": null,
+            "userId": "919ab261-c483-45b9-ad6e-4b91e2af6a20",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

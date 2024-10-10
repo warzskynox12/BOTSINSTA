@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fbf07a1c-1b08-45ca-9fee-6c6a54f9a4dc",
+            "login": "clement.letallec",
+            "displayName": "LE TALLEC Clément",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE TALLEC Fabien",
+            "relatedId": "53ae3e7a-23a1-4783-a658-f995de1fae18",
+            "relatedType": null,
+            "userId": "fbf07a1c-1b08-45ca-9fee-6c6a54f9a4dc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fbf07a1c-1b08-45ca-9fee-6c6a54f9a4dc",
+            "login": "clement.letallec",
+            "displayName": "LE TALLEC Clément",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VINET Laêtitia",
+            "relatedId": "f0ec36f9-9eec-4d03-be2b-633d9e8730a9",
+            "relatedType": null,
+            "userId": "fbf07a1c-1b08-45ca-9fee-6c6a54f9a4dc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

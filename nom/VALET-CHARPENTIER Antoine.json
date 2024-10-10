@@ -1,0 +1,139 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "265ead87-76ec-4807-b670-e55de46c85be",
+            "login": "antoine.valet-charpentier",
+            "displayName": "VALET-CHARPENTIER Antoine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VALET Jerome",
+            "relatedId": "b5864638-cd10-4d0f-91c8-6402e585c04b",
+            "relatedType": null,
+            "userId": "265ead87-76ec-4807-b670-e55de46c85be",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "ta mere "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "oui,oui"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "enzo ballerini"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "tchoupi "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "dans ton cul"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "assez alaise "
+                }
+            ]
+        },
+        {
+            "id": "265ead87-76ec-4807-b670-e55de46c85be",
+            "login": "antoine.valet-charpentier",
+            "displayName": "VALET-CHARPENTIER Antoine",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VALET Beatrice",
+            "relatedId": "86cb874c-6d48-415a-8cd9-c46e51678240",
+            "relatedType": null,
+            "userId": "265ead87-76ec-4807-b670-e55de46c85be",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "ta mere "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "oui,oui"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "enzo ballerini"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "tchoupi "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "dans ton cul"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "assez alaise "
+                }
+            ]
+        }
+    ]
+}

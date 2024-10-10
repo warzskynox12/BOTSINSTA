@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "e5ac989c-d13e-47d2-b2ab-3531c4656dc9",
+            "login": "paul.roulleau2",
+            "displayName": "ROULLEAU Paul",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ROULLEAU Laurent",
+            "relatedId": "af896a68-3a6c-49c7-acbd-8da8802869df",
+            "relatedType": null,
+            "userId": "e5ac989c-d13e-47d2-b2ab-3531c4656dc9",
+            "motto": "J'aime bien les chips au vinaigre",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "e5ac989c-d13e-47d2-b2ab-3531c4656dc9",
+            "login": "paul.roulleau2",
+            "displayName": "ROULLEAU Paul",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ROULLEAU Karine",
+            "relatedId": "d0b2a1f5-35c4-4ca1-b156-ec787d5a3c51",
+            "relatedType": null,
+            "userId": "e5ac989c-d13e-47d2-b2ab-3531c4656dc9",
+            "motto": "J'aime bien les chips au vinaigre",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

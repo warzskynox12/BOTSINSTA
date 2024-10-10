@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2c0e2045-9786-4a5a-9c3d-8c72454cee0e",
+            "login": "kiannh.koukouossa",
+            "displayName": "KOUKOUOSSA Kiannh",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KINTA Brechy",
+            "relatedId": "b15edef1-03ea-4a34-88f5-90f0c241bf81",
+            "relatedType": null,
+            "userId": "2c0e2045-9786-4a5a-9c3d-8c72454cee0e",
+            "motto": "",
+            "photo": "/userbook/avatar/2c0e2045-9786-4a5a-9c3d-8c72454cee0e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2c0e2045-9786-4a5a-9c3d-8c72454cee0e",
+            "login": "kiannh.koukouossa",
+            "displayName": "KOUKOUOSSA Kiannh",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KOUKOUOSSA Appolinaire",
+            "relatedId": "fb95500e-e231-4fee-b155-d762f4ab8495",
+            "relatedType": null,
+            "userId": "2c0e2045-9786-4a5a-9c3d-8c72454cee0e",
+            "motto": "",
+            "photo": "/userbook/avatar/2c0e2045-9786-4a5a-9c3d-8c72454cee0e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

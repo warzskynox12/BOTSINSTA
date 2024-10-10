@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2d93f320-983c-49b7-bb05-d712f695f1f2",
+            "login": "seyram.gbenou",
+            "displayName": "GBENOU Séyram",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GBENOU Mawunya Koffi",
+            "relatedId": "6ae459ed-2a6a-4b4e-b233-de1534a4f0ba",
+            "relatedType": null,
+            "userId": "2d93f320-983c-49b7-bb05-d712f695f1f2",
+            "motto": "",
+            "photo": "/userbook/avatar/2d93f320-983c-49b7-bb05-d712f695f1f2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2d93f320-983c-49b7-bb05-d712f695f1f2",
+            "login": "seyram.gbenou",
+            "displayName": "GBENOU Séyram",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "YOKA Noelle Joselyne",
+            "relatedId": "f3077ab8-e6bf-44fb-85d0-1bed2859920f",
+            "relatedType": null,
+            "userId": "2d93f320-983c-49b7-bb05-d712f695f1f2",
+            "motto": "",
+            "photo": "/userbook/avatar/2d93f320-983c-49b7-bb05-d712f695f1f2",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

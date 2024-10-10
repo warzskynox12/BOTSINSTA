@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "f0c8c38b-aa53-4666-a9de-cb905c453e06",
+            "login": "mathis.defreitas-reed",
+            "displayName": "DE FREITAS-REED Mathis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DE FREITAS Bruno",
+            "relatedId": "b9fad89b-989f-4ae3-9b78-a01d98c10b8a",
+            "relatedType": null,
+            "userId": "f0c8c38b-aa53-4666-a9de-cb905c453e06",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "f0c8c38b-aa53-4666-a9de-cb905c453e06",
+            "login": "mathis.defreitas-reed",
+            "displayName": "DE FREITAS-REED Mathis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "REED Nathalie",
+            "relatedId": "c5926b10-ebf4-4481-9175-131914ca3c15",
+            "relatedType": null,
+            "userId": "f0c8c38b-aa53-4666-a9de-cb905c453e06",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2c78a56a-e29f-4d3f-8604-ef700e969b66",
+            "login": "quentin.kozlowski",
+            "displayName": "KOZLOWSKI Quentin",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GOGARD Sandrine",
+            "relatedId": "cd800663-3b89-4cb6-b934-6bc6d02ff4cb",
+            "relatedType": null,
+            "userId": "2c78a56a-e29f-4d3f-8604-ef700e969b66",
+            "motto": "Hey there! I am using ent iledefrance",
+            "photo": "/userbook/avatar/2c78a56a-e29f-4d3f-8604-ef700e969b66",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2c78a56a-e29f-4d3f-8604-ef700e969b66",
+            "login": "quentin.kozlowski",
+            "displayName": "KOZLOWSKI Quentin",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_HEALTH"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KOZLOWSKI Jérôme",
+            "relatedId": "e08522c2-4334-4877-9a80-9a261407a0d4",
+            "relatedType": null,
+            "userId": "2c78a56a-e29f-4d3f-8604-ef700e969b66",
+            "motto": "Hey there! I am using ent iledefrance",
+            "photo": "/userbook/avatar/2c78a56a-e29f-4d3f-8604-ef700e969b66",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

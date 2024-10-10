@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7df4169a-c47b-4a3c-a2c1-59a1e5de1f29",
+            "login": "lucas.grau",
+            "displayName": "GRAU Lucas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GRAU Carla",
+            "relatedId": "d757c464-6a15-40d1-ab5d-6593ef3dbd17",
+            "relatedType": null,
+            "userId": "7df4169a-c47b-4a3c-a2c1-59a1e5de1f29",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7df4169a-c47b-4a3c-a2c1-59a1e5de1f29",
+            "login": "lucas.grau",
+            "displayName": "GRAU Lucas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GRAU Thierry",
+            "relatedId": "def19e98-62b1-441a-b036-f9aba03b42a1",
+            "relatedType": null,
+            "userId": "7df4169a-c47b-4a3c-a2c1-59a1e5de1f29",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

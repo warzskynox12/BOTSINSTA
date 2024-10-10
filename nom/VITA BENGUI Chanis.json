@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "253d6c19-68ec-4d9d-b40a-090c028b5a1a",
+            "login": "chanis.vitabengui",
+            "displayName": "VITA BENGUI Chanis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VITA BENGUI Nsamba Teresa",
+            "relatedId": "5a6faee4-193f-4f22-95a4-935ffc2b1872",
+            "relatedType": null,
+            "userId": "253d6c19-68ec-4d9d-b40a-090c028b5a1a",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

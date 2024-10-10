@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "ef7f5d74-4689-4b90-8177-bfd364c2ce19",
+            "login": "faycal.kissi",
+            "displayName": "KISSI Faycal",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "214"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KISSI Sabrina",
+            "relatedId": "b2eda7cb-7a60-4205-aabe-477761857b7a",
+            "relatedType": null,
+            "userId": "ef7f5d74-4689-4b90-8177-bfd364c2ce19",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "ef7f5d74-4689-4b90-8177-bfd364c2ce19",
+            "login": "faycal.kissi",
+            "displayName": "KISSI Faycal",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "214"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KISSI Saïd",
+            "relatedId": "c24547e2-0769-4b84-84a6-2cacea30b90d",
+            "relatedType": null,
+            "userId": "ef7f5d74-4689-4b90-8177-bfd364c2ce19",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

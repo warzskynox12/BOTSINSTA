@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c6181a7b-5e44-43c7-a745-2c0c7be250d0",
+            "login": "erina.gottardini",
+            "displayName": "GOTTARDINI Erina",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GOTTARDINI Eric",
+            "relatedId": "b0ccc2c7-897e-4e86-b810-788ae35e5375",
+            "relatedType": null,
+            "userId": "c6181a7b-5e44-43c7-a745-2c0c7be250d0",
+            "motto": "C'est avec la différence qu'on crée la nouveauté !",
+            "photo": "/userbook/avatar/c6181a7b-5e44-43c7-a745-2c0c7be250d0",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c6181a7b-5e44-43c7-a745-2c0c7be250d0",
+            "login": "erina.gottardini",
+            "displayName": "GOTTARDINI Erina",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SAKPONGSATHON Onvinee",
+            "relatedId": "e4be0739-4721-427c-9a4f-bb5e536a4452",
+            "relatedType": null,
+            "userId": "c6181a7b-5e44-43c7-a745-2c0c7be250d0",
+            "motto": "C'est avec la différence qu'on crée la nouveauté !",
+            "photo": "/userbook/avatar/c6181a7b-5e44-43c7-a745-2c0c7be250d0",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

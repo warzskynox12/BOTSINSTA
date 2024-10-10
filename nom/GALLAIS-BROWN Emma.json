@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "89e56273-9bec-4a44-9b4f-8d65be8bb7c0",
+            "login": "emma.gallais-brown",
+            "displayName": "GALLAIS-BROWN Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BROWN Karine",
+            "relatedId": "d8cdebc0-6ec3-4f56-9eac-d44003f96ebf",
+            "relatedType": null,
+            "userId": "89e56273-9bec-4a44-9b4f-8d65be8bb7c0",
+            "motto": "",
+            "photo": "/userbook/avatar/89e56273-9bec-4a44-9b4f-8d65be8bb7c0",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "89e56273-9bec-4a44-9b4f-8d65be8bb7c0",
+            "login": "emma.gallais-brown",
+            "displayName": "GALLAIS-BROWN Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GALLAIS Mickael",
+            "relatedId": "b220b300-3ac6-4e2d-82f8-3c88cb190c3a",
+            "relatedType": null,
+            "userId": "89e56273-9bec-4a44-9b4f-8d65be8bb7c0",
+            "motto": "",
+            "photo": "/userbook/avatar/89e56273-9bec-4a44-9b4f-8d65be8bb7c0",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

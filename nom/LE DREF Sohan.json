@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6fc670b5-6a2d-4ffe-91c0-cd5292ea0ace",
+            "login": "sohan.ledref",
+            "displayName": "LE DREF Sohan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE DREF Céline",
+            "relatedId": "502ff71d-ebec-4e24-a1ce-dbf34afae838",
+            "relatedType": null,
+            "userId": "6fc670b5-6a2d-4ffe-91c0-cd5292ea0ace",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6fc670b5-6a2d-4ffe-91c0-cd5292ea0ace",
+            "login": "sohan.ledref",
+            "displayName": "LE DREF Sohan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE DREF Yann",
+            "relatedId": "370f9319-d0b2-4571-9a0b-a2021ed6d7e5",
+            "relatedType": null,
+            "userId": "6fc670b5-6a2d-4ffe-91c0-cd5292ea0ace",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

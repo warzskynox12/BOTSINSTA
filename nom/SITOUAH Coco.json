@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "dd61b50b-00ff-43ff-8b4d-2eb79232fbc2",
+            "login": "coco.sitouah",
+            "displayName": "SITOUAH Coco",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "OUSSADIT Catherine",
+            "relatedId": "796e03b5-c0c6-4cad-bf5d-2859c11b8cf7",
+            "relatedType": null,
+            "userId": "dd61b50b-00ff-43ff-8b4d-2eb79232fbc2",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

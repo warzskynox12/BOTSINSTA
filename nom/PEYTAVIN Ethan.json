@@ -1,0 +1,139 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "32d73e7b-055b-493c-9b05-fe8009fc7bd6",
+            "login": "ethan.peytavin",
+            "displayName": "PEYTAVIN Ethan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PEYTAVIN Vincent",
+            "relatedId": "abb26710-ed38-445d-a845-39731dde0b3d",
+            "relatedType": null,
+            "userId": "32d73e7b-055b-493c-9b05-fe8009fc7bd6",
+            "motto": "Non",
+            "photo": "/userbook/avatar/32d73e7b-055b-493c-9b05-fe8009fc7bd6",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "France"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "Non"
+                }
+            ]
+        },
+        {
+            "id": "32d73e7b-055b-493c-9b05-fe8009fc7bd6",
+            "login": "ethan.peytavin",
+            "displayName": "PEYTAVIN Ethan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VANDEVELDE Audrey",
+            "relatedId": "0bc0c5ef-51cc-4a15-9878-86f36a6c148a",
+            "relatedType": null,
+            "userId": "32d73e7b-055b-493c-9b05-fe8009fc7bd6",
+            "motto": "Non",
+            "photo": "/userbook/avatar/32d73e7b-055b-493c-9b05-fe8009fc7bd6",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Non"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "France"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "Non"
+                }
+            ]
+        }
+    ]
+}

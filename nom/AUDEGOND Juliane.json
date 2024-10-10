@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "188bd7ea-1cf8-4b1e-a3c0-54bf06a4f6d3",
+            "login": "juliane.audegond",
+            "displayName": "AUDEGOND Juliane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AUDEGOND Karine",
+            "relatedId": "253ea4ba-a996-45d7-88e7-9c4304b05264",
+            "relatedType": null,
+            "userId": "188bd7ea-1cf8-4b1e-a3c0-54bf06a4f6d3",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2008-10-19",
+            "hobbies": []
+        },
+        {
+            "id": "188bd7ea-1cf8-4b1e-a3c0-54bf06a4f6d3",
+            "login": "juliane.audegond",
+            "displayName": "AUDEGOND Juliane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AUDEGOND Jacques",
+            "relatedId": "e6d91cf6-e1b7-4733-9a6d-bba1895153a4",
+            "relatedType": null,
+            "userId": "188bd7ea-1cf8-4b1e-a3c0-54bf06a4f6d3",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2008-10-19",
+            "hobbies": []
+        }
+    ]
+}

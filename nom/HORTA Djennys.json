@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "954452fd-25e5-473b-adb5-d8e806079b40",
+            "login": "djennys.horta",
+            "displayName": "HORTA Djennys",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LANDIM HORTA Valdomir",
+            "relatedId": "aa10aca6-f64e-4aeb-b0f7-09d2d8021ea1",
+            "relatedType": null,
+            "userId": "954452fd-25e5-473b-adb5-d8e806079b40",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "954452fd-25e5-473b-adb5-d8e806079b40",
+            "login": "djennys.horta",
+            "displayName": "HORTA Djennys",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SILVA CORREIA HORTA Elizangela Sony",
+            "relatedId": "2c420c78-042e-46a6-9f7f-a4f219ac0825",
+            "relatedType": null,
+            "userId": "954452fd-25e5-473b-adb5-d8e806079b40",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

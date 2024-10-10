@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "161a1cf9-3c3b-402a-bc54-374a040db388",
+            "login": "arthur.gaudin",
+            "displayName": "GAUDIN Arthur",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GAUDIN Richard",
+            "relatedId": "cebe8aae-cdd8-400d-a243-ac0e1bc36bef",
+            "relatedType": null,
+            "userId": "161a1cf9-3c3b-402a-bc54-374a040db388",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "161a1cf9-3c3b-402a-bc54-374a040db388",
+            "login": "arthur.gaudin",
+            "displayName": "GAUDIN Arthur",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GAUTHIER GAUDIN Isabelle",
+            "relatedId": "b8768a68-9bde-486f-9300-5fb70abfbdb3",
+            "relatedType": null,
+            "userId": "161a1cf9-3c3b-402a-bc54-374a040db388",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

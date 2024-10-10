@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "bc04724f-9393-426b-8aff-6a76f40a2c12",
+            "login": "ines.lecarpentier",
+            "displayName": "LECARPENTIER Ines",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LECARPENTIER Hadiza",
+            "relatedId": "b6ae9afc-977b-48f0-95af-fd6d6d3a9ea9",
+            "relatedType": null,
+            "userId": "bc04724f-9393-426b-8aff-6a76f40a2c12",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

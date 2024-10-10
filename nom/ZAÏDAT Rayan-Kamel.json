@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7f8ceabf-b578-419f-986a-17b8166686fe",
+            "login": "rayankamel.zaidat",
+            "displayName": "ZAÏDAT Rayan-Kamel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ZAIDAT Amar",
+            "relatedId": "d58c256a-7913-4080-9ac8-9a4a708501d7",
+            "relatedType": null,
+            "userId": "7f8ceabf-b578-419f-986a-17b8166686fe",
+            "motto": "",
+            "photo": "/userbook/avatar/7f8ceabf-b578-419f-986a-17b8166686fe",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7f8ceabf-b578-419f-986a-17b8166686fe",
+            "login": "rayankamel.zaidat",
+            "displayName": "ZAÏDAT Rayan-Kamel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "EL OUARDI Mariama",
+            "relatedId": "841e7940-ea8c-4dfd-a48e-f7ae2a8456e8",
+            "relatedType": null,
+            "userId": "7f8ceabf-b578-419f-986a-17b8166686fe",
+            "motto": "",
+            "photo": "/userbook/avatar/7f8ceabf-b578-419f-986a-17b8166686fe",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

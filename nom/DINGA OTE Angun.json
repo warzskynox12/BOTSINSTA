@@ -1,0 +1,43 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "bb380f90-3709-40e2-928c-d37c74e18390",
+            "login": "angun.dingaote",
+            "displayName": "DINGA OTE Angun",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "104"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LAMINI BENABIO Edwige",
+            "relatedId": "9195e375-626f-42bb-933d-a06cbe9477da",
+            "relatedType": null,
+            "userId": "bb380f90-3709-40e2-928c-d37c74e18390",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "2008-11-09",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "536a7b55-1788-4e5b-9f1e-0d8bcf30d593",
+            "login": "sofia.beldjerou",
+            "displayName": "BELDJEROU Sofia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHIHI Rabia",
+            "relatedId": "2cd42d3d-4e29-49c4-9c99-85ac0316a484",
+            "relatedType": null,
+            "userId": "536a7b55-1788-4e5b-9f1e-0d8bcf30d593",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

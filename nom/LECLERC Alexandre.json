@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "712f63b5-c8ff-4fa2-9444-2dc3c03ae24b",
+            "login": "alexandre.leclerc3",
+            "displayName": "LECLERC Alexandre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LECLERC Hervé",
+            "relatedId": "28a02b1a-5859-4813-9f84-b7bc7d81d440",
+            "relatedType": null,
+            "userId": "712f63b5-c8ff-4fa2-9444-2dc3c03ae24b",
+            "motto": "Roi des zouavs",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "712f63b5-c8ff-4fa2-9444-2dc3c03ae24b",
+            "login": "alexandre.leclerc3",
+            "displayName": "LECLERC Alexandre",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHARLES-DONATIEN Laurence",
+            "relatedId": "fab3ad50-d468-4a01-b9c4-db66b787bfb1",
+            "relatedType": null,
+            "userId": "712f63b5-c8ff-4fa2-9444-2dc3c03ae24b",
+            "motto": "Roi des zouavs",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

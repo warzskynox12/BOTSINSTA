@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9e53cfb4-70b4-42d3-a1af-73574c27d9e5",
+            "login": "anais.ribeiro",
+            "displayName": "RIBEIRO Anais",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HUSSON RIBEIRO Florebela",
+            "relatedId": "4e60b0bd-b8f7-46c7-9b67-549e7aa61004",
+            "relatedType": null,
+            "userId": "9e53cfb4-70b4-42d3-a1af-73574c27d9e5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

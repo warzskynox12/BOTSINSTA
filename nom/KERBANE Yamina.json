@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b6c25acf-7daf-480a-b83e-719cdb6aa046",
+            "login": "yamina.kerbane",
+            "displayName": "KERBANE Yamina",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NAGORNY Julien",
+            "relatedId": "5d9d9ed5-c99b-4fc1-9b7c-a8ee66395383",
+            "relatedType": null,
+            "userId": "b6c25acf-7daf-480a-b83e-719cdb6aa046",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

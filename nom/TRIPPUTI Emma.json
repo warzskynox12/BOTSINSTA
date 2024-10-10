@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0447752a-7944-49cf-bb23-9b361e4d5b34",
+            "login": "emma.tripputi",
+            "displayName": "TRIPPUTI Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TRIPPUTI Christophe",
+            "relatedId": "26937733-51b2-400b-b4e0-f66dc67c017e",
+            "relatedType": null,
+            "userId": "0447752a-7944-49cf-bb23-9b361e4d5b34",
+            "motto": "",
+            "photo": "/userbook/avatar/0447752a-7944-49cf-bb23-9b361e4d5b34",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0447752a-7944-49cf-bb23-9b361e4d5b34",
+            "login": "emma.tripputi",
+            "displayName": "TRIPPUTI Emma",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TRIPPUTI Catherine",
+            "relatedId": "ac1c3670-c7db-474e-8a49-af01c862e268",
+            "relatedType": null,
+            "userId": "0447752a-7944-49cf-bb23-9b361e4d5b34",
+            "motto": "",
+            "photo": "/userbook/avatar/0447752a-7944-49cf-bb23-9b361e4d5b34",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "bcf09c4c-f6d4-4cc7-8f9e-4bd32f16df53",
+            "login": "theo.larroque",
+            "displayName": "LARROQUE Théo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LARROQUE Thierry",
+            "relatedId": "2f1159eb-433c-4960-a327-b3af84d15dd0",
+            "relatedType": null,
+            "userId": "bcf09c4c-f6d4-4cc7-8f9e-4bd32f16df53",
+            "motto": "La vie c’est comme la boxe : avance, encaisse et progresse",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "bcf09c4c-f6d4-4cc7-8f9e-4bd32f16df53",
+            "login": "theo.larroque",
+            "displayName": "LARROQUE Théo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "GUASTALLI Stéphanie",
+            "relatedId": "51278023-2b0a-4e11-a0ad-3f461031fe21",
+            "relatedType": null,
+            "userId": "bcf09c4c-f6d4-4cc7-8f9e-4bd32f16df53",
+            "motto": "La vie c’est comme la boxe : avance, encaisse et progresse",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "cf7ff73d-300c-4d97-9827-8172fff66a97",
+            "login": "salome.beirens",
+            "displayName": "BEIRENS Salomé",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL",
+                "SHOW_PHONE",
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BEIRENS Didier",
+            "relatedId": "7915119f-079f-444a-884b-8b19fb56038e",
+            "relatedType": null,
+            "userId": "cf7ff73d-300c-4d97-9827-8172fff66a97",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "beirenssalome@gmail.com",
+            "tel": null,
+            "mobile": "0668524216",
+            "birthdate": "2007-04-15",
+            "hobbies": []
+        },
+        {
+            "id": "cf7ff73d-300c-4d97-9827-8172fff66a97",
+            "login": "salome.beirens",
+            "displayName": "BEIRENS Salomé",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL",
+                "SHOW_PHONE",
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TAILLANT Patricia",
+            "relatedId": "4c18c5ac-59bc-400a-a5eb-3165a6c16be9",
+            "relatedType": null,
+            "userId": "cf7ff73d-300c-4d97-9827-8172fff66a97",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "beirenssalome@gmail.com",
+            "tel": null,
+            "mobile": "0668524216",
+            "birthdate": "2007-04-15",
+            "hobbies": []
+        }
+    ]
+}

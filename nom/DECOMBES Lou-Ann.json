@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "139ccfb5-27a9-4846-ac35-1ad0c975851d",
+            "login": "louann.decombes",
+            "displayName": "DECOMBES Lou-Ann",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DECOMBES Lionel",
+            "relatedId": "51ab7577-c931-4302-b202-c5c48bb11dfe",
+            "relatedType": null,
+            "userId": "139ccfb5-27a9-4846-ac35-1ad0c975851d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "139ccfb5-27a9-4846-ac35-1ad0c975851d",
+            "login": "louann.decombes",
+            "displayName": "DECOMBES Lou-Ann",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DECOMBES Marie-Annick",
+            "relatedId": "ccda5812-c82f-493f-9dc1-d7049d1c1506",
+            "relatedType": null,
+            "userId": "139ccfb5-27a9-4846-ac35-1ad0c975851d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

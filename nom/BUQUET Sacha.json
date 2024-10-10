@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "12b02fa1-d8f7-40d3-ac86-975fc218b988",
+            "login": "sacha.buquet",
+            "displayName": "BUQUET Sacha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BUQUET Cédric",
+            "relatedId": "e186fd0c-79ff-4ed7-8015-14a031752976",
+            "relatedType": null,
+            "userId": "12b02fa1-d8f7-40d3-ac86-975fc218b988",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "12b02fa1-d8f7-40d3-ac86-975fc218b988",
+            "login": "sacha.buquet",
+            "displayName": "BUQUET Sacha",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1BTS2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RENVOYE Sandrine",
+            "relatedId": "b601583d-9376-4988-b0ce-d2335b81beab",
+            "relatedType": null,
+            "userId": "12b02fa1-d8f7-40d3-ac86-975fc218b988",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

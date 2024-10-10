@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9c5e2b21-8e85-4e64-89cc-743a1a40b731",
+            "login": "killian.thirion",
+            "displayName": "THIRION Killian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THIRION Nicolas",
+            "relatedId": "c3b311e4-2b58-40fc-b396-96238fc1bcea",
+            "relatedType": null,
+            "userId": "9c5e2b21-8e85-4e64-89cc-743a1a40b731",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "9c5e2b21-8e85-4e64-89cc-743a1a40b731",
+            "login": "killian.thirion",
+            "displayName": "THIRION Killian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "THIRION Nathalie",
+            "relatedId": "ff7fe34d-7f5b-4a4d-85c5-709232acdf5a",
+            "relatedType": null,
+            "userId": "9c5e2b21-8e85-4e64-89cc-743a1a40b731",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

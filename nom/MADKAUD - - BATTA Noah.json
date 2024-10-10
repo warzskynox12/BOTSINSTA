@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "70e47df9-e599-4551-ab45-86f4d5df3f04",
+            "login": "noah.madkaud--batta",
+            "displayName": "MADKAUD - - BATTA Noah",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MADKAUD Eliane",
+            "relatedId": "3a77dc68-936e-44bd-b973-96b8aa67e0ee",
+            "relatedType": null,
+            "userId": "70e47df9-e599-4551-ab45-86f4d5df3f04",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

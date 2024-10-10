@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "10d7353d-2e2c-4953-b744-014526ef5974",
+            "login": "lea.konieczka--dornier",
+            "displayName": "KONIECZKA--DORNIER Léa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KONIECZKA Gilles",
+            "relatedId": "c2054d4f-648b-4f9d-b06d-44ba2e503ce1",
+            "relatedType": null,
+            "userId": "10d7353d-2e2c-4953-b744-014526ef5974",
+            "motto": "",
+            "photo": "/userbook/avatar/10d7353d-2e2c-4953-b744-014526ef5974",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "10d7353d-2e2c-4953-b744-014526ef5974",
+            "login": "lea.konieczka--dornier",
+            "displayName": "KONIECZKA--DORNIER Léa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KONIECZKA Isabelle",
+            "relatedId": "9d4c13ea-04dc-47fd-95ab-d32fb10ecc17",
+            "relatedType": null,
+            "userId": "10d7353d-2e2c-4953-b744-014526ef5974",
+            "motto": "",
+            "photo": "/userbook/avatar/10d7353d-2e2c-4953-b744-014526ef5974",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

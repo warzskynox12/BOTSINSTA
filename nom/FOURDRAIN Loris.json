@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4d86d10c-8ff6-47c1-8649-666c18f5fad8",
+            "login": "loris.fourdrain",
+            "displayName": "FOURDRAIN Loris",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FOURDRAIN Emmanuel",
+            "relatedId": "c9fb5114-303c-495a-b11e-68b096566ddf",
+            "relatedType": null,
+            "userId": "4d86d10c-8ff6-47c1-8649-666c18f5fad8",
+            "motto": "",
+            "photo": "/userbook/avatar/4d86d10c-8ff6-47c1-8649-666c18f5fad8",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "4d86d10c-8ff6-47c1-8649-666c18f5fad8",
+            "login": "loris.fourdrain",
+            "displayName": "FOURDRAIN Loris",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PIAZZA Valérie",
+            "relatedId": "455eba26-71ce-4c73-9fe7-e268b736502f",
+            "relatedType": null,
+            "userId": "4d86d10c-8ff6-47c1-8649-666c18f5fad8",
+            "motto": "",
+            "photo": "/userbook/avatar/4d86d10c-8ff6-47c1-8649-666c18f5fad8",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

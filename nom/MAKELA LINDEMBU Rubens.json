@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fb7c784b-acb2-41d7-8eae-3e9b0059ae66",
+            "login": "rubens.makelalindembu",
+            "displayName": "MAKELA LINDEMBU Rubens",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MAKELA LINDEMBU Sp",
+            "relatedId": "0c5dab07-7965-433c-9abf-69a84809d7b9",
+            "relatedType": null,
+            "userId": "fb7c784b-acb2-41d7-8eae-3e9b0059ae66",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fb7c784b-acb2-41d7-8eae-3e9b0059ae66",
+            "login": "rubens.makelalindembu",
+            "displayName": "MAKELA LINDEMBU Rubens",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NTELA NSEMA Espérance",
+            "relatedId": "af19609f-7c4f-4ff2-96c0-5ca771eee7d3",
+            "relatedType": null,
+            "userId": "fb7c784b-acb2-41d7-8eae-3e9b0059ae66",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

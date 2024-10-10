@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "388de78c-d9a9-4e5b-8001-5f89a9300f25",
+            "login": "mahelys.eustacherools",
+            "displayName": "EUSTACHE ROOLS Mahëlys",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "EUSTACHE ROOLS Elodie",
+            "relatedId": "d2c73a98-1e61-43e5-893a-3c453f89b611",
+            "relatedType": null,
+            "userId": "388de78c-d9a9-4e5b-8001-5f89a9300f25",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

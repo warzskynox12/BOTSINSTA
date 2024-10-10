@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b78d3b72-676a-4933-9a71-653aeb2c0bd3",
+            "login": "aurelien.lubin",
+            "displayName": "LUBIN Aurelien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LUBIN Alain",
+            "relatedId": "8f736b79-7019-4f78-82ab-3dc2aa182526",
+            "relatedType": null,
+            "userId": "b78d3b72-676a-4933-9a71-653aeb2c0bd3",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "b78d3b72-676a-4933-9a71-653aeb2c0bd3",
+            "login": "aurelien.lubin",
+            "displayName": "LUBIN Aurelien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LUBIN Alain",
+            "relatedId": "50791335-e39e-414f-83ed-7315089669b9",
+            "relatedType": null,
+            "userId": "b78d3b72-676a-4933-9a71-653aeb2c0bd3",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

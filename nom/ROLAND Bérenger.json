@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7f101e36-2876-45ae-9a18-ee4c1820f466",
+            "login": "berenger.roland",
+            "displayName": "ROLAND Bérenger",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ESCROUZAILLES Cécile",
+            "relatedId": "aa0c8ec5-e79c-407a-843b-c071d78c5676",
+            "relatedType": null,
+            "userId": "7f101e36-2876-45ae-9a18-ee4c1820f466",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7f101e36-2876-45ae-9a18-ee4c1820f466",
+            "login": "berenger.roland",
+            "displayName": "ROLAND Bérenger",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ROLAND Francois",
+            "relatedId": "2494132c-83b5-493a-a234-a22b2a61afa1",
+            "relatedType": null,
+            "userId": "7f101e36-2876-45ae-9a18-ee4c1820f466",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

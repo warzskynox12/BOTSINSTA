@@ -1,0 +1,99 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "e31999a8-51ce-43e3-8235-0cd8b8e7b0e4",
+            "login": "remy.senechal",
+            "displayName": "SENECHAL Remy",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SENECHAL Carole",
+            "relatedId": "de1e398b-6b56-4324-a65f-0a043c2b327c",
+            "relatedType": null,
+            "userId": "e31999a8-51ce-43e3-8235-0cd8b8e7b0e4",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "e31999a8-51ce-43e3-8235-0cd8b8e7b0e4",
+            "login": "remy.senechal",
+            "displayName": "SENECHAL Remy",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SENECHAL Eric",
+            "relatedId": "7124e81e-b4f0-46c3-a1bc-2adc02fe7317",
+            "relatedType": null,
+            "userId": "e31999a8-51ce-43e3-8235-0cd8b8e7b0e4",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

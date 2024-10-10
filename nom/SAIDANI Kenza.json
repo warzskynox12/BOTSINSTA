@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "df309a00-b235-44bb-9843-80c6c169a4ef",
+            "login": "kenza.saidani2",
+            "displayName": "SAIDANI Kenza",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SAIDANI Riab",
+            "relatedId": "b2633172-de75-4063-a9e5-aab3a217aae1",
+            "relatedType": null,
+            "userId": "df309a00-b235-44bb-9843-80c6c169a4ef",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "df309a00-b235-44bb-9843-80c6c169a4ef",
+            "login": "kenza.saidani2",
+            "displayName": "SAIDANI Kenza",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SAIDANI Djedjiga",
+            "relatedId": "8b85bdfa-ed2b-4b17-ba7e-e1a46b5c5f1d",
+            "relatedType": null,
+            "userId": "df309a00-b235-44bb-9843-80c6c169a4ef",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

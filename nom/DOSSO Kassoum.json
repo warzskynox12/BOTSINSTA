@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "916f09a4-5ddf-44aa-a2d6-214ac56bfcf8",
+            "login": "kassoum.dosso",
+            "displayName": "DOSSO Kassoum",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BAKAYOKO Alimata",
+            "relatedId": "4cfd7308-0c3b-4cc9-9edb-f78a5d2d6473",
+            "relatedType": null,
+            "userId": "916f09a4-5ddf-44aa-a2d6-214ac56bfcf8",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "f292cb44-3763-46a5-a821-94d5024c5766",
+            "login": "claudia.manguli",
+            "displayName": "MANGULI Claudia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MANGULI Claude",
+            "relatedId": "0ed8bef6-05f7-4149-918a-06605f83f568",
+            "relatedType": null,
+            "userId": "f292cb44-3763-46a5-a821-94d5024c5766",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "f292cb44-3763-46a5-a821-94d5024c5766",
+            "login": "claudia.manguli",
+            "displayName": "MANGULI Claudia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MANGULI NGAMALA KALANGA SAIDI Elvine",
+            "relatedId": "d07e9585-d653-441c-b177-e371d4a9574c",
+            "relatedType": null,
+            "userId": "f292cb44-3763-46a5-a821-94d5024c5766",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

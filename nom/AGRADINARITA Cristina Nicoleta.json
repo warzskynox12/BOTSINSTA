@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2160db20-c310-4f0b-9758-91b5709d0376",
+            "login": "cristinanicoleta.agradinarita",
+            "displayName": "AGRADINARITA Cristina Nicoleta",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AGRADINARITA Maria Georgeta",
+            "relatedId": "d0472685-829a-4585-8d98-7e75c9d0e93b",
+            "relatedType": null,
+            "userId": "2160db20-c310-4f0b-9758-91b5709d0376",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2160db20-c310-4f0b-9758-91b5709d0376",
+            "login": "cristinanicoleta.agradinarita",
+            "displayName": "AGRADINARITA Cristina Nicoleta",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AGRADINARITA Constantin",
+            "relatedId": "abcfbc17-d4c1-4dba-b8de-3df1f8c4e429",
+            "relatedType": null,
+            "userId": "2160db20-c310-4f0b-9758-91b5709d0376",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

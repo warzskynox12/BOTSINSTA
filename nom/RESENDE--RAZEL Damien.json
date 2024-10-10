@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "5dedd08f-648c-46e5-b65c-d94da38acfb5",
+            "login": "damien.resende--razel",
+            "displayName": "RESENDE--RAZEL Damien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RESENDE José",
+            "relatedId": "739f44f2-9617-48bd-9f5a-688148fc58fa",
+            "relatedType": null,
+            "userId": "5dedd08f-648c-46e5-b65c-d94da38acfb5",
+            "motto": "",
+            "photo": "/userbook/avatar/5dedd08f-648c-46e5-b65c-d94da38acfb5",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "5dedd08f-648c-46e5-b65c-d94da38acfb5",
+            "login": "damien.resende--razel",
+            "displayName": "RESENDE--RAZEL Damien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RAZEL Stéphanie",
+            "relatedId": "2e2c1964-806a-465e-8301-0de352eb6e8d",
+            "relatedType": null,
+            "userId": "5dedd08f-648c-46e5-b65c-d94da38acfb5",
+            "motto": "",
+            "photo": "/userbook/avatar/5dedd08f-648c-46e5-b65c-d94da38acfb5",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

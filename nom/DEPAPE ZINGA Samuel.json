@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "51f33e37-5dad-43a6-a839-b5cfa0799865",
+            "login": "samuel.depapezinga",
+            "displayName": "DEPAPE ZINGA Samuel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DEPAPE ZINGA Manou",
+            "relatedId": "538008e6-0566-4cac-b230-c9d0398e1f70",
+            "relatedType": null,
+            "userId": "51f33e37-5dad-43a6-a839-b5cfa0799865",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

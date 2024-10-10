@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "ec6a30e6-2b65-43f7-b263-0087c2cbbd23",
+            "login": "fanny.aubin",
+            "displayName": "AUBIN Fanny",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "205"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AUBIN Marie Christine",
+            "relatedId": "89f6371b-e3d7-471c-9b52-5fc3793f77f4",
+            "relatedType": null,
+            "userId": "ec6a30e6-2b65-43f7-b263-0087c2cbbd23",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

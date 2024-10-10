@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "8f055c64-5174-4ccc-b2fd-8d3b52ff8e4d",
+            "login": "lena.richol",
+            "displayName": "RICHOL Léna",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "204"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KHELIFI Laetitia",
+            "relatedId": "abb6847e-3ec6-40a3-93c5-216631ea3be8",
+            "relatedType": null,
+            "userId": "8f055c64-5174-4ccc-b2fd-8d3b52ff8e4d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

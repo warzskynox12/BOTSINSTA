@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "afcaf8d8-62d0-4228-9f5b-a8e0c1dd2b65",
+            "login": "clement.blachere",
+            "displayName": "BLACHERE Clèment",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BLACHERE Frédéric",
+            "relatedId": "c14e06a4-9bef-4638-b26b-be692a724301",
+            "relatedType": null,
+            "userId": "afcaf8d8-62d0-4228-9f5b-a8e0c1dd2b65",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "afcaf8d8-62d0-4228-9f5b-a8e0c1dd2b65",
+            "login": "clement.blachere",
+            "displayName": "BLACHERE Clèment",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BLACHERE Nathalie",
+            "relatedId": "a461c69c-0886-47a2-aaf3-0ceee13ada76",
+            "relatedType": null,
+            "userId": "afcaf8d8-62d0-4228-9f5b-a8e0c1dd2b65",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

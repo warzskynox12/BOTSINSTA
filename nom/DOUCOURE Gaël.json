@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "7f60da99-feab-42c9-8718-90ce81af9f08",
+            "login": "gael.doucoure",
+            "displayName": "DOUCOURE Gaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BRACHET Stephane",
+            "relatedId": "acc62d20-c826-486a-a6f2-bf484a944456",
+            "relatedType": null,
+            "userId": "7f60da99-feab-42c9-8718-90ce81af9f08",
+            "motto": "",
+            "photo": "/userbook/avatar/7f60da99-feab-42c9-8718-90ce81af9f08",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "7f60da99-feab-42c9-8718-90ce81af9f08",
+            "login": "gael.doucoure",
+            "displayName": "DOUCOURE Gaël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FOYER LA PASSERELLE Educateur",
+            "relatedId": "d6e48bc4-309f-40f3-965c-541d5d8297be",
+            "relatedType": null,
+            "userId": "7f60da99-feab-42c9-8718-90ce81af9f08",
+            "motto": "",
+            "photo": "/userbook/avatar/7f60da99-feab-42c9-8718-90ce81af9f08",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

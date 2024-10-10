@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "fab9468f-1d35-472f-8dc6-9a7baf6c965e",
+            "login": "meline.aldehuelomateos",
+            "displayName": "ALDEHUELO-MATEOS Méline",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ALDEHUELO-MATEOS Anthony",
+            "relatedId": "483f8624-fc28-45c6-8c81-63d5b3214631",
+            "relatedType": null,
+            "userId": "fab9468f-1d35-472f-8dc6-9a7baf6c965e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "fab9468f-1d35-472f-8dc6-9a7baf6c965e",
+            "login": "meline.aldehuelomateos",
+            "displayName": "ALDEHUELO-MATEOS Méline",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "202"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ALDEHUELO MATEOS Nadege",
+            "relatedId": "06ff7971-27fa-4709-8b81-d8780c0fd816",
+            "relatedType": null,
+            "userId": "fab9468f-1d35-472f-8dc6-9a7baf6c965e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "48fee102-e11c-4463-b148-082fb747444b",
+            "login": "malantokattyah.rakotondramanana",
+            "displayName": "RAKOTONDRAMANANA Malanto Kattyah",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RAKOTONDRAMANANA Jean-Honoré",
+            "relatedId": "330873e5-32f4-415e-bec1-5b1cf9656345",
+            "relatedType": null,
+            "userId": "48fee102-e11c-4463-b148-082fb747444b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "48fee102-e11c-4463-b148-082fb747444b",
+            "login": "malantokattyah.rakotondramanana",
+            "displayName": "RAKOTONDRAMANANA Malanto Kattyah",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RAKOTOARINELINA Soarimalanto Nadiah",
+            "relatedId": "04efc62f-c029-4282-af92-ce836feb4922",
+            "relatedType": null,
+            "userId": "48fee102-e11c-4463-b148-082fb747444b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

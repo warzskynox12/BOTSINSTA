@@ -1,0 +1,89 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6c7fdae0-120d-469a-bea6-752c7379acc1",
+            "login": "fares.chaji",
+            "displayName": "CHAJI Farès",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHAJI Fouad",
+            "relatedId": "61053d59-6dfc-4556-85af-fb621a1d3e2c",
+            "relatedType": null,
+            "userId": "6c7fdae0-120d-469a-bea6-752c7379acc1",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "6c7fdae0-120d-469a-bea6-752c7379acc1",
+            "login": "fares.chaji",
+            "displayName": "CHAJI Farès",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHAJI Hayat",
+            "relatedId": "0aac701a-1b2f-4a3a-a6f4-75f6ce5788b2",
+            "relatedType": null,
+            "userId": "6c7fdae0-120d-469a-bea6-752c7379acc1",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

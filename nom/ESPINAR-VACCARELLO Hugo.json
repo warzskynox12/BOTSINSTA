@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "4fb43301-a562-4597-b7fe-b97b38c58ac3",
+            "login": "hugo.espinar-vaccarello",
+            "displayName": "ESPINAR-VACCARELLO Hugo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ESPINAR-VACCARELLO Sonia",
+            "relatedId": "3d4bc1f2-1592-4643-b617-e60f7733edbe",
+            "relatedType": null,
+            "userId": "4fb43301-a562-4597-b7fe-b97b38c58ac3",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "4fb43301-a562-4597-b7fe-b97b38c58ac3",
+            "login": "hugo.espinar-vaccarello",
+            "displayName": "ESPINAR-VACCARELLO Hugo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ESPINAR Franck",
+            "relatedId": "572abcf3-3507-42e1-80e4-489c565be10a",
+            "relatedType": null,
+            "userId": "4fb43301-a562-4597-b7fe-b97b38c58ac3",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

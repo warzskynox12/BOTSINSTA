@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2a300dfe-deda-4e8e-a2f6-84499c5d2cd2",
+            "login": "brahim.azizi5",
+            "displayName": "AZIZI Brahim",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AZIZI Azzedine",
+            "relatedId": "1cab0aca-4521-461b-b1b8-b64f3ee11c84",
+            "relatedType": null,
+            "userId": "2a300dfe-deda-4e8e-a2f6-84499c5d2cd2",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "brahimazizi1217@gmail.com",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2a300dfe-deda-4e8e-a2f6-84499c5d2cd2",
+            "login": "brahim.azizi5",
+            "displayName": "AZIZI Brahim",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AZIZI Ikram",
+            "relatedId": "9df24c94-8652-4b90-95f5-28456d5c997d",
+            "relatedType": null,
+            "userId": "2a300dfe-deda-4e8e-a2f6-84499c5d2cd2",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "brahimazizi1217@gmail.com",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

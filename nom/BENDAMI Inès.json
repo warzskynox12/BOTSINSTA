@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "22cf8b76-9c62-4f4e-9243-e331ea87b8b5",
+            "login": "ines.bendami",
+            "displayName": "BENDAMI Inès",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BATISTA Virgine",
+            "relatedId": "64e4a255-b820-4095-b330-4ddc8c7a8495",
+            "relatedType": null,
+            "userId": "22cf8b76-9c62-4f4e-9243-e331ea87b8b5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "22cf8b76-9c62-4f4e-9243-e331ea87b8b5",
+            "login": "ines.bendami",
+            "displayName": "BENDAMI Inès",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "207"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BENDAMI Nabil",
+            "relatedId": "82ff85c0-9af8-4364-92cf-8f3998660958",
+            "relatedType": null,
+            "userId": "22cf8b76-9c62-4f4e-9243-e331ea87b8b5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

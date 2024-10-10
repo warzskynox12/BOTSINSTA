@@ -1,0 +1,147 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "66f76a25-b370-4e00-89a0-bf64505cafd9",
+            "login": "teo.merenda",
+            "displayName": "MERENDA Téo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE",
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MERENDA Fabrice",
+            "relatedId": "16044dec-4453-4651-8b82-74ae7c5c5fe7",
+            "relatedType": null,
+            "userId": "66f76a25-b370-4e00-89a0-bf64505cafd9",
+            "motto": "",
+            "photo": "/userbook/avatar/66f76a25-b370-4e00-89a0-bf64505cafd9",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "teomerenda821@gmail.com",
+            "tel": "",
+            "mobile": "0769001457",
+            "birthdate": "2009-02-07",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "karaté, badminton"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "animés"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "chien"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "ma playlist sur spotify : Famos song"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "chambre, salon, salle de sport"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "mangas"
+                }
+            ]
+        },
+        {
+            "id": "66f76a25-b370-4e00-89a0-bf64505cafd9",
+            "login": "teo.merenda",
+            "displayName": "MERENDA Téo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_MOBILE",
+                "SHOW_BIRTHDATE",
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE PAVEC Gwenaelle",
+            "relatedId": "1560e468-64d7-4608-bb55-690f34f3cf6d",
+            "relatedType": null,
+            "userId": "66f76a25-b370-4e00-89a0-bf64505cafd9",
+            "motto": "",
+            "photo": "/userbook/avatar/66f76a25-b370-4e00-89a0-bf64505cafd9",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "teomerenda821@gmail.com",
+            "tel": "",
+            "mobile": "0769001457",
+            "birthdate": "2009-02-07",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "karaté, badminton"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "animés"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "chien"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "ma playlist sur spotify : Famos song"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "chambre, salon, salle de sport"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "mangas"
+                }
+            ]
+        }
+    ]
+}

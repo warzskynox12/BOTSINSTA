@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d9e39313-efe4-455b-bdc6-8f36b0d1d2a0",
+            "login": "rebecca.yokabatshinde",
+            "displayName": "YOKA BATSHINDE Rebecca",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "YOKA BATSHINDE Gauthier",
+            "relatedId": "96f3b4b0-2792-46b0-bf27-31b34142c329",
+            "relatedType": null,
+            "userId": "d9e39313-efe4-455b-bdc6-8f36b0d1d2a0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d9e39313-efe4-455b-bdc6-8f36b0d1d2a0",
+            "login": "rebecca.yokabatshinde",
+            "displayName": "YOKA BATSHINDE Rebecca",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "YOKA BATSHINDE Mélanie",
+            "relatedId": "5154eed0-ca35-4b83-a8cb-d638c1f1b820",
+            "relatedType": null,
+            "userId": "d9e39313-efe4-455b-bdc6-8f36b0d1d2a0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

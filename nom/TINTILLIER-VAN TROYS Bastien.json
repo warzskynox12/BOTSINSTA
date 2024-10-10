@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "59656f4e-672e-476e-b706-44fde5511bde",
+            "login": "bastien.tintilliervantroys",
+            "displayName": "TINTILLIER-VAN TROYS Bastien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TINTILLIER-VAN TROYS Audrey",
+            "relatedId": "39469a51-d021-4b8d-addf-dfc440cdd2b3",
+            "relatedType": null,
+            "userId": "59656f4e-672e-476e-b706-44fde5511bde",
+            "motto": "",
+            "photo": "",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "bastien.tintillier@gmail.com",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "59656f4e-672e-476e-b706-44fde5511bde",
+            "login": "bastien.tintilliervantroys",
+            "displayName": "TINTILLIER-VAN TROYS Bastien",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [
+                "SHOW_EMAIL"
+            ],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "101"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TINTILLIER-VAN TROYS David",
+            "relatedId": "7b224db3-b382-4289-80fe-d82c3ffce6a6",
+            "relatedType": null,
+            "userId": "59656f4e-672e-476e-b706-44fde5511bde",
+            "motto": "",
+            "photo": "",
+            "mood": "joker",
+            "health": "",
+            "address": "",
+            "email": "bastien.tintillier@gmail.com",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

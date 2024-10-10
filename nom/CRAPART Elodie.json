@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c5e53145-a1ce-43d8-81d0-8c91d64fdacd",
+            "login": "elodie.crapart",
+            "displayName": "CRAPART Elodie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CRAPART Sandrine",
+            "relatedId": "64af757c-0859-42b4-b430-38cae78421ac",
+            "relatedType": null,
+            "userId": "c5e53145-a1ce-43d8-81d0-8c91d64fdacd",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c5e53145-a1ce-43d8-81d0-8c91d64fdacd",
+            "login": "elodie.crapart",
+            "displayName": "CRAPART Elodie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CRAPART Philippe",
+            "relatedId": "7b886951-aa9f-4c8b-9856-6ae44d7ad9e5",
+            "relatedType": null,
+            "userId": "c5e53145-a1ce-43d8-81d0-8c91d64fdacd",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1a62d536-4a1a-4a6d-bc09-c94aa53a7983",
+            "login": "fatoumata.niakate11",
+            "displayName": "NIAKATE Fatoumata",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "N'DIAYE Niagare",
+            "relatedId": "402c5dd7-9615-4347-9205-dc721d48abf5",
+            "relatedType": null,
+            "userId": "1a62d536-4a1a-4a6d-bc09-c94aa53a7983",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "1a62d536-4a1a-4a6d-bc09-c94aa53a7983",
+            "login": "fatoumata.niakate11",
+            "displayName": "NIAKATE Fatoumata",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "213"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NIAKATÉ Makan",
+            "relatedId": "1da4efad-0510-4f02-a1a1-e0aeaafa11c6",
+            "relatedType": null,
+            "userId": "1a62d536-4a1a-4a6d-bc09-c94aa53a7983",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

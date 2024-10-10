@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0814ddf1-ba42-426d-8e0f-828918a783c7",
+            "login": "angelo.charolle",
+            "displayName": "CHAROLLE Angelo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHAROLLE Elisabeth",
+            "relatedId": "e7e199d2-7651-406e-adb8-bf142b0913a4",
+            "relatedType": null,
+            "userId": "0814ddf1-ba42-426d-8e0f-828918a783c7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0814ddf1-ba42-426d-8e0f-828918a783c7",
+            "login": "angelo.charolle",
+            "displayName": "CHAROLLE Angelo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CHAROLLE Jean-Christophe",
+            "relatedId": "1be72eb1-08a5-4466-b083-f019a9b047bb",
+            "relatedType": null,
+            "userId": "0814ddf1-ba42-426d-8e0f-828918a783c7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

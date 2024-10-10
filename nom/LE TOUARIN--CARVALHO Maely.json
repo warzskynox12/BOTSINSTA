@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6a92585e-784b-40f1-a819-d1c34dc89c26",
+            "login": "maely.letouarin--carvalho",
+            "displayName": "LE TOUARIN--CARVALHO Maely",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FERREIRA--CARVALHO Rui Pedro",
+            "relatedId": "5025f4b8-9a17-4f15-b0d1-8b233494792d",
+            "relatedType": null,
+            "userId": "6a92585e-784b-40f1-a819-d1c34dc89c26",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6a92585e-784b-40f1-a819-d1c34dc89c26",
+            "login": "maely.letouarin--carvalho",
+            "displayName": "LE TOUARIN--CARVALHO Maely",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE TOUARIN Fanny",
+            "relatedId": "de6b8dd1-ebf3-4c6a-88bb-0825f3f77163",
+            "relatedType": null,
+            "userId": "6a92585e-784b-40f1-a819-d1c34dc89c26",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

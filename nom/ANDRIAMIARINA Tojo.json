@@ -1,0 +1,99 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a32e38a8-6fea-48d7-9deb-c1db884483b1",
+            "login": "tojo.andriamiarina",
+            "displayName": "ANDRIAMIARINA Tojo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ANDRIAMIARINA Tojo",
+            "relatedId": "af7cc3b9-0255-4786-b2e7-d0ef6a30d081",
+            "relatedType": null,
+            "userId": "a32e38a8-6fea-48d7-9deb-c1db884483b1",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        },
+        {
+            "id": "a32e38a8-6fea-48d7-9deb-c1db884483b1",
+            "login": "tojo.andriamiarina",
+            "displayName": "ANDRIAMIARINA Tojo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ANDRIAMIARINA Tojo Nirina",
+            "relatedId": "1c2fb5c4-b11b-474e-a167-2b0fe25c686c",
+            "relatedType": null,
+            "userId": "a32e38a8-6fea-48d7-9deb-c1db884483b1",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": ""
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": ""
+                }
+            ]
+        }
+    ]
+}

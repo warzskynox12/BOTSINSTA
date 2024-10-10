@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "695834f7-0abf-4230-ac6a-0d89558c6f27",
+            "login": "matisse.louis-jean",
+            "displayName": "LOUIS-JEAN Matisse",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LOUIS-JEAN Rodrigue",
+            "relatedId": "e6445ba9-8d71-4502-83ff-c85ab1f862dd",
+            "relatedType": null,
+            "userId": "695834f7-0abf-4230-ac6a-0d89558c6f27",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "695834f7-0abf-4230-ac6a-0d89558c6f27",
+            "login": "matisse.louis-jean",
+            "displayName": "LOUIS-JEAN Matisse",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "103"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ZOCLY Jessie",
+            "relatedId": "49c8f1e4-7966-472f-ac49-915f0167dea6",
+            "relatedType": null,
+            "userId": "695834f7-0abf-4230-ac6a-0d89558c6f27",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c86784ff-a772-45ac-9f3a-19fc773d9eac",
+            "login": "mael.huvey",
+            "displayName": "HUVEY Maël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HUVEY Morgan",
+            "relatedId": "0dc767a0-fb2e-4b2f-a484-ca1310c439ba",
+            "relatedType": null,
+            "userId": "c86784ff-a772-45ac-9f3a-19fc773d9eac",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c86784ff-a772-45ac-9f3a-19fc773d9eac",
+            "login": "mael.huvey",
+            "displayName": "HUVEY Maël",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HUVEY Barbara",
+            "relatedId": "1b0b8804-a765-4eb1-a017-df4f6abb38ea",
+            "relatedType": null,
+            "userId": "c86784ff-a772-45ac-9f3a-19fc773d9eac",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

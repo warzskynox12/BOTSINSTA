@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "6a01c2df-5394-4174-a2db-2cc82821c7d0",
+            "login": "quentin.fromentin",
+            "displayName": "FROMENTIN Quentin",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FROMENTIN Jean-Michel",
+            "relatedId": "d3249d35-51e7-444b-9a7e-db5084b6fb67",
+            "relatedType": null,
+            "userId": "6a01c2df-5394-4174-a2db-2cc82821c7d0",
+            "motto": ".",
+            "photo": "/userbook/avatar/6a01c2df-5394-4174-a2db-2cc82821c7d0",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "6a01c2df-5394-4174-a2db-2cc82821c7d0",
+            "login": "quentin.fromentin",
+            "displayName": "FROMENTIN Quentin",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DOS SANTOS Séverine",
+            "relatedId": "a9555f1e-8721-4578-b3cc-d5016c75df5b",
+            "relatedType": null,
+            "userId": "6a01c2df-5394-4174-a2db-2cc82821c7d0",
+            "motto": ".",
+            "photo": "/userbook/avatar/6a01c2df-5394-4174-a2db-2cc82821c7d0",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

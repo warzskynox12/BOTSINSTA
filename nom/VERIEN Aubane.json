@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c0c2394b-cca6-44fd-9956-88aeabab3b98",
+            "login": "aubane.verien",
+            "displayName": "VERIEN Aubane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ROCHET Virginie",
+            "relatedId": "7b23a2cc-e5d2-4036-8d8a-c2c8bcdf9de1",
+            "relatedType": null,
+            "userId": "c0c2394b-cca6-44fd-9956-88aeabab3b98",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c0c2394b-cca6-44fd-9956-88aeabab3b98",
+            "login": "aubane.verien",
+            "displayName": "VERIEN Aubane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "107"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VERIEN Laurent",
+            "relatedId": "b26cad04-93cf-4278-ad59-ce630681cf31",
+            "relatedType": null,
+            "userId": "c0c2394b-cca6-44fd-9956-88aeabab3b98",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

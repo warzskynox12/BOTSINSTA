@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "b3fb68ce-365c-4d13-82e4-7b60fdaf31e8",
+            "login": "melisa.ciorba",
+            "displayName": "CIORBA Melisa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CIORBA Angelica Anca",
+            "relatedId": "ce4a423e-fe98-46b6-8e85-2862d0d06504",
+            "relatedType": null,
+            "userId": "b3fb68ce-365c-4d13-82e4-7b60fdaf31e8",
+            "motto": "Cours avant que la vie te course ",
+            "photo": "",
+            "mood": "sick",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "b3fb68ce-365c-4d13-82e4-7b60fdaf31e8",
+            "login": "melisa.ciorba",
+            "displayName": "CIORBA Melisa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CIORBA Dumitru",
+            "relatedId": "1615de05-6791-4927-97d4-c44e65ea8b68",
+            "relatedType": null,
+            "userId": "b3fb68ce-365c-4d13-82e4-7b60fdaf31e8",
+            "motto": "Cours avant que la vie te course ",
+            "photo": "",
+            "mood": "sick",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

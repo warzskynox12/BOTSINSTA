@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "46e9c36f-cefe-46a6-9f53-ad5c7fb19dbf",
+            "login": "theo.celli",
+            "displayName": "CELLI Theo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SIMONET Laure",
+            "relatedId": "b1c07ca8-5a7a-4ac2-967b-bc9cde804225",
+            "relatedType": null,
+            "userId": "46e9c36f-cefe-46a6-9f53-ad5c7fb19dbf",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "46e9c36f-cefe-46a6-9f53-ad5c7fb19dbf",
+            "login": "theo.celli",
+            "displayName": "CELLI Theo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CELLI Lionel",
+            "relatedId": "2ed07f8d-3cfc-4ba8-91b1-bcc746385c6f",
+            "relatedType": null,
+            "userId": "46e9c36f-cefe-46a6-9f53-ad5c7fb19dbf",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

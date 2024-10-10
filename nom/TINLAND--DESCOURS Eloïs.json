@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "24514245-341d-412c-bdd5-a28f59355ced",
+            "login": "elois.tinland--descours",
+            "displayName": "TINLAND--DESCOURS Eloïs",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TINLAND Arnaud",
+            "relatedId": "5a59cea7-e411-4247-a7a6-1c2c1808dbf5",
+            "relatedType": null,
+            "userId": "24514245-341d-412c-bdd5-a28f59355ced",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "24514245-341d-412c-bdd5-a28f59355ced",
+            "login": "elois.tinland--descours",
+            "displayName": "TINLAND--DESCOURS Eloïs",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG5"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DESCOURS Muriel",
+            "relatedId": "e1028215-0ac4-4a59-a765-4edda07cf2d0",
+            "relatedType": null,
+            "userId": "24514245-341d-412c-bdd5-a28f59355ced",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

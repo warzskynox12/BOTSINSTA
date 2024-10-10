@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "394ae901-eaf9-4492-a5b4-78cdff2652e4",
+            "login": "esdras.bansimbamfululumuamba",
+            "displayName": "BANSIMBA MFULULU MUAMBA Esdras",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KALOMBO KALONGA MUAMBA Willy",
+            "relatedId": "c57e3416-12c5-44d9-a54d-20a719acd13e",
+            "relatedType": null,
+            "userId": "394ae901-eaf9-4492-a5b4-78cdff2652e4",
+            "motto": "",
+            "photo": "/userbook/avatar/394ae901-eaf9-4492-a5b4-78cdff2652e4",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "394ae901-eaf9-4492-a5b4-78cdff2652e4",
+            "login": "esdras.bansimbamfululumuamba",
+            "displayName": "BANSIMBA MFULULU MUAMBA Esdras",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KALOMBO KALONGA MUAMBA Anastasie",
+            "relatedId": "22761532-2be8-4044-91ab-74a62d9cb1b6",
+            "relatedType": null,
+            "userId": "394ae901-eaf9-4492-a5b4-78cdff2652e4",
+            "motto": "",
+            "photo": "/userbook/avatar/394ae901-eaf9-4492-a5b4-78cdff2652e4",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

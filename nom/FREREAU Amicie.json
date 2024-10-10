@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "69511132-b205-432d-a5d2-a4d379adb1c8",
+            "login": "amicie.frereau",
+            "displayName": "FREREAU Amicie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FREREAU Céline",
+            "relatedId": "87254b83-a293-469d-a79a-b8fef2cddbaf",
+            "relatedType": null,
+            "userId": "69511132-b205-432d-a5d2-a4d379adb1c8",
+            "motto": "L'imagination nous emmène là ou la logique nous empêche d'aller",
+            "photo": "/userbook/avatar/69511132-b205-432d-a5d2-a4d379adb1c8",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "69511132-b205-432d-a5d2-a4d379adb1c8",
+            "login": "amicie.frereau",
+            "displayName": "FREREAU Amicie",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FREREAU Laurent",
+            "relatedId": "66e36992-91ad-45d9-80da-1e8be818a94d",
+            "relatedType": null,
+            "userId": "69511132-b205-432d-a5d2-a4d379adb1c8",
+            "motto": "L'imagination nous emmène là ou la logique nous empêche d'aller",
+            "photo": "/userbook/avatar/69511132-b205-432d-a5d2-a4d379adb1c8",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

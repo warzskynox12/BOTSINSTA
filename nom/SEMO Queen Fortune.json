@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "9efe63c5-2605-4dc6-b1ac-64decece8d97",
+            "login": "queenfortune.semo",
+            "displayName": "SEMO Queen Fortune",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "212"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ESTEVES Manuel",
+            "relatedId": "c7f58a64-0a50-4c64-8fce-f89bb8ee83da",
+            "relatedType": null,
+            "userId": "9efe63c5-2605-4dc6-b1ac-64decece8d97",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

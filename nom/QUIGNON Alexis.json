@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a9f79e44-33ea-4a64-8fcb-370ca08e1e13",
+            "login": "alexis.quignon",
+            "displayName": "QUIGNON Alexis",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "109"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "QUIGNON Vincent",
+            "relatedId": "3eb36ec0-24fd-4be6-b979-22c3deab6255",
+            "relatedType": null,
+            "userId": "a9f79e44-33ea-4a64-8fcb-370ca08e1e13",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

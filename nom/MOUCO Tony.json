@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "2c8a0b35-174b-4db8-b103-eec93f2f0a8b",
+            "login": "tony.mouco",
+            "displayName": "MOUCO Tony",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "214"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MOUCO Alexandre",
+            "relatedId": "d75eb92e-fd84-4527-b452-45a226a5e8c0",
+            "relatedType": null,
+            "userId": "2c8a0b35-174b-4db8-b103-eec93f2f0a8b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "2c8a0b35-174b-4db8-b103-eec93f2f0a8b",
+            "login": "tony.mouco",
+            "displayName": "MOUCO Tony",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "214"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PEYRONNET Laeticia",
+            "relatedId": "4ad65897-11f8-4d02-bd42-a7b6433e9aa6",
+            "relatedType": null,
+            "userId": "2c8a0b35-174b-4db8-b103-eec93f2f0a8b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

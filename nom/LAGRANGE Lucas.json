@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3ce7e1c5-d6f9-4979-baff-31e3ad01e6cf",
+            "login": "lucas.lagrange",
+            "displayName": "LAGRANGE Lucas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LAGRANGE Caroline",
+            "relatedId": "267c21fb-7d04-4fe6-921f-5253e211dbd8",
+            "relatedType": null,
+            "userId": "3ce7e1c5-d6f9-4979-baff-31e3ad01e6cf",
+            "motto": "",
+            "photo": "/userbook/avatar/3ce7e1c5-d6f9-4979-baff-31e3ad01e6cf",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "3ce7e1c5-d6f9-4979-baff-31e3ad01e6cf",
+            "login": "lucas.lagrange",
+            "displayName": "LAGRANGE Lucas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LAGRANGE Arnaud",
+            "relatedId": "0732bc31-870f-4f75-a700-9e2bc6a1e285",
+            "relatedType": null,
+            "userId": "3ce7e1c5-d6f9-4979-baff-31e3ad01e6cf",
+            "motto": "",
+            "photo": "/userbook/avatar/3ce7e1c5-d6f9-4979-baff-31e3ad01e6cf",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

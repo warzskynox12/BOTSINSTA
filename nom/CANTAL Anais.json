@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a891f486-75ec-43b5-bb51-78e6ee0bfd9d",
+            "login": "anais.cantal",
+            "displayName": "CANTAL Anais",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CANTAL Akouba Laure",
+            "relatedId": "145743ce-e653-403d-addb-10c70da7515d",
+            "relatedType": null,
+            "userId": "a891f486-75ec-43b5-bb51-78e6ee0bfd9d",
+            "motto": "👍🏾",
+            "photo": "/userbook/avatar/a891f486-75ec-43b5-bb51-78e6ee0bfd9d",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a891f486-75ec-43b5-bb51-78e6ee0bfd9d",
+            "login": "anais.cantal",
+            "displayName": "CANTAL Anais",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CANTAL Christian",
+            "relatedId": "c411e719-182a-42a0-823e-1b43b92aaa58",
+            "relatedType": null,
+            "userId": "a891f486-75ec-43b5-bb51-78e6ee0bfd9d",
+            "motto": "👍🏾",
+            "photo": "/userbook/avatar/a891f486-75ec-43b5-bb51-78e6ee0bfd9d",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

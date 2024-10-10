@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1db16778-9f9d-4d71-9ede-93047e20c7b6",
+            "login": "axelle.florentiny",
+            "displayName": "FLORENTINY Axelle",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FLORENTINY Rodger",
+            "relatedId": "24956797-b84d-40f5-881b-af1d053aa7f6",
+            "relatedType": null,
+            "userId": "1db16778-9f9d-4d71-9ede-93047e20c7b6",
+            "motto": "",
+            "photo": "/userbook/avatar/1db16778-9f9d-4d71-9ede-93047e20c7b6",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "1db16778-9f9d-4d71-9ede-93047e20c7b6",
+            "login": "axelle.florentiny",
+            "displayName": "FLORENTINY Axelle",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "102"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FLORENTINY Sophie",
+            "relatedId": "a96a6ffa-ff53-4e78-9ad6-47fc1306e54f",
+            "relatedType": null,
+            "userId": "1db16778-9f9d-4d71-9ede-93047e20c7b6",
+            "motto": "",
+            "photo": "/userbook/avatar/1db16778-9f9d-4d71-9ede-93047e20c7b6",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

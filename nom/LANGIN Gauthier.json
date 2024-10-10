@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "645bfe6a-f64b-458f-bb6b-d4dfcd13527e",
+            "login": "gauthier.langin",
+            "displayName": "LANGIN Gauthier",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LANGIN Franck",
+            "relatedId": "7f44daa5-dc9d-424a-85f0-646bc2593492",
+            "relatedType": null,
+            "userId": "645bfe6a-f64b-458f-bb6b-d4dfcd13527e",
+            "motto": "",
+            "photo": "/userbook/avatar/645bfe6a-f64b-458f-bb6b-d4dfcd13527e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "645bfe6a-f64b-458f-bb6b-d4dfcd13527e",
+            "login": "gauthier.langin",
+            "displayName": "LANGIN Gauthier",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PRZYDRYGA Hélène",
+            "relatedId": "35ca4937-cf48-418b-af9b-9b0c6d4f1532",
+            "relatedType": null,
+            "userId": "645bfe6a-f64b-458f-bb6b-d4dfcd13527e",
+            "motto": "",
+            "photo": "/userbook/avatar/645bfe6a-f64b-458f-bb6b-d4dfcd13527e",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

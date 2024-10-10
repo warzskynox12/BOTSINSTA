@@ -1,0 +1,57 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d28912ee-19e8-4094-b9e8-a334ee599451",
+            "login": "enzo.barretolopes",
+            "displayName": "BARRETO LOPES Enzo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DE SOUSA BARRETO Soraia",
+            "relatedId": "fd3f1aae-a964-4750-bb70-e275e5fcec7a",
+            "relatedType": null,
+            "userId": "d28912ee-19e8-4094-b9e8-a334ee599451",
+            "motto": "",
+            "photo": "/userbook/avatar/d28912ee-19e8-4094-b9e8-a334ee599451",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "Muay-ThaÏ , Jiu-Jitsu "
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "La Cité de Dieu (2002)"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "Saque - MYSTIC (remix)"
+                }
+            ]
+        }
+    ]
+}

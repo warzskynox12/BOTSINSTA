@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "53763cac-5bf5-420c-87b5-f17d89eef3b7",
+            "login": "awa.tamba",
+            "displayName": "TAMBA Awa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TAMBA El Hadji",
+            "relatedId": "86033de0-916d-43a2-8b29-7b785fcd96f3",
+            "relatedType": null,
+            "userId": "53763cac-5bf5-420c-87b5-f17d89eef3b7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "53763cac-5bf5-420c-87b5-f17d89eef3b7",
+            "login": "awa.tamba",
+            "displayName": "TAMBA Awa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "TAMBA Khady",
+            "relatedId": "9bf949c1-42f4-4500-b186-6a28aecd089f",
+            "relatedType": null,
+            "userId": "53763cac-5bf5-420c-87b5-f17d89eef3b7",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

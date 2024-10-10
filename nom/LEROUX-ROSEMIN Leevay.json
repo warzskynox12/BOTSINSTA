@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "89dc5e57-a0a5-4327-adb3-51afb4e809dc",
+            "login": "leevay.lerouxrosemin",
+            "displayName": "LEROUX-ROSEMIN Leevay",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "203"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEROUX ERIKA Erika",
+            "relatedId": "c6b98578-3d41-46d5-92bd-cb9bef1fc604",
+            "relatedType": null,
+            "userId": "89dc5e57-a0a5-4327-adb3-51afb4e809dc",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

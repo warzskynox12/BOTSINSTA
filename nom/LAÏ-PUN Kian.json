@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d8102d5f-b551-435f-b21b-331aff193220",
+            "login": "kian.lai-pun",
+            "displayName": "LAÏ-PUN Kian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LAÏ-PUN François",
+            "relatedId": "e6c3131f-2cc8-400d-95ee-41a2a3f16718",
+            "relatedType": null,
+            "userId": "d8102d5f-b551-435f-b21b-331aff193220",
+            "motto": "ne jamais rien lâcher toujours persévéré",
+            "photo": "",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d8102d5f-b551-435f-b21b-331aff193220",
+            "login": "kian.lai-pun",
+            "displayName": "LAÏ-PUN Kian",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LAÏ-PUN Nathalie",
+            "relatedId": "2cf4d634-a36d-43e3-bc58-ec68a2a819f1",
+            "relatedType": null,
+            "userId": "d8102d5f-b551-435f-b21b-331aff193220",
+            "motto": "ne jamais rien lâcher toujours persévéré",
+            "photo": "",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

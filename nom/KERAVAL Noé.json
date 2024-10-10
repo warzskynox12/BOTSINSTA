@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "85712b32-8e3b-4dc2-a518-547ca6591a74",
+            "login": "noe.keraval",
+            "displayName": "KERAVAL Noé",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KERAVAL Thibaut",
+            "relatedId": "5a8be443-6241-463f-aa12-ab7c0f763307",
+            "relatedType": null,
+            "userId": "85712b32-8e3b-4dc2-a518-547ca6591a74",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "85712b32-8e3b-4dc2-a518-547ca6591a74",
+            "login": "noe.keraval",
+            "displayName": "KERAVAL Noé",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KERAVAL Sandrine",
+            "relatedId": "c56d7f4a-c9e2-4b3a-83c2-371e8f7c337d",
+            "relatedType": null,
+            "userId": "85712b32-8e3b-4dc2-a518-547ca6591a74",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

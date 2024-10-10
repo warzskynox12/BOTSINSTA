@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a37efa43-343b-4317-b702-5c03fec3ebd0",
+            "login": "heloise.valentepires",
+            "displayName": "VALENTE PIRES Héloise",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VALENTE PIRES Daniel",
+            "relatedId": "12dd0065-38d8-44ae-945f-62e570a50633",
+            "relatedType": null,
+            "userId": "a37efa43-343b-4317-b702-5c03fec3ebd0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a37efa43-343b-4317-b702-5c03fec3ebd0",
+            "login": "heloise.valentepires",
+            "displayName": "VALENTE PIRES Héloise",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG6"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VALENTE PIRES Tania",
+            "relatedId": "a4fb27ef-ab62-4758-994e-d34230ca3554",
+            "relatedType": null,
+            "userId": "a37efa43-343b-4317-b702-5c03fec3ebd0",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

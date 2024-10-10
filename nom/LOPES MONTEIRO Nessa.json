@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1753f09c-b6a1-4b8a-ad0a-037efeef0e89",
+            "login": "nessa.lopesmonteiro",
+            "displayName": "LOPES MONTEIRO Nessa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LOPES TAVARES Ivaldina",
+            "relatedId": "04e6ee15-d29f-4ff1-856e-9c24f90086c6",
+            "relatedType": null,
+            "userId": "1753f09c-b6a1-4b8a-ad0a-037efeef0e89",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "1753f09c-b6a1-4b8a-ad0a-037efeef0e89",
+            "login": "nessa.lopesmonteiro",
+            "displayName": "LOPES MONTEIRO Nessa",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MONTEIRO ALMEIDA Evanildo",
+            "relatedId": "aab47577-2f29-44b2-b268-c2c2444e5c22",
+            "relatedType": null,
+            "userId": "1753f09c-b6a1-4b8a-ad0a-037efeef0e89",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

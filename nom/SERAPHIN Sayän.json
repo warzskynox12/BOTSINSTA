@@ -1,0 +1,139 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3d79d072-a170-4cb2-94e8-7e1a5d4a5e96",
+            "login": "sayan.seraphin",
+            "displayName": "SERAPHIN Sayän",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SERAPHIN Christophe",
+            "relatedId": "59cf0164-a54f-4d7c-9c56-ae317f68ebbe",
+            "relatedType": null,
+            "userId": "3d79d072-a170-4cb2-94e8-7e1a5d4a5e96",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "j'sait pas nager"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "ntm"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Je les baises"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "le son des fouets"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "ntm"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "j'sait pas lire j'suis qu'un sale noir"
+                }
+            ]
+        },
+        {
+            "id": "3d79d072-a170-4cb2-94e8-7e1a5d4a5e96",
+            "login": "sayan.seraphin",
+            "displayName": "SERAPHIN Sayän",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TBTS"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "FRECHENGUES Elodie",
+            "relatedId": "372cb969-eb62-479e-93ae-dfffd300eed8",
+            "relatedType": null,
+            "userId": "3d79d072-a170-4cb2-94e8-7e1a5d4a5e96",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": [
+                {
+                    "visibility": "PUBLIC",
+                    "category": "sport",
+                    "values": "j'sait pas nager"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "cinema",
+                    "values": "ntm"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "animals",
+                    "values": "Je les baises"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "music",
+                    "values": "le son des fouets"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "places",
+                    "values": "ntm"
+                },
+                {
+                    "visibility": "PUBLIC",
+                    "category": "books",
+                    "values": "j'sait pas lire j'suis qu'un sale noir"
+                }
+            ]
+        }
+    ]
+}

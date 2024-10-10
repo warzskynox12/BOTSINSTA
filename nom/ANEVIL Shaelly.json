@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "aafa8799-86b1-4c52-93f9-82a8ff3fe69b",
+            "login": "shaelly.anevil",
+            "displayName": "ANEVIL Shaelly",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "201"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "EXANTUS Denise",
+            "relatedId": "ed6342e1-de3f-44ca-813f-dd019e321e65",
+            "relatedType": null,
+            "userId": "aafa8799-86b1-4c52-93f9-82a8ff3fe69b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

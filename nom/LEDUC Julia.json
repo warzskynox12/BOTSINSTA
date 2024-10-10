@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0fef341c-cf5d-4c7d-be85-ebdbbc6ddd54",
+            "login": "julia.leduc",
+            "displayName": "LEDUC Julia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LEDUC Olivier",
+            "relatedId": "1033007d-17f2-4d84-b514-0369f2a83f45",
+            "relatedType": null,
+            "userId": "0fef341c-cf5d-4c7d-be85-ebdbbc6ddd54",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0fef341c-cf5d-4c7d-be85-ebdbbc6ddd54",
+            "login": "julia.leduc",
+            "displayName": "LEDUC Julia",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "209"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "RICHARD Stephanie",
+            "relatedId": "c9a2de9e-99c8-4d40-8d73-ef8f8b5a2b2c",
+            "relatedType": null,
+            "userId": "0fef341c-cf5d-4c7d-be85-ebdbbc6ddd54",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a0524dfb-ed3d-4aad-a851-b61a05fb1e6e",
+            "login": "jalane.le",
+            "displayName": "LE Jalane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE Corinne",
+            "relatedId": "56cf480f-1bda-4ddc-8e09-ce9c092a497a",
+            "relatedType": null,
+            "userId": "a0524dfb-ed3d-4aad-a851-b61a05fb1e6e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a0524dfb-ed3d-4aad-a851-b61a05fb1e6e",
+            "login": "jalane.le",
+            "displayName": "LE Jalane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG4"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE Tien",
+            "relatedId": "fe637cbe-cb4f-4f9e-bbaf-8f9b3c310296",
+            "relatedType": null,
+            "userId": "a0524dfb-ed3d-4aad-a851-b61a05fb1e6e",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

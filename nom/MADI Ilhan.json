@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "dae3bdc9-fb89-4db9-93ca-e7aaa86a1411",
+            "login": "ilhan.madi",
+            "displayName": "MADI Ilhan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MADI Houcine",
+            "relatedId": "64594d4b-9e3f-48cd-8597-37340fc8a351",
+            "relatedType": null,
+            "userId": "dae3bdc9-fb89-4db9-93ca-e7aaa86a1411",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "dae3bdc9-fb89-4db9-93ca-e7aaa86a1411",
+            "login": "ilhan.madi",
+            "displayName": "MADI Ilhan",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MADI Zahia",
+            "relatedId": "fe75450c-5ea5-40a6-9ede-b29699270f04",
+            "relatedType": null,
+            "userId": "dae3bdc9-fb89-4db9-93ca-e7aaa86a1411",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

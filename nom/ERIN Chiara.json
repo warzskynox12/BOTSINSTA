@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1d499cdd-020b-4ded-a64c-2a08121dfb4e",
+            "login": "chiara.erin",
+            "displayName": "ERIN Chiara",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ERIN William",
+            "relatedId": "3bdae548-3227-4384-9428-f9bbf0998064",
+            "relatedType": null,
+            "userId": "1d499cdd-020b-4ded-a64c-2a08121dfb4e",
+            "motto": "",
+            "photo": "/userbook/avatar/1d499cdd-020b-4ded-a64c-2a08121dfb4e",
+            "mood": "proud",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "1d499cdd-020b-4ded-a64c-2a08121dfb4e",
+            "login": "chiara.erin",
+            "displayName": "ERIN Chiara",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG7"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LOMBINO Vanessa",
+            "relatedId": "a9171aa3-8c3c-4c78-8d4f-7a46255b7745",
+            "relatedType": null,
+            "userId": "1d499cdd-020b-4ded-a64c-2a08121dfb4e",
+            "motto": "",
+            "photo": "/userbook/avatar/1d499cdd-020b-4ded-a64c-2a08121dfb4e",
+            "mood": "proud",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

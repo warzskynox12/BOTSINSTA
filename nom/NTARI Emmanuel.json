@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0e416452-78fd-4bce-9d58-173ce38fdd28",
+            "login": "emmanuel.ntari",
+            "displayName": "NTARI Emmanuel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D3"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "KOUKEBISSA Rosine",
+            "relatedId": "f433d9bc-9a8a-4551-b0a0-cf1fc074f68f",
+            "relatedType": null,
+            "userId": "0e416452-78fd-4bce-9d58-173ce38fdd28",
+            "motto": "",
+            "photo": "",
+            "mood": "angry",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

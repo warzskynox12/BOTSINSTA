@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d831404f-8c4f-4da0-8a10-a3feab97f76b",
+            "login": "leane.herlin",
+            "displayName": "HERLIN Léane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DELAGE Audrey",
+            "relatedId": "7a244217-ff71-4a6c-91de-81af03f3db19",
+            "relatedType": null,
+            "userId": "d831404f-8c4f-4da0-8a10-a3feab97f76b",
+            "motto": "",
+            "photo": "",
+            "mood": "love",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "d831404f-8c4f-4da0-8a10-a3feab97f76b",
+            "login": "leane.herlin",
+            "displayName": "HERLIN Léane",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TG1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "HERLIN David",
+            "relatedId": "78c642e1-1a26-419f-9ff2-bc1983e4ddb2",
+            "relatedType": null,
+            "userId": "d831404f-8c4f-4da0-8a10-a3feab97f76b",
+            "motto": "",
+            "photo": "",
+            "mood": "love",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

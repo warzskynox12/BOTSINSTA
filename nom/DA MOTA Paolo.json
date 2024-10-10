@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a0080888-c7a4-47eb-b5de-b70b8343d428",
+            "login": "paolo.damota",
+            "displayName": "DA MOTA Paolo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DA MOTA Jean-Paul",
+            "relatedId": "a917784f-5f5f-4774-8009-d4e3901449a3",
+            "relatedType": null,
+            "userId": "a0080888-c7a4-47eb-b5de-b70b8343d428",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a0080888-c7a4-47eb-b5de-b70b8343d428",
+            "login": "paolo.damota",
+            "displayName": "DA MOTA Paolo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ANDRE Elisa",
+            "relatedId": "96933b32-5831-44db-98d3-17b356ca4248",
+            "relatedType": null,
+            "userId": "a0080888-c7a4-47eb-b5de-b70b8343d428",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "84541631-cd43-43ee-8760-2f3f848f0009",
+            "login": "faustas.stundze",
+            "displayName": "STUNDZE Faustas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "STUNDZE Vidas",
+            "relatedId": "14fd9cbd-20e6-40ab-bf7e-a88cfad6c9e5",
+            "relatedType": null,
+            "userId": "84541631-cd43-43ee-8760-2f3f848f0009",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "84541631-cd43-43ee-8760-2f3f848f0009",
+            "login": "faustas.stundze",
+            "displayName": "STUNDZE Faustas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1STI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "STUNDZIENE Aurélia",
+            "relatedId": "dcf6b071-a194-4c2d-b847-a637e076c89d",
+            "relatedType": null,
+            "userId": "84541631-cd43-43ee-8760-2f3f848f0009",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "c55d9282-74b9-45f0-9117-fe09d102db74",
+            "login": "sylvain.petit-laumonier",
+            "displayName": "PETIT-LAUMONIER Sylvain",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PETIT-LAUMONIER Stéphane",
+            "relatedId": "e8021809-025a-4283-9675-a3a1f061c506",
+            "relatedType": null,
+            "userId": "c55d9282-74b9-45f0-9117-fe09d102db74",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "c55d9282-74b9-45f0-9117-fe09d102db74",
+            "login": "sylvain.petit-laumonier",
+            "displayName": "PETIT-LAUMONIER Sylvain",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PETIT-LAUMONIER Christine",
+            "relatedId": "ec85a726-c218-4734-8301-7b7c6c955865",
+            "relatedType": null,
+            "userId": "c55d9282-74b9-45f0-9117-fe09d102db74",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

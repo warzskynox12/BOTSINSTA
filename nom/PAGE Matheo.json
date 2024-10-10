@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "85fbab3e-67b5-465b-be12-4fbb235b42a1",
+            "login": "matheo.page",
+            "displayName": "PAGE Matheo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PAGE Sandrine",
+            "relatedId": "1d12e49c-eda4-4eff-a817-5f142bc56c69",
+            "relatedType": null,
+            "userId": "85fbab3e-67b5-465b-be12-4fbb235b42a1",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "85fbab3e-67b5-465b-be12-4fbb235b42a1",
+            "login": "matheo.page",
+            "displayName": "PAGE Matheo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "PAGE Olivier",
+            "relatedId": "59149c0d-1acf-47a7-8f72-12dd45dc8ae6",
+            "relatedType": null,
+            "userId": "85fbab3e-67b5-465b-be12-4fbb235b42a1",
+            "motto": "",
+            "photo": "",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

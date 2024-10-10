@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "21632583-b984-4ffa-985c-149903d0ad19",
+            "login": "eden.mackelekombo",
+            "displayName": "MACKELE KOMBO Eden",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DAMBA Landry",
+            "relatedId": "b4df1ac4-7150-4571-ba89-f47c4b0ab45a",
+            "relatedType": null,
+            "userId": "21632583-b984-4ffa-985c-149903d0ad19",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "21632583-b984-4ffa-985c-149903d0ad19",
+            "login": "eden.mackelekombo",
+            "displayName": "MACKELE KOMBO Eden",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "206"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MACKELE KOMBO Wenceslas Régis",
+            "relatedId": "d4bd46b4-7a60-4333-b865-d73f5d2cb667",
+            "relatedType": null,
+            "userId": "21632583-b984-4ffa-985c-149903d0ad19",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

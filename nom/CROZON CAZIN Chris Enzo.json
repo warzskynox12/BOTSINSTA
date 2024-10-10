@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "086593f0-65a8-4273-9ad5-868913993e0d",
+            "login": "chrisenzo.crozoncazin",
+            "displayName": "CROZON CAZIN Chris Enzo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CROZON CAZIN Nanette",
+            "relatedId": "755c08a2-bb70-4922-b181-57d7ad5578ae",
+            "relatedType": null,
+            "userId": "086593f0-65a8-4273-9ad5-868913993e0d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "086593f0-65a8-4273-9ad5-868913993e0d",
+            "login": "chrisenzo.crozoncazin",
+            "displayName": "CROZON CAZIN Chris Enzo",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "CROZON CAZIN Maixent",
+            "relatedId": "fd67a716-e87e-44aa-94ac-2bd0e320e215",
+            "relatedType": null,
+            "userId": "086593f0-65a8-4273-9ad5-868913993e0d",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

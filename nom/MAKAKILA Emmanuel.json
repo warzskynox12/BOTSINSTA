@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "28c67773-3ff4-4d4e-9181-aecb1f2394b3",
+            "login": "emmanuel.makakila",
+            "displayName": "MAKAKILA Emmanuel",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "AFFIAN Affouomou Elisée",
+            "relatedId": "4a311b22-9452-4068-8f5e-37630e4bcb58",
+            "relatedType": null,
+            "userId": "28c67773-3ff4-4d4e-9181-aecb1f2394b3",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

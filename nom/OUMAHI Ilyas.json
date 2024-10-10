@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "3af923fc-e970-4ec9-aa1b-7431362df115",
+            "login": "ilyas.oumahi",
+            "displayName": "OUMAHI Ilyas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "SID Naïma",
+            "relatedId": "ff0c6c69-aa00-4566-8b36-da58fbfd7976",
+            "relatedType": null,
+            "userId": "3af923fc-e970-4ec9-aa1b-7431362df115",
+            "motto": "",
+            "photo": "/userbook/avatar/3af923fc-e970-4ec9-aa1b-7431362df115",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "3af923fc-e970-4ec9-aa1b-7431362df115",
+            "login": "ilyas.oumahi",
+            "displayName": "OUMAHI Ilyas",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "OUMAHI Mohamed",
+            "relatedId": "e345dffb-4c2d-4c3a-a05a-cd27f0eff987",
+            "relatedType": null,
+            "userId": "3af923fc-e970-4ec9-aa1b-7431362df115",
+            "motto": "",
+            "photo": "/userbook/avatar/3af923fc-e970-4ec9-aa1b-7431362df115",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

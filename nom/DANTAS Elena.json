@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "1f5aba75-bdc2-4043-802d-7dc20bb49ecd",
+            "login": "elena.dantas",
+            "displayName": "DANTAS Elena",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "106"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "VILPELLET Audrey",
+            "relatedId": "bc85a8cd-6bdd-4633-b886-08da74ab7ac4",
+            "relatedType": null,
+            "userId": "1f5aba75-bdc2-4043-802d-7dc20bb49ecd",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

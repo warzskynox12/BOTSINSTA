@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "03abb234-2960-4e24-a648-8fff23d51727",
+            "login": "engincan.pala",
+            "displayName": "PALA Engin Can",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "TSTI2D2"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "ASLAN Gulderen",
+            "relatedId": "86c965dc-dca6-40bd-87e3-f796ad351cb4",
+            "relatedType": null,
+            "userId": "03abb234-2960-4e24-a648-8fff23d51727",
+            "motto": "",
+            "photo": "/userbook/avatar/03abb234-2960-4e24-a648-8fff23d51727",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

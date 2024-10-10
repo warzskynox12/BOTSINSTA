@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "0dda11b8-e147-456d-8298-bd329989a78b",
+            "login": "ylenamartinegloria.methivierdeoliveira",
+            "displayName": "METHIVIER DE OLIVEIRA Ylena Martine Gloria",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "DE OLIVEIRA Alexandra",
+            "relatedId": "d9c8fc86-f3bc-4574-84ae-63b33e1b5d8c",
+            "relatedType": null,
+            "userId": "0dda11b8-e147-456d-8298-bd329989a78b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "0dda11b8-e147-456d-8298-bd329989a78b",
+            "login": "ylenamartinegloria.methivierdeoliveira",
+            "displayName": "METHIVIER DE OLIVEIRA Ylena Martine Gloria",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "METHIVIER Julien",
+            "relatedId": "865fe374-1c63-48a5-ba40-f5ce6648aa45",
+            "relatedType": null,
+            "userId": "0dda11b8-e147-456d-8298-bd329989a78b",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

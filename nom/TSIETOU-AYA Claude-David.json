@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "d8b17fef-571e-4b1c-a128-de8367741aa5",
+            "login": "claude-david.tsietou-aya",
+            "displayName": "TSIETOU-AYA Claude-David",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "NGUIE Jackie - Laure",
+            "relatedId": "f3d87d91-22d4-4215-bcbb-16e17f90c53c",
+            "relatedType": null,
+            "userId": "d8b17fef-571e-4b1c-a128-de8367741aa5",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

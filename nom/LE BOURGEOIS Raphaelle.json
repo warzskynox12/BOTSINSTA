@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "24e677dd-8943-44d1-b008-ac6273a60949",
+            "login": "raphaelle.lebourgeois",
+            "displayName": "LE BOURGEOIS Raphaelle",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "208"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "LE BOURGEOIS Sixtine",
+            "relatedId": "8b5f1a5a-bce2-475c-b39f-ad6461ca7809",
+            "relatedType": null,
+            "userId": "24e677dd-8943-44d1-b008-ac6273a60949",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

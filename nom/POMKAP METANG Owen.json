@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "a9b97a68-92db-4ad9-bb38-623320833f34",
+            "login": "owen.pomkapmetang",
+            "displayName": "POMKAP METANG Owen",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "POMKAP METANG Yves",
+            "relatedId": "b3980ab1-c7d3-48c3-9a13-85db13b5ce4a",
+            "relatedType": null,
+            "userId": "a9b97a68-92db-4ad9-bb38-623320833f34",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "a9b97a68-92db-4ad9-bb38-623320833f34",
+            "login": "owen.pomkapmetang",
+            "displayName": "POMKAP METANG Owen",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "1ST12D1"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "MARIE-SAINTE Myriam",
+            "relatedId": "775dd569-b877-4047-94cb-9cffcb4c65a2",
+            "relatedType": null,
+            "userId": "a9b97a68-92db-4ad9-bb38-623320833f34",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}

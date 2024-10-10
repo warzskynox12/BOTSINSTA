@@ -1,0 +1,77 @@
+{
+    "status": "ok",
+    "result": [
+        {
+            "id": "f7e98880-6bb7-47bd-87e6-1d1ae93144d1",
+            "login": "ema.bouchet",
+            "displayName": "BOUCHET Ema",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUCHET Franck",
+            "relatedId": "e8a84964-7d0f-47bf-aa96-26c4a330873d",
+            "relatedType": null,
+            "userId": "f7e98880-6bb7-47bd-87e6-1d1ae93144d1",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        },
+        {
+            "id": "f7e98880-6bb7-47bd-87e6-1d1ae93144d1",
+            "login": "ema.bouchet",
+            "displayName": "BOUCHET Ema",
+            "type": [
+                "Student"
+            ],
+            "visibleInfos": [],
+            "schools": [
+                {
+                    "exports": [
+                        "GAR-J0"
+                    ],
+                    "classes": [
+                        "108"
+                    ],
+                    "name": "LGT-EDMOND MICHELET-ARPAJON",
+                    "id": "f643946c-2392-4c04-8c82-0ed2f4925c1e",
+                    "UAI": "0911961M"
+                }
+            ],
+            "relatedName": "BOUCHET Masayo",
+            "relatedId": "9da6d23b-66e7-493f-be27-28198205c130",
+            "relatedType": null,
+            "userId": "f7e98880-6bb7-47bd-87e6-1d1ae93144d1",
+            "motto": "",
+            "photo": "no-avatar.jpg",
+            "mood": "default",
+            "health": "",
+            "address": "",
+            "email": "",
+            "tel": "",
+            "mobile": "",
+            "birthdate": "",
+            "hobbies": []
+        }
+    ]
+}
