@@ -11,9 +11,9 @@ url = "https://ent.iledefrance.fr/communication/visible"
 
 # En-têtes HTTP
 headers = {
-    "Cookie": "csrfstate=713ec777-49b7-4871-b042-f5fe49cc230c:N3US3PE+30qHBCcnkyDiosRBNfQ=; nonce=8a97b83e-2727-43f9-bd7f-cb0f0f200f29:8zFiokfCkOPAnU3o9lFkP9FDz40=; __cf_bm=1xVilYUG9OjkkMVUJucdx4GG5SrnYrzkHsIf1Frvidw-1728550933-1.0.1.1-uPY2Qli1Vq6.pFgTI.qK2mpz5XGAq9TGLnm4E47w2DW8bbdrrEVqWpIir11MzDKpJeQ263Sc4tduVjyTit5ISw; oneSessionId=3c80a3d3-2dab-4c1d-915e-a186982e6712:y2HMtoNTepPm4PK96UMn1GLM3LI=; authenticated=true; XSRF-TOKEN=0b173fa9-8f47-4cf5-a7c1-8fcdeae9d3d2; webviewignored=true:n33DiVTcIrbMCxJAnib1VOoDer0=",
+    "Cookie": "webviewignored=true:n33DiVTcIrbMCxJAnib1VOoDer0=; __cf_bm=6y0KDeKAkW6lvyvHDDggu20KM0Et5gYPFVIGTmyXhY0-1728570211-1.0.1.1-2Ngc0XoaaS7HcZCdH8nX6J6k5.4RKqTdXmcAo5L2carUWulqHpvosI4WFYb2grbPJor6spWaja90IOBkgAKHEQ; csrfstate=c0d1e53e-fe0a-4e06-990f-946d08057cc9:3NINcSco8wMZSvcDD/Eb2KCg24o=; nonce=72bf09b7-0e39-4e57-ad47-00d2cc3e3257:YP9NKZ4BjgoRZTdfHFqhfA63v6M=; oneSessionId=23afffd9-78cc-46fc-8774-441d73481d09:zonLK0/WPS31OxNYcUH+1BQwHJU=; authenticated=true; XSRF-TOKEN=66fa69fa-0e24-4499-adaf-643d80da3663",
     "Sec-Ch-Ua-Platform": "\"Windows\"",
-    "X-Xsrf-Token": "0b173fa9-8f47-4cf5-a7c1-8fcdeae9d3d2",
+    "X-Xsrf-Token": "66fa69fa-0e24-4499-adaf-643d80da3663",
     "Accept-Language": "fr-FR,fr;q=0.9",
     "Sec-Ch-Ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
     "Sec-Ch-Ua-Mobile": "?0",
@@ -103,9 +103,9 @@ if isinstance(response_data, list):
             "type": "undefined"
         }
         headers = {
-            "Cookie": "csrfstate=713ec777-49b7-4871-b042-f5fe49cc230c:N3US3PE+30qHBCcnkyDiosRBNfQ=; nonce=8a97b83e-2727-43f9-bd7f-cb0f0f200f29:8zFiokfCkOPAnU3o9lFkP9FDz40=; __cf_bm=1xVilYUG9OjkkMVUJucdx4GG5SrnYrzkHsIf1Frvidw-1728550933-1.0.1.1-uPY2Qli1Vq6.pFgTI.qK2mpz5XGAq9TGLnm4E47w2DW8bbdrrEVqWpIir11MzDKpJeQ263Sc4tduVjyTit5ISw; oneSessionId=3c80a3d3-2dab-4c1d-915e-a186982e6712:y2HMtoNTepPm4PK96UMn1GLM3LI=; authenticated=true; XSRF-TOKEN=0b173fa9-8f47-4cf5-a7c1-8fcdeae9d3d2; webviewignored=true:n33DiVTcIrbMCxJAnib1VOoDer0=",
+            "Cookie": "webviewignored=true:n33DiVTcIrbMCxJAnib1VOoDer0=; __cf_bm=6y0KDeKAkW6lvyvHDDggu20KM0Et5gYPFVIGTmyXhY0-1728570211-1.0.1.1-2Ngc0XoaaS7HcZCdH8nX6J6k5.4RKqTdXmcAo5L2carUWulqHpvosI4WFYb2grbPJor6spWaja90IOBkgAKHEQ; csrfstate=c0d1e53e-fe0a-4e06-990f-946d08057cc9:3NINcSco8wMZSvcDD/Eb2KCg24o=; nonce=72bf09b7-0e39-4e57-ad47-00d2cc3e3257:YP9NKZ4BjgoRZTdfHFqhfA63v6M=; oneSessionId=23afffd9-78cc-46fc-8774-441d73481d09:zonLK0/WPS31OxNYcUH+1BQwHJU=; authenticated=true; XSRF-TOKEN=66fa69fa-0e24-4499-adaf-643d80da3663",
             "Sec-Ch-Ua-Platform": "\"Windows\"",
-            "X-Xsrf-Token": "0b173fa9-8f47-4cf5-a7c1-8fcdeae9d3d2",
+            "X-Xsrf-Token": "66fa69fa-0e24-4499-adaf-643d80da3663",
             "Accept-Language": "fr-FR,fr;q=0.9",
             "Accept": "application/json, text/plain, */*",
             "Sec-Ch-Ua": "\"Chromium\";v=\"129\", \"Not=A?Brand\";v=\"8\"",
@@ -120,9 +120,24 @@ if isinstance(response_data, list):
         }
 
         response = requests.get(url, headers=headers, params=params)
-        reponse_data = response.json()
-        for result in response_data.get("results", []):
-            for school in reponse_data.get("schools", []):
-                for classe in school.get("classes", []):
-                    print(f"{displayname} est dans la classe {classe['name']}")
-
+        if response.status_code == 200: 
+            person_data = response.json()
+            results = person_data.get("result", [])
+            if results:
+                person = results[0]
+                person_id = person.get("id")
+                displayname = person.get("displayName")
+                schools = person.get("schools", [])
+                if schools:
+                    classes = schools[0].get("classes", [])
+                    # Ajouter ou mettre à jour la classe pour chaque ID
+                    if classes:
+                        class_name = classes[0]
+                        with open(f"classe/{class_name}.json", "a", encoding="utf-8") as f:
+                            json.dump({"displayName": displayname,}, f, ensure_ascii=False, indent=4)
+                        with open("classes.json", "a", encoding="utf-8") as f:
+                            json.dump({"displayName": displayname, "classes": class_name}, f, ensure_ascii=False, indent=4)
+                        print(f"{displayname}; {class_name}")
+        else:
+            print(f"Erreur lors de la requête : {response.status_code}")
+    print("Fin du script.")
